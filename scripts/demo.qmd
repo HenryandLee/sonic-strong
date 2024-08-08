@@ -1,0 +1,39 @@
+---
+title: "prelim-hypo"
+format: html
+editor: visual
+---
+
+## Summary
+
+This is a document of code for testing preliminary hypotheses using basic descriptive network analysis.
+
+## Library
+```{r setup}
+library(here)
+setwd(here("projects", "STRONG", "SNA"))
+```
+
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(googledrive)
+library(janitor)
+library(labelled)
+library(stringr)
+library(magrittr)
+library(forcats)
+
+# nets
+library(igraph)
+library(tidygraph)
+library(ggraph)
+library(goldfish)
+
+# plots
+library(wesanderson)
+library(ggdist)
+
+source(file = "functions.R")
+```
+

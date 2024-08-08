@@ -17,7 +17,7 @@ purpose:
 
 ```{r}
 library(dplyr) 
-library(tidyr) 
+library(tidyr)
 ```
 
 ## replace file directory

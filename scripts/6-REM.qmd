@@ -1,0 +1,450 @@
+---
+title: "ERGM with Vero"
+format: html
+editor: visual
+---
+
+## Libraries
+
+```{r setup}
+# library(here)
+# setwd(here("projects", "STRONG", "SNA"))
+```
+
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(googledrive)
+library(janitor)
+library(labelled)
+library(stringr)
+library(magrittr)
+library(forcats)
+
+
+# nets
+library(igraph)
+library(tidygraph)
+library(ggraph)
+library(goldfish)
+
+# plots
+library(wesanderson)
+library(ggdist)
+
+source(file = "functions.R")
+```
+
+```{r}
+spring_transcript <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1f1EjQNYmwO34luYwtiLWd-swshxRyGeGE0lszu5sZHI/edit?usp=share_link",
+  col_types  = "cncncccn"
+)
+
+
+winter_transcript <- read_sheet("https://docs.google.com/spreadsheets/d/1Gmdge3RDo6UE0zLAnuEeBrfjLUffft0HRdhnlCsiwsg/edit?usp=sharing",
+                                col_types  = "cncncccn")
+
+performance_scores <- read_sheet("https://docs.google.com/spreadsheets/d/1zfer8f8TQ2hKz5ux0f_vSunyQT7_Him2czJ5LvJyJPE/edit?usp=share_link",
+                                 col_types = "cnnnnnnnnnnnnnnnnnnnnnnnnnn") |>
+        rename(id = PID)
+
+
+meta_ego <- read_csv("data/meta_ego.csv") |>
+        mutate(gender_ego = gender_ego |> as.character(),
+               race_ego = race_ego |> as.character(),
+               nationality_ego = case_when(
+                       nationality_ego == "USA" ~ "USA",
+                       TRUE ~ "non_USA"
+               ),
+               education_ego = education_ego |>
+                       fct_relevel("highschool/GED", "vocational training", "some college", "associate degree", "bachelors degree", "masters", "professional degree", "phd") |>
+                       as.numeric()
+        )
+
+df_ego_chars <- read_csv("data/df_sna_chars.csv") %>%
+        replace(is.na(.), 0)
+
+df_teams_clean <- read_csv("data/df_teams_clean.csv") |>
+  mutate(self_leader = self_leader |> as.character()) |>
+  mutate(self_leader_2 = self_leader_2 |> as.character()) |>
+  mutate(self_leader_3 = self_leader_3 |> as.character())
+
+full_transcript <- winter_transcript |>
+  bind_rows(spring_transcript) |>
+  # group_by(`file-name`) |>
+  # distinct(id, .keep_all = TRUE) |>
+  # ungroup() |>
+  distinct() |>
+  mutate(user_id = user |> str_extract("\\d+") |> as.character()) |>
+  mutate(user_id = case_when(
+    user == "Vero" ~ lag(user_id),
+    user_id == "342" ~ "342 (392)",
+    user_id == "160" ~ "956 (160)",
+    user_id == "840" ~ "769 (840)",
+    TRUE ~ user_id
+  )) |>
+  left_join(df_teams_clean |>
+              select(id, Team_id) |>
+              distinct(), by = c("user_id" = "id")) |>
+  mutate(user_id = case_when(
+    user == "Vero" ~ str_c("vero", Team_id),
+    TRUE ~ user_id
+  ))|>
+  separate(time, into = c("min", "sec", "nanosec"), sep = ":") |>
+  mutate(time = as.numeric(min)*60 + as.numeric(sec)) |>
+  mutate(condition = Team_id |>
+    stringi::stri_sub(1, 1)) |>
+  mutate(condition = condition |> factor(labels  = c("taskwork", "teamwork", "combined", "unleashed"))) |>
+  mutate(round = `file-name` |> str_extract("(?i)(?<=round\\D)\\d+")) |>
+  mutate(is_vero = user |> str_detect("Vero")) |>
+  group_by(Team_id, round) |>
+  mutate(user_id2 = lag(user_id)) |> ungroup() |> ungroup()
+
+full_transcript |>  write_csv("data/full_transcript.csv")
+
+df_teams_clean |>
+  arrange(id, alter_id) |>
+  filter(remove_team == 0) |>
+  select(id, alter_id, Team_id) |>
+  pivot_longer(cols = c(id, alter_id), values_to = "ego_id") |>
+  select(ego_id, Team_id) |>
+  arrange(ego_id, Team_id) |>
+  distinct() |> 
+  filter(ego_id != "AI")-> ego_team
+```
+
+```{r}
+messages <- full_transcript |>
+        select(user_id, user_id2, time, Team_id, condition, round) |>
+        mutate(increment = 1)|>
+        rename(sender = user_id, receiver = user_id2) |>
+        filter(sender != receiver) |>
+        select(time, sender, receiver, increment, Team_id, condition, round) |>
+        na.omit()
+
+v_teams <- messages |> pull(Team_id) |> unique()
+
+
+actors_all <- ego_team |>
+  left_join(meta_ego, by = c("ego_id" = "id")) |>
+  rename(label = ego_id) |>
+  mutate(present = TRUE)|>
+  select(label, present, everything()) |>
+        mutate(is_vero = str_detect(label, "vero") |> as.numeric())
+
+actors_all
+
+selected_team <- v_teams[1]
+
+messages |>
+  filter(Team_id == selected_team) |>
+  filter(round != "1") |>
+  select(time, sender, receiver, increment) |>
+  arrange(time) |>
+  as.data.frame() -> messages_1
+
+actors_all |>
+  filter(Team_id == selected_team) -> actors_1
+
+
+actors_1
+```
+
+```{r}
+
+messageNetwork <- defineNetwork(nodes = actors_1, directed = TRUE) |> # 1
+        linkEvents(changeEvent = messages_1, nodes = actors_1) # 2
+
+# 3
+messageDependent <- defineDependentEvents(
+        events = messages_1, nodes = actors_1,
+        defaultNetwork = messageNetwork
+)
+
+simpleFormulaChoice <- messageDependent ~ outdeg +
+        sim(actors_1$age_ego) + diff(actors_1$education_ego) +
+        diff(actors_1$is_vero) +
+        commonSender+
+        recip
+# 4
+mod001Choice <- estimate(
+        simpleFormulaChoice,
+        model = "DyNAM", subModel = "choice"
+)
+
+summary(mod001Choice)
+?estimate
+m1_summary <- summary(mod001Choice)
+
+m1_summary$coefMat |>
+  as.data.frame() %>%
+  mutate(variable = rownames(.),
+         team = selected_team) -> m1_output
+
+m1_output
+```
+
+```{r}
+
+m1_output = tibble(NULL)
+
+# selected_team = "3_7_12"
+for (selected_team in v_teams) { #v_teams[-1]){
+  try({
+  print(selected_team)
+    messages |>
+      filter(Team_id == selected_team) |>
+      filter(round != "1") |>
+      select(time, sender, receiver, increment) |>
+      arrange(time) |>
+      as.data.frame() -> messages_t
+
+    actors_all |>
+      filter(Team_id == selected_team) -> actors_t
+
+    messageNetwork_t <- defineNetwork(nodes = actors_t, directed = TRUE) |> # 1
+      linkEvents(changeEvent = messages_t, nodes = actors_t) # 2
+    # 3
+    messageDependent_t <- defineDependentEvents(
+      events = messages_t, nodes = actors_t,
+      defaultNetwork = messageNetwork_t
+    )
+    # 4
+    simpleFormulaChoice_t <- messageDependent_t ~ 
+      # alter(actors_t$education_ego)+
+      outdeg() +
+      diff(actors_t$is_vero)+
+      commonReceiver()+
+      #tie()+
+      inertia() + 
+      recip()+
+      nodeTrans()+
+      cycle()
+    # 5
+    modChoice_t <- estimate(
+            simpleFormulaChoice_t,
+      model = "DyNAM", subModel = "choice"
+    )
+
+    m_summary_t <- summary(modChoice_t)
+
+    m_summary_t$coefMat |>
+      as.data.frame() %>%
+      mutate(variable = rownames(.),
+             team = selected_team) -> m_output_t
+
+    m_output_t |>
+      bind_rows(m1_output) -> m1_output
+
+  })
+
+}
+
+# m1_output <- m1_output |> filter(team != "2_3_1")
+
+write_csv(m1_output, "m2_output.csv")
+
+read_csv("m2_output.csv")
+
+m_summary_t
+```
+
+```{r}
+
+```
+
+```{r}
+m1_output <- read_csv("m2_output.csv")
+```
+
+```{r}
+tibble(v_teams = v_teams) |> 
+  filter(!v_teams %in% m1_output$team)
+```
+
+```{r}
+m1_output |>
+        rename(p_value = "Pr(>|z|)",
+               z_value = "z-value") |>
+        # mutate(Estimate = case_when(
+        #         p_value < 0.05 ~ Estimate,
+        #         TRUE ~ 0
+        # )) |>
+        select(team, variable, Estimate) |> 
+        pivot_wider(names_from = variable, values_from = Estimate) |> 
+        left_join(ego_team, by = c("team" = "Team_id")) |> 
+        left_join(performance_scores, by = c("ego_id" = "id")) |> 
+        select(team, 
+               # alter,
+               inertia, recip, nodeTrans, cycle,
+               outdeg, diff, commonReceiver,
+               Condition, 
+               team3, novel_team_3, fluency_team_3, flex_team_3) |>
+        unique() |>
+        na.omit() |>
+        mutate(Condition = Condition |> 
+                 factor(labels = c(
+                   "taskwork", "teamwork", "combined", "unleashed"))
+               ) -> rem_to_lm
+
+lm_1 <- lm(team3 ~ 
+             inertia + 
+             outdeg + 
+             diff + 
+             commonReceiver + 
+             recip + 
+             nodeTrans + 
+             cycle + 
+             Condition, data = rem_to_lm |> select(-team))
+
+# library(stargazer)
+
+stargazer::stargazer(lm_1, type = "text", single.row=TRUE,
+          star.cutoffs = c(0.05, 0.01, 0.001))
+```
+
+```{r}
+m1_output |>
+        rename(p_value = "Pr(>|z|)",
+               z_value = "z-value") |>
+        mutate(significant = case_when(
+                p_value < 0.05 ~ "*",
+                TRUE ~ " "
+        )) |>
+        left_join(ego_team, by = c("team" = "Team_id")) |>
+        left_join(performance_scores, by = c("ego_id" = "id")) |>
+        select(team, variable, Estimate, significant, Condition) |>
+        mutate(Condition = Condition |> factor(labels = c("taskwork", "teamwork", "combined", "unleashed"))) |> 
+        na.omit() |>
+        unique() |>
+        ggplot(aes(x = Estimate, y = variable)) +
+        geom_violin()+
+        geom_jitter(aes(color = Condition, alpha = significant))+
+        theme_minimal()+
+        ggtitle("DyNAM: Choice Model",
+                "Z-scores from 68 interaction networks")
+```
+
+## calculate the number of tokens
+
+```{r}
+full_transcript |>
+    mutate(n_tokens = str_count(text, " ")) |>
+    summarise(n_sum = (sum(n_tokens, na.rm=TRUE) / 1000 )* 0.02)
+```
+
+## UMAP
+
+```{r}
+library(recipes)
+library(embed)
+
+set.seed(2023)
+
+supervised <-
+  recipe(Condition ~ inertia + 
+             outdeg + 
+             diff + 
+             commonReceiver + 
+             recip + 
+             nodeTrans + 
+             cycle+
+            team3, data = rem_to_lm) |> 
+  # step_center(all_predictors()) %>%
+  # step_scale(all_predictors()) %>%
+  step_umap(inertia, outdeg, diff, commonReceiver, recip, nodeTrans, cycle, outcome = vars(Condition), num_comp = 2) |> 
+  prep(training = rem_to_lm)
+
+bake(supervised, new_data = rem_to_lm)  |> 
+  ggplot(aes(x = UMAP1, y = UMAP2, color = team)) +
+  geom_point(aes(color = team3), alpha = .5)+
+  theme_minimal()+
+  ggtitle("U-MAP projection of DyNAM estimates")+
+  theme(
+    legend.position = c(0.3, 0.2),
+        legend.direction="horizontal")+
+  labs(color = "Survival Scores")+
+  scale_color_gradient2(
+    low = "red", mid = "grey", high = "blue", midpoint = mean(rem_to_lm$team3)
+    )
+```
+
+```{r}
+supervised <-
+  recipe(Condition ~ inertia + 
+             outdeg + 
+             diff + 
+             commonReceiver + 
+             recip + 
+             nodeTrans + 
+             cycle, data = rem_to_lm) |> 
+  # step_center(all_predictors()) %>%
+  # step_scale(all_predictors()) %>%
+  step_pca(all_numeric(), num_comp = 3) |> 
+  prep(training = rem_to_lm)
+
+bake(supervised, new_data = rem_to_lm, Condition, starts_with("PC")) |> 
+  ggplot(aes(x = PC1, y = PC2, 
+             col = Condition)) +
+  geom_point(alpha = .5)+
+  theme_minimal()+
+  ggtitle("PCA projection of DyNAM estimates")+
+  theme(legend.position = c(0.9, 0.2))
+```
+
+```{r}
+
+
+m1_output |>
+        rename(p_value = "Pr(>|z|)",
+               z_value = "z-value") |>
+        mutate(significant = case_when(
+                p_value < 0.05 ~ "*",
+                TRUE ~ " "
+        )) |>
+        left_join(ego_team, by = c("team" = "Team_id")) |>
+        left_join(performance_scores, by = c("ego_id" = "id")) |>
+        select(team, variable, Estimate, significant, Condition) |>
+        mutate(Condition = Condition |> factor(labels = c("taskwork", "teamwork", "combined", "unleashed"))) |> 
+        na.omit() |>
+        unique() |>
+ ggplot(aes(y = variable, x = Estimate, fill = Condition)) +
+  stat_slab(
+    # aes(thickness = after_stat(pdf*n)), 
+            scale = 2, alpha = 0.7) +
+  # stat_dots(
+  #   aes(color = Condition),
+  #   side = "left", justification = 1.1, size = 2, 
+  #   position = "dodge")+
+  # geom_boxplot(fill = NA, outlier.color = NA, width = 0.12, 
+  #              position = "dodge")+
+  scale_fill_brewer(palette = "Set2") +
+  scale_color_brewer(palette = "Set2") +
+  ggtitle("DyNAM Estimate Distributions", "N = 68")+
+  theme_minimal()+
+  theme(legend.position = c(0.9, 0.3))
+```
+
+```{r}
+m1_output |>
+        rename(p_value = "Pr(>|z|)",
+               z_value = "z-value") |>
+        mutate(significant = case_when(
+                p_value < 0.05 ~ "*",
+                TRUE ~ " "
+        )) |>
+        left_join(ego_team, by = c("team" = "Team_id")) |>
+        left_join(performance_scores, by = c("ego_id" = "id")) |>
+        select(team, variable, Estimate, significant, Condition) |>
+        mutate(Condition = Condition |> factor(labels = c("taskwork", "teamwork", "combined", "unleashed"))) |> 
+        na.omit() |>
+        unique() |>
+ ggplot(aes(y = variable, x = Estimate, fill = Condition)) +
+  geom_weave(linewidth = 0, alpha = 0.7) +
+  scale_fill_brewer(palette = "Set2") +
+  scale_color_brewer(palette = "Set2") +
+  ggtitle("DyNAM Estimate Distributions", "N = 68")+
+  theme_minimal()+
+  theme(legend.position = c(0.9, 0.3))
+```
