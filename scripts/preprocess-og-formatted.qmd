@@ -1,0 +1,336 @@
+---
+title: "preprocess-og-formatted"
+author: "Simon Lyu, Henry Li"
+format: html
+editor: visual
+---
+
+## Readme
+
+This is the formatted version of "make_even_better_dataset.R"
+
+```{r setup, include=FALSE}
+library(readr)
+library(dplyr)
+library(here)
+```
+
+## Helper functions
+
+### validates the "to" column values
+
+```{r}
+is_valid_to_value <- function(value, valid_users) {
+  # Convert value to a string and trim any leading/trailing whitespace
+  value <- trimws(as.character(value))
+  
+  # Check if the value is NA, "0", an integer, or "all" (case insensitive)
+  if (is.na(value) || value == "0" || tolower(value) == "all") {
+    return(TRUE)
+  }
+  
+  # Check if the value is of the form "A,B,C" where A,B,C are 0, "all", or integers in valid_users
+  parts <- unlist(strsplit(value, ","))
+  parts <- trimws(parts)  # Trim whitespace from each part
+  for (part in parts) {
+    if (!(part == "0" || tolower(part) == "all" || part %in% valid_users)) {
+      return(FALSE)
+    }
+  }
+  
+  return(TRUE)
+}
+
+```
+
+### validates the "user" column values
+
+```{r}
+is_valid_user_value <- function(value) {
+  # Convert value to a string and trim any leading/trailing whitespace
+  value <- trimws(as.character(value))
+  
+  # Check if the value is NA, "Vero", or "Participant X" where X is an integer
+  if (is.na(value) || value == "Vero" || grepl("^Participant [0-9]+$", value)) {
+    return(TRUE)
+  }
+  
+  return(FALSE)
+}
+```
+
+### validates "task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero" columns
+
+```{r}
+is_valid_other_value <- function(value, to_value) {
+  # Convert value to a string and trim any leading/trailing whitespace
+  value <- trimws(as.character(value))
+  to_value <- trimws(as.character(to_value))
+  
+  # Check if the value is NA
+  if (is.na(value)) {
+    return(TRUE)
+  }
+  
+  # Check if the "to" column contains commas and validate accordingly
+  to_parts <- unlist(strsplit(to_value, ","))
+  
+  if (length(to_parts) > 1) {
+    # If "to" column contains commas, value must be 0, NA, or the same number of comma-separated integers between 0 and 3
+    if (value == "0") {
+      return(TRUE)
+    }
+    
+    value_parts <- unlist(strsplit(value, ","))
+    value_parts <- trimws(value_parts)
+    
+    if (length(value_parts) != length(to_parts)) {
+      return(FALSE)
+    }
+    
+    for (part in value_parts) {
+      if (!(part %in% c("0", "1", "2", "3"))) {
+        return(FALSE)
+      }
+    }
+    return(TRUE)
+  } else {
+    # Check if the value is "0" or an integer between 0 and 3
+    return(value %in% c("0", "1", "2", "3"))
+  }
+}
+```
+
+### checks trailing commas or commas followed by spaces
+
+```{r}
+has_trailing_comma <- function(value) {
+  # Convert value to a string and trim any leading/trailing whitespace
+  value <- trimws(as.character(value))
+  
+  # Check if the value ends with a comma or a comma followed by spaces
+  if (grepl(",\\s*$", value)) {
+    return(TRUE)
+  }
+  
+  return(FALSE)
+}
+```
+
+### standardizes column values by removing spaces and converting "all" to lowercase
+
+```{r}
+standardize_column_values <- function(value) {
+  # Convert value to a string and trim any leading/trailing whitespace
+  value <- trimws(as.character(value))
+  
+  # Remove all spaces and convert "all" to lowercase
+  value <- gsub("\\s", "", value)
+  value <- tolower(value)
+  
+  return(value)
+}
+```
+
+# Main function
+
+## reads the dataset, validates and cleans it based on the specified rules, and then standardizes the output
+
+```{r}
+check_and_clean_dataset <- function(file_path) {
+  # Define column types for reading the dataset
+  col_types <- cols(
+    to = col_character(),
+    task_pos = col_character(),
+    task_conf = col_character(),
+    rel_pos = col_character(),
+    rel_conf = col_character(),
+    `3rdVero` = col_character(),
+    .default = col_guess()
+  )
+  
+  # Read the dataset with specified column types
+  dataset <- suppressMessages(read_csv(file_path, col_types = col_types))
+  
+  # Remove rows where all cells are NA
+  dataset_clean <- dataset[rowSums(is.na(dataset)) != ncol(dataset), ]
+  
+  # Define the required columns
+  required_columns <- c("user", "text", "to", "task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")
+  
+  # Check if the cleaned dataset contains the required columns
+  missing_columns <- setdiff(required_columns, colnames(dataset_clean))
+  if (length(missing_columns) > 0) {
+    message("Error: Missing required columns: ", paste(missing_columns, collapse = ", "), ".")
+    return(NULL)
+  }
+  
+  # Validate the "user" column and collect row numbers of invalid values
+  invalid_user_rows <- which(!sapply(dataset_clean$user, is_valid_user_value))
+  if (length(invalid_user_rows) > 0) {
+    for (row in invalid_user_rows) {
+      message("Error: Invalid value in 'user' column at row ", row, ".\nText: ", dataset_clean$text[row])
+    }
+    return(NULL)
+  }
+  
+  # Extract valid user IDs
+  valid_users <- c("0", "all", as.character(na.omit(unique(gsub("^Participant ", "", dataset_clean$user)))))
+  
+  # Validate the "to" column and collect row numbers of invalid values
+  invalid_to_rows <- which(!sapply(dataset_clean$to, is_valid_to_value, valid_users))
+  if (length(invalid_to_rows) > 0) {
+    for (row in invalid_to_rows) {
+      message("Error: Invalid value in 'to' column at row ", row, ".\nText: ", dataset_clean$text[row])
+    }
+    return(NULL)
+  }
+  
+  # Rule: Check that the "to" column should have at most 2 commas
+  for (i in seq_len(nrow(dataset_clean))) {
+    to_value <- dataset_clean$to[i]
+    if (!is.na(to_value) && length(gregexpr(",", to_value)[[1]]) > 2) {
+      message("Error: 'to' column should have at most 2 commas at row ", i, ".\nText: ", dataset_clean$text[i])
+      return(NULL)
+    }
+  }
+  
+  # Validate the "user" and "to" columns based on their relationship
+  for (i in seq_len(nrow(dataset_clean))) {
+    user_value <- dataset_clean$user[i]
+    to_value <- dataset_clean$to[i]
+    
+    if (is.na(user_value) && !is.na(to_value)) {
+      message("Error: 'to' column must be NA when 'user' is NA at row ", i, ".\nText: ", dataset_clean$text[i])
+      return(NULL)
+    }
+    
+    if (user_value == "Vero" && grepl("\\b0\\b", to_value)) {
+      message("Error: 'to' column contains '0' at row ", i, " where 'user' is 'Vero'.\nText: ", dataset_clean$text[i])
+      return(NULL)
+    }
+    
+    if (grepl("^Participant [0-9]+$", user_value)) {
+      participant_id <- gsub("^Participant ", "", user_value)
+      if (grepl(paste0("\\b", participant_id, "\\b"), to_value)) {
+        message("Error: 'to' column contains the participant's own ID at row ", i, " for 'user' '", user_value, "'.\nText: ", dataset_clean$text[i])
+        return(NULL)
+      }
+    }
+  }
+  
+  # Rule: If either "user" or "to" is NA, then in the same row, "task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero" can only be NA or 0.
+  for (i in seq_len(nrow(dataset_clean))) {
+    user_value <- dataset_clean$user[i]
+    to_value <- dataset_clean$to[i]
+    
+    if (is.na(user_value) || is.na(to_value)) {
+      invalid_values <- dataset_clean[i, c("task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")] %>%
+        sapply(function(x) !is.na(x) && x != "0")
+      if (any(invalid_values)) {
+        message("Error: 'task_pos', 'task_conf', 'rel_pos', 'rel_conf', '3rdVero' columns must be NA or 0 when 'user' or 'to' is NA at row ", i, ".\nText: ", dataset_clean$text[i])
+        return(NULL)
+      }
+    }
+  }
+  
+  # Rule: If there is no "Vero" in the "user" column, then the "to" column should not have 0 or 0 separated by a comma.
+  if (!any(dataset_clean$user == "Vero", na.rm = TRUE)) {
+    invalid_to_values <- which(sapply(dataset_clean$to, function(x) grepl("\\b0\\b", x)))
+    if (length(invalid_to_values) > 0) {
+      for (row in invalid_to_values) {
+        message("Error: 'to' column contains '0' at row ", row, " when there is no 'Vero' in the 'user' column.\nText: ", dataset_clean$text[row])
+      }
+      return(NULL)
+    }
+  }
+  
+  # Validate the other columns and collect row numbers of invalid values
+  for (col in c("task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")) {
+    invalid_rows <- which(!mapply(is_valid_other_value, dataset_clean[[col]], dataset_clean$to))
+    if (length(invalid_rows) > 0) {
+      for (row in invalid_rows) {
+        message("Error: Invalid value in '", col, "' column at row ", row, ".\nText: ", dataset_clean$text[row])
+      }
+      return(NULL)
+    }
+  }
+  
+  ####*******#####
+  # Rule: Check that if "0" is in the "to" column, the corresponding relative position of "3rdVero" must be NA or 0
+  for (i in seq_len(nrow(dataset_clean))) {
+    to_value <- dataset_clean$to[i]
+    third_vero_value <- dataset_clean$`3rdVero`[i]
+    
+    if (!is.na(to_value) && grepl("0", to_value)) {
+      to_parts <- unlist(strsplit(to_value, ","))
+      third_vero_parts <- unlist(strsplit(third_vero_value, ","))
+      
+      for (j in seq_along(to_parts)) {
+        if (trimws(to_parts[j]) == "0" && !(is.na(third_vero_parts[j]) || trimws(third_vero_parts[j]) == "0")) {
+          message("Error: '3rdVero' must be NA or 0 at the relative position of '0' in the 'to' column at row ", i, ".\nText: ", dataset_clean$text[i])
+          return(NULL)
+        }
+      }
+    }
+  }
+  ####*******#####
+  
+  # Check for trailing commas or commas followed by spaces
+  for (col in c("to", "task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")) {
+    trailing_comma_rows <- which(sapply(dataset_clean[[col]], has_trailing_comma))
+    if (length(trailing_comma_rows) > 0) {
+      for (row in trailing_comma_rows) {
+        message("Error: Value ends with a comma or a comma followed by spaces in '", col, "' column at row ", row, ".\nText: ", dataset_clean$text[row])
+      }
+      return(NULL)
+    }
+  }
+  
+  # Standardize the specified columns
+  for (col in c("to", "task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")) {
+    standardized_values <- sapply(dataset_clean[[col]], standardize_column_values)
+    dataset_clean[[col]] <- unname(standardized_values)
+  }
+  
+  # Additional Standardization
+  for (i in seq_len(nrow(dataset_clean))) {
+    to_value <- dataset_clean$to[i]
+    
+    if (is.na(to_value)) {
+      dataset_clean$user[i] <- NA
+      dataset_clean[i, c("task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")] <- NA
+    } else {
+      to_parts <- unlist(strsplit(to_value, ","))
+      num_commas <- length(to_parts) - 1
+      
+      for (col in c("task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero")) {
+        value <- dataset_clean[[col]][i]
+        if (is.na(value) || value == "0") {
+          dataset_clean[[col]][i] <- paste(rep("0", num_commas + 1), collapse = ",")
+        }
+      }
+    }
+  }
+  
+  message("The dataset meets the requirements and has been standardized.")
+  return(dataset_clean)
+}
+```
+
+# Enter your csv file directory below
+
+```{r}
+
+file_path <- here("raw-data", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv")
+
+cleaned_dataset <- check_and_clean_dataset(file_path)
+
+# To see the cleaned data set
+if (!is.null(cleaned_dataset)) {
+  print(head(cleaned_dataset))
+}
+
+# Output the csv file in perfect format. Feel free to change the output file name and directory
+write_csv(cleaned_dataset, file=here::here("cleaned-data-as-input", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv"))
+```
