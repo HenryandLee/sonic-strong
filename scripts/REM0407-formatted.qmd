@@ -50,9 +50,9 @@ participants <- participants[!participants %in% c("Vero", "all")]
 
 ```{r}
 participants_with_vero <- if("Vero" %in% participants) {
-  c("Vero", participants)
+  c(participants)
 } else {
-  participants
+  c("Vero", participants)
 }
 ```
 
@@ -60,9 +60,8 @@ participants_with_vero <- if("Vero" %in% participants) {
 
 ```{r}
 testdata <- testdata %>%
-  separate_rows(to, sep = ",") %>%
-  mutate(to = gsub("Participant ", "", to),  # Remove "Participant " prefix from "to"
-         to = ifelse(to == "0", "Vero", to))  # Replace "0" with "Vero"
+  separate_longer_delim(c(to, task_pos, task_conf, rel_pos, rel_conf, X3rdVero), delim = ",") %>% 
+  mutate(to = ifelse(to == "0", "Vero", to))  # Replace "0" with "Vero"
 ```
 
 ## 4. Remove "Participant " from user column
