@@ -9,13 +9,18 @@ editor: visual
 
 input: ONE sheet of labeled data
 
-output:
+output: NULL
 
 purpose:
 
+1.  prepares ONE sheet of data ready for REM analysis;
+
+2.  performs analysis with relevent
+
 # Pre-processing
 
-```{r}
+```{r setup, include = FALSE}
+library(here)
 library(dplyr) 
 library(tidyr)
 ```
@@ -23,7 +28,8 @@ library(tidyr)
 ## replace file directory
 
 ```{r}
-testdata <- read.csv("/Users/haiqili/Desktop/SONIC/STRONG/Week 2 Assignments/03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv")
+testdata <- read.csv(here("raw-data", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv"))
+head(testdata)
 ```
 
 ## 1. Remove NA entries
