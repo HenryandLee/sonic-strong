@@ -1,5 +1,5 @@
 ---
-title: "REM0407-formatted"
+title: "REM-updated"
 author: "Simon Lyu, Henry Li"
 format: html
 editor: visual
@@ -7,7 +7,7 @@ editor: visual
 
 ## Readme
 
-input: ONE sheet of labeled data
+input: ONE sheet of labeled data (in 'perfected' format), from cleaned-data-as-input folder
 
 output: NULL
 
@@ -25,10 +25,10 @@ library(dplyr)
 library(tidyr)
 ```
 
-## replace file directory
+## read the cleaned data (in 'perfected' format)
 
 ```{r}
-testdata <- read.csv(here("raw-data", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv"))
+testdata <- read.csv(here("cleaned-data-as-input", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv"))
 head(testdata)
 ```
 
@@ -111,29 +111,17 @@ testdata <- testdata %>%
   filter(user != to)
 ```
 
-## 10. Split the sentiments
+## 10. Split the sentiment labelings that contain comma(s)
 
 ```{r}
 for (i in 1:(nrow(testdata) - 1)) {
-  if (grepl("^\\d+,\\d+$", testdata$sentiment[i]) && 
-      testdata$sentiment[i] == testdata$sentiment[i + 1]) {
-    parts <- strsplit(testdata$sentiment[i], ",")[[1]]
+  if (grepl("^\\d+,\\d+$", testdata$task_pos[i]) && 
+      testdata$task_pos[i] == testdata$task_pos[i + 1]) {
+    parts <- strsplit(testdata$task_pos[i], ",")[[1]]
     A <- as.integer(parts[1])
     B <- as.integer(parts[2])
-    
-    if (A == 0 && B != 0) {
-      testdata$sentiment[i] <- ""
-      testdata$sentiment[i + 1] <- B
-    } else if (A != 0 && B == 0) {
-      testdata$sentiment[i] <- A
-      testdata$sentiment[i + 1] <- ""
-    } else if (A == 0 && B == 0) {
-      testdata$sentiment[i] <- ""
-      testdata$sentiment[i + 1] <- ""
-    } else {
-      testdata$sentiment[i] <- A
-      testdata$sentiment[i + 1] <- B
-    }
+    testdata$task_pos[i] <- A
+    testdata$task_pos[i + 1] <- B
   }
 }
 ```
@@ -142,8 +130,8 @@ for (i in 1:(nrow(testdata) - 1)) {
 
 ```{r}
 rem_data <- testdata %>%
-  select(time, user, to, sentiment,X3rdVero)
-names(rem_data) = c("time","sender","receiver","sentiment", "X3rdVero")
+  select(time, user, to, task_pos,X3rdVero)
+names(rem_data) = c("time","sender","receiver","task_pos", "X3rdVero")
 rem_data$increment <- 1
 ```
 

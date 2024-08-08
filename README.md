@@ -6,5 +6,6 @@ http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf.
 
 File directories in scripts have been renamed using here package to improve portability. 
 
-rundirectory.bat is yet to be created. 
-
+TODO: 
+1. Consider streamlining data cleaning process for each sheet. Currently we use bash to perform the cleaning one sheet at a time. May consider using Quarto interactive report later. 
+2. Create rundirectory.bat for complete reproducibility. 

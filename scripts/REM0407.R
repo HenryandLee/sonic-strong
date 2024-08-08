@@ -7,9 +7,7 @@ library(dplyr)
 library(tidyr)
 library(relevent)
 
-testdata <- read.csv("C:/Users/lds_l/Desktop/independent study/REM/transcriptdatalabeled/03_06_2021AM_vero #1_task+team_round 2_otter.ai.csv")
-
-
+testdata <- read.csv("~/Desktop/SONIC/Summer/sonic-strong/cleaned-data-as-input/03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv")
 
 
 # 1. Remove NA entries
@@ -26,7 +24,6 @@ participants_with_vero <- if("Vero" %in% participants) {
 } else {
   participants
 }
-
 
 
 # 3. Expand "to" column and handle different cases
@@ -64,35 +61,24 @@ testdata <- testdata %>%
 testdata <- testdata %>%
   filter(user != to)
 
-# 10. Split the sentiments 
+# 10. Split the task_pos. Because the sheet is in "perfected" format, task_conf, rel_pos, rel_conf entries
+# with commas are also automatically split.  
 for (i in 1:(nrow(testdata) - 1)) {
-  if (grepl("^\\d+,\\d+$", testdata$sentiment[i]) && 
-      testdata$sentiment[i] == testdata$sentiment[i + 1]) {
-    parts <- strsplit(testdata$sentiment[i], ",")[[1]]
+  if (grepl("^\\d+,\\d+$", testdata$task_pos[i]) && 
+      testdata$task_pos[i] == testdata$task_pos[i + 1]) {
+    parts <- strsplit(testdata$task_pos[i], ",")[[1]]
     A <- as.integer(parts[1])
     B <- as.integer(parts[2])
-    
-    if (A == 0 && B != 0) {
-      testdata$sentiment[i] <- ""
-      testdata$sentiment[i + 1] <- B
-    } else if (A != 0 && B == 0) {
-      testdata$sentiment[i] <- A
-      testdata$sentiment[i + 1] <- ""
-    } else if (A == 0 && B == 0) {
-      testdata$sentiment[i] <- ""
-      testdata$sentiment[i + 1] <- ""
-    } else {
-      testdata$sentiment[i] <- A
-      testdata$sentiment[i + 1] <- B
-    }
+    testdata$task_pos[i] <- A
+    testdata$task_pos[i + 1] <- B
   }
 }
 
 
 # 11. Prepare data for REM
 rem_data <- testdata %>%
-  select(time, user, to, sentiment,X3rdVero)
-names(rem_data) = c("time","sender","receiver","sentiment", "X3rdVero")
+  select(time, user, to, task_pos,X3rdVero)
+names(rem_data) = c("time","sender","receiver","task_pos", "X3rdVero")
 rem_data$increment <- 1
 
 
@@ -155,4 +141,5 @@ rem_model_dyad <- rem.dyad(
 
 # Check the model summary
 summary(rem_model_dyad)
+
 

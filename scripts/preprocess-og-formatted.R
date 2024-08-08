@@ -1,37 +1,10 @@
----
-title: "preprocess-og-formatted"
-author: Simon Lyu, Henry Li
-format: html
-editor: visual
----
-
-## Readme
-
-This is the formatted version of "make_even_better_dataset.R".
-
-qpurpose: check issues with labeling, report error for manual fix, and output a sheet with all entries filled in (with consistent commas and NAs).
-
-\*\* Please use the corresponding .R file of this Quarto Document.
-
-if any necessary change has been made to the Quarto document. Run
-
-knitr::purl("preprocess-og-formatted.Qmd")
-
-in console to update the .R file. \*\*
-
-use: (in terminal) Rscript preprocess-og-formatted.R '\<file-name-only\>'
-
-```{r setup, include=FALSE}
+## ----setup, include=FALSE------------------------------------------------------------------
 library(readr)
 library(dplyr)
 library(here)
-```
 
-## Helper functions
 
-### validates the "to" column values
-
-```{r}
+## ------------------------------------------------------------------------------------------
 is_valid_to_value <- function(value, valid_users) {
   # Convert value to a string and trim any leading/trailing whitespace
   value <- trimws(as.character(value))
@@ -53,11 +26,9 @@ is_valid_to_value <- function(value, valid_users) {
   return(TRUE)
 }
 
-```
 
-### validates the "user" column values
 
-```{r}
+## ------------------------------------------------------------------------------------------
 is_valid_user_value <- function(value) {
   # Convert value to a string and trim any leading/trailing whitespace
   value <- trimws(as.character(value))
@@ -69,11 +40,9 @@ is_valid_user_value <- function(value) {
   
   return(FALSE)
 }
-```
 
-### validates "task_pos", "task_conf", "rel_pos", "rel_conf", "3rdVero" columns
 
-```{r}
+## ------------------------------------------------------------------------------------------
 is_valid_other_value <- function(value, to_value) {
   # Convert value to a string and trim any leading/trailing whitespace
   value <- trimws(as.character(value))
@@ -111,11 +80,9 @@ is_valid_other_value <- function(value, to_value) {
     return(value %in% c("0", "1", "2", "3"))
   }
 }
-```
 
-### checks trailing commas or commas followed by spaces
 
-```{r}
+## ------------------------------------------------------------------------------------------
 has_trailing_comma <- function(value) {
   # Convert value to a string and trim any leading/trailing whitespace
   value <- trimws(as.character(value))
@@ -127,11 +94,9 @@ has_trailing_comma <- function(value) {
   
   return(FALSE)
 }
-```
 
-### standardizes column values by removing spaces and converting "all" to lowercase
 
-```{r}
+## ------------------------------------------------------------------------------------------
 standardize_column_values <- function(value) {
   # Convert value to a string and trim any leading/trailing whitespace
   value <- trimws(as.character(value))
@@ -142,13 +107,9 @@ standardize_column_values <- function(value) {
   
   return(value)
 }
-```
 
-# Main function
 
-## reads the dataset, validates and cleans it based on the specified rules, and then standardizes the output
-
-```{r}
+## ------------------------------------------------------------------------------------------
 check_and_clean_dataset <- function(file_path) {
   # Define column types for reading the dataset
   col_types <- cols(
@@ -328,33 +289,9 @@ check_and_clean_dataset <- function(file_path) {
   message("The dataset meets the requirements and has been standardized.")
   return(dataset_clean)
 }
-```
 
-<!-- # Enter your csv file directory below (hard-coded) -->
 
-<!-- ```{r} -->
-
-<!-- file_path <- here("raw-data", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv") -->
-
-<!-- cleaned_dataset <- check_and_clean_dataset(file_path) -->
-
-<!-- # To see the cleaned data set -->
-
-<!-- if (!is.null(cleaned_dataset)) { -->
-
-<!--   print(head(cleaned_dataset)) -->
-
-<!-- } -->
-
-<!-- # Output the csv file in perfect format. Feel free to change the output file name and directory -->
-
-<!-- write_csv(cleaned_dataset, file=here::here("cleaned-data-as-input", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv")) -->
-
-<!-- ``` -->
-
-## Scripting for terminal commands
-
-```{r}
+## ------------------------------------------------------------------------------------------
 # Capture the arguments passed to the script and validate number of arguments
 args <- commandArgs(trailingOnly = TRUE)
 
@@ -376,4 +313,4 @@ if (!is.null(cleaned_dataset)) {
 # Output the csv file in desired format. (consistently filled NA and commas for corresponding rows)
 output_file_path <- here::here("cleaned-data-as-input", file_name)
 write_csv(cleaned_dataset, file = output_file_path)
-```
+
