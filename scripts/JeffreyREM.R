@@ -109,7 +109,7 @@ map_ids_to_integers <- function(df, from_col, to_col) {
   print(mapping_table)
   
   # Return the adjusted dataframe
-  return(df)
+  return(list(adjusted_df = df, mapping_table = mapping_table))
 }
 
 
@@ -118,7 +118,8 @@ round3_data_prepared <- map_ids_to_integers(round3_data_prepared, "from", "to")
 
 
 ### Run REM
-edgelist_df = round3_data_prepared
+edgelist_df = round3_data_prepared$adjusted_df
+mapping_table = round3_data_prepared$mapping_table
 model1 <- rem.dyad(
   edgelist = edgelist_df ,
   effects = c("RSndSnd", "RRecSnd", "CovSnd","PSAB-BA","PSAB-BY"), 

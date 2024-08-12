@@ -28,7 +28,7 @@ library(tidyr)
 ## read the cleaned data (in 'perfected' format)
 
 ```{r}
-testdata <- read.csv(here("cleaned-data-as-input", "03_06_2021AM_vero #1_task+team_round 1_otter.ai.csv"))
+testdata <- read.csv(here("raw-data", "05_20_2021_vero #5_round 3_otter.ai_made_perfect.csv"))
 head(testdata)
 ```
 
@@ -70,7 +70,11 @@ testdata <- testdata %>%
 testdata$user <- gsub("Participant ", "", testdata$user)
 ```
 
-## 5. Process time and add tiny gaps for sequence
+## 5. Process time and add 0.1s increment for events simultaneously addressing more than one recipients
+
+***Let us know if you have better solutions!***
+
+Also simultaneous events of other types (i.e. two events happening within one second frame) aren't addressed here. Perhaps we should. (Butts and Marcum 2017:11)
 
 ```{r}
 testdata <- testdata %>%
@@ -205,7 +209,7 @@ edgelist_df <- edgelist_df %>%
   select(-random_order)
 
 edgelist_df <- edgelist_df %>% arrange(time)
-`head(edgelist_df,2)
+head(edgelist_df,2)
 ```
 
 ```{r}
