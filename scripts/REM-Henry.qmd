@@ -80,7 +80,7 @@ testdata$user <- gsub("Participant ", "", testdata$user)
 
 Since `n()` is the number of rows in each group, and `runif` generates a unique random number for each row, the adjusted `time` values will be distinct unless the random number generator happens to produce the same value multiple times, which is highly unlikely given the continuous nature of `runif`. Inclusive of 0.
 
-robustness check: varying seeds.
+robustness check: varying seeds only slightly change coefficients. Seems to not change the significance level.
 
 ```{r}
 set.seed(123)
