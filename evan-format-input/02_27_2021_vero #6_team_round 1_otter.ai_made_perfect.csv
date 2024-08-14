@@ -1,0 +1,219 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+02_27_2021_vero #6_team_round 1_otter.ai,13707,Participant 872,13707,"Okay, the password is wave. I didn't even have an enter password. So",0,1,NA,NA,3,872,264,1,teamwork,1,FALSE,NA,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13708,Participant 548,13707,"yeah,",0,16,NA,13707,3,548,264,16,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13709,Participant 548,13707,I didn't either.,0,16,NA,13708,3,548,264,16,teamwork,1,FALSE,548,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13710,Participant 623,13707,Me neither.,0,17,NA,13709,3,623,264,17,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13711,Participant 872,13707,All right.,0,18,NA,13710,3,872,264,18,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13712,Participant 872,13707,"Okay, well,",0,18,NA,13711,3,872,264,18,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13713,Participant 872,13707,"uh, well, okay, so do we do this? We do this together, right? Like we all put down the same answers?",0,18,NA,13712,3,872,264,18,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13714,Participant 623,13707,"I think so,",0,27,NA,13713,3,623,264,27,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13715,Participant 872,13707,okay.,0,28,NA,13714,3,872,264,28,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13716,Participant 872,13707,I'm gonna read the thing.,0,28,NA,13715,3,872,264,28,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13717,Participant 548,13707,"Okay, we have to travel 200 miles on the moon. Okay.",0,50,NA,13716,3,548,264,50,teamwork,1,FALSE,872,"872,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #6_team_round 1_otter.ai,13718,Participant 872,13707,"So it was okay, so we crashed on the moon, so we're stuck on the moon, and we're traveling there. Okay. Okay.",0,58,NA,13717,3,872,264,58,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13719,Participant 623,13707,Wouldn't the oxygen tank be like the first one?,1,8,NA,13718,3,623,264,68,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13720,Participant 548,13707,That's how I feel.,1,11,NA,13719,3,548,264,71,teamwork,1,FALSE,623,623,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13721,Participant 872,13707,I agree.,1,13,NA,13720,3,872,264,73,teamwork,1,FALSE,548,623,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13722,Participant 872,13707,"I don't know what like the temperature is on the moon, but maybe it's cold. Okay. I'm trying to think like between the water, the food or the heating unit. Like I feel like those three might be important.",1,13,NA,13721,3,872,264,73,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13723,Participant 623,13707,So we have to have the same numbers for all of us.,1,43,NA,13722,3,623,264,103,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13724,Participant 872,13707,I think so.,1,46,NA,13723,3,872,264,106,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13725,Participant 623,13707,Okay.,1,47,NA,13724,3,623,264,107,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13726,Participant 872,13707,"Okay, I could be wrong. But",1,49,NA,13725,3,872,264,109,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13727,Participant 548,13707,"Wait, so I guess when the sunlight hits the moon, it's 130 degrees Celsius. And when the sun goes away, it's minus 173. So",1,50,NA,13726,3,548,264,110,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13728,Participant 872,13707,So maybe that's two I don't know. The heating unit?,2,4,NA,13727,3,872,264,124,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13729,Participant 872,13707,I'm not sure,2,4,NA,13728,3,872,264,124,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13730,Participant 623,13707,I'll just put two just in case I don't want to have anything different.,2,13,NA,13729,3,623,264,133,teamwork,1,FALSE,872,872,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13731,Participant 872,13707,"Okay, so so two for the",2,16,NA,13730,3,872,264,136,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13732,Participant 623,13707,Portable heating unit.,2,19,NA,13731,3,623,264,139,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13733,Participant 872,13707,"Okay, cool.",2,20,NA,13732,3,872,264,140,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13734,Participant 872,13707,Should we do like water and food at some point next?,2,20,NA,13733,3,872,264,140,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13735,Participant 623,13707,"Yeah, I feel like water should for sure be like the third one.",2,26,NA,13734,3,623,264,146,teamwork,1,FALSE,872,872,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13736,Participant 872,13707,Okay.,2,30,NA,13735,3,872,264,150,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13737,Participant 623,13707,And then for food it could be four because don't you need like water to activate the food? I've obviously never been to the moon so I wouldn't know.,2,36,NA,13736,3,623,264,156,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13738,Participant 872,13707,"I think so. It sounds right. And plus like I think you can only live on what, just water for like, a couple a week or two or something.",2,45,NA,13737,3,872,264,165,teamwork,1,FALSE,623,623,2,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13739,Participant 623,13707,Yeah.,2,54,NA,13738,3,623,264,174,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13740,Participant 872,13707,"Oh, okay. Solar powered. Would that even work that receiver transmitter on the moon?",2,57,NA,13739,3,872,264,177,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13741,Participant 872,13707,I don't know.,2,57,NA,13740,3,872,264,177,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13742,Participant 872,13707,Maybe,2,57,NA,13741,3,872,264,177,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13743,Participant 623,13707,Would we need a stellar map?,3,10,NA,13742,3,623,264,190,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13744,Participant 872,13707,Sounds good.,3,13,NA,13743,3,872,264,193,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13745,Participant 623,13707,So what number do you think we should put it at?,3,16,NA,13744,3,623,264,196,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13746,Participant 872,13707,I feel like that could go next. I'm looking like I don't see how the rest of this stuff would be helpful like the signal flares. I don't think people can see like flares from the moon. light might be pretty useless. Maybe the map next?,3,21,NA,13745,3,872,264,201,teamwork,1,FALSE,623,623,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13747,Participant 623,13707,So that would be five?,3,36,NA,13746,3,623,264,216,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13748,Participant 872,13707,"Yeah, I",3,38,NA,13747,3,872,264,218,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13749,Participant 872,13707,think that's good.,3,38,NA,13748,3,872,264,218,teamwork,1,FALSE,872,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13750,Participant 548,13707,I'm comparing my answers to before,3,49,NA,13749,3,548,264,229,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13751,Participant 872,13707,"Oh, okay.",3,52,NA,13750,3,872,264,232,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13752,Participant 623,13707,What about the dehydrated milk?,3,54,NA,13751,3,623,264,234,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13753,Participant 872,13707,Yeah. I feel like that's important,3,57,NA,13752,3,872,264,237,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13754,Participant 623,13707,That would be six?,3,59,NA,13753,3,623,264,239,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13755,Participant 872,13707,"Yeah,",4,1,NA,13754,3,872,264,241,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13756,Participant 872,13707,Um.,4,1,NA,13755,3,872,264,241,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13757,Participant 623,13707,"Sorry, I'm just repeating the numbers because I want to make sure we're all on the same page.",4,6,NA,13756,3,623,264,246,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13758,Participant 872,13707,Oh yeah that's helpful.,4,10,NA,13757,3,872,264,250,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13759,Participant 548,13707,I feel like I thought before that the gun the pistols would be useful but like what are you gonna hunt on the moon?,4,17,NA,13758,3,548,264,257,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13760,Participant 623,13707,Right.,4,25,NA,13759,3,623,264,265,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13761,Participant 548,13707,Or like what's gonna attack you on the moon? So like that can be low.,4,26,NA,13760,3,548,264,266,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13762,Participant 872,13707,"Yeah, I was confused if we crashed on the moon or on Earth, but I guess it is the moon. When I was originally doing this. I was like, Oh, well, we crashed somewhere and then fell back on Earth but I think we're still on the moon right so I guess the pistols wouldn't really",4,31,NA,13761,3,872,264,271,teamwork,1,FALSE,548,548,2,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13763,Participant 623,13707,"Uh, what about the first aid kit?",4,46,NA,13762,3,623,264,286,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13764,Participant 872,13707,"Yeah, I",4,48,NA,13763,3,872,264,288,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13765,Participant 872,13707,feel like that's important. Probably got some cuts. Got some cuts in our crash.,4,48,NA,13764,3,872,264,288,teamwork,1,FALSE,872,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13766,Participant 872,13707,Yeah.,4,48,NA,13765,3,872,264,288,teamwork,1,FALSE,872,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13767,Participant 623,13707,"There's also inflating life raft. I mean, aren't we already floating? I don't know.",4,55,NA,13766,3,623,264,295,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13768,Participant 548,13707,"Yeah, lets put that one last.",5,2,NA,13767,3,548,264,302,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13769,Participant 872,13707,Yeah.,5,3,NA,13768,3,872,264,303,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13770,Participant 623,13707,Mm hmm.,5,4,NA,13769,3,623,264,304,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13771,Participant 872,13707,"Do you think the solar powered receiver might work? Because like, I guess the sun does hit the moon. Maybe we could put the solar powered one eight.",5,5,NA,13770,3,872,264,305,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13772,Participant 623,13707,"Exactly, yeah.",5,13,NA,13771,3,623,264,313,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13773,Participant 548,13707,What is seven?,5,14,NA,13772,3,548,264,314,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13774,Participant 872,13707,"Oh, the first aid kit?",5,16,NA,13773,3,872,264,316,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13775,Participant 623,13707,Yeah.,5,17,NA,13774,3,623,264,317,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13776,Participant 548,13707,So seven is first aid kit.,5,18,NA,13775,3,548,264,318,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13777,Participant 872,13707,"We said 15 for the raft, right?",5,21,NA,13776,3,872,264,321,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13778,Participant 548,13707,Yeah.,5,23,NA,13777,3,548,264,323,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13779,Participant 623,13707,Mm hmm.,5,25,NA,13778,3,623,264,325,teamwork,1,FALSE,548,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13780,Participant 548,13707,And then what do we have as four and five?,5,25,NA,13779,3,548,264,325,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13781,Participant 872,13707,Four was the food and five was the stellar map.,5,28,NA,13780,3,872,264,328,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13782,Participant 548,13707,And then is box of matches three?,5,35,NA,13781,3,548,264,335,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13783,Participant 872,13707,"Um, we put water five gallons of water for three",5,38,NA,13782,3,872,264,338,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13784,Participant 548,13707,"We have five minutes left, and then what is two?",5,42,NA,13783,3,548,264,342,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13785,Participant 872,13707,Portable heating unit?,5,45,NA,13784,3,872,264,345,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13786,Participant 623,13707,Portable heating unit.,5,45,NA,13785,3,623,264,345,teamwork,1,FALSE,872,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13787,Participant 872,13707,"Maybe the compass would be helpful because like if we have a map, like it's not so helpful unless we have a compass. So should we put that at nine? Yeah.",5,49,NA,13786,3,872,264,349,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13788,Participant 623,13707,"Signal flares, you guys said it was like towards the end, right?",6,3,NA,13787,3,623,264,363,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13789,Participant 872,13707,I feel like Yeah.,6,7,NA,13788,3,872,264,367,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13790,Participant 548,13707,Yeah,6,10,NA,13789,3,548,264,370,teamwork,1,FALSE,872,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13791,Participant 872,13707,"I'm like, come to rescue you and then you know, the parachute. I guess you can't like parachute from the moon either. So.",6,10,NA,13790,3,872,264,370,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13792,Participant 548,13707,"Okay, parachute. 14.",6,22,NA,13791,3,548,264,382,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13793,Participant 872,13707,"The rope might be helpful. Because you know, when you're in space, you're like floating. So if you have a rope to tie on to something,",6,23,NA,13792,3,872,264,383,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13794,Participant 623,13707,"Oh, that one would it be? 10?",6,29,NA,13793,3,623,264,389,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13795,Participant 872,13707,Yeah.,6,30,NA,13794,3,872,264,390,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13796,Participant 623,13707,And then the pistol could be like,6,34,NA,13795,3,623,264,394,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13797,Participant 548,13707,14? or 13. So then makes parachute silk 13?,6,38,NA,13796,3,548,264,398,teamwork,1,FALSE,623,"623,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #6_team_round 1_otter.ai,13798,Participant 623,13707,"Yeah, yeah, I was gonna say I thought I maybe messed up. But I'm not the only one that put it for 14.",6,46,NA,13797,3,623,264,406,teamwork,1,FALSE,548,548,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13799,Participant 872,13707,"And then,",6,54,NA,13798,3,872,264,414,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13800,Participant 548,13707,"so we're between boxing matches and signal flares, right?",6,55,NA,13799,3,548,264,415,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13801,Participant 623,13707,"Yeah,",6,58,NA,13800,3,623,264,418,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13802,Participant 872,13707,I guess I think you need a box of matches to even do signal flares.,6,59,NA,13801,3,872,264,419,teamwork,1,FALSE,623,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13803,Participant 548,13707,Would you even be able to get a box of matches to light in the atmosphere? True. Let me Google Are we allowed to Google? Can matches light on the moon?,7,3,NA,13802,3,548,264,423,teamwork,1,FALSE,872,"all,872,all","0,0,0","0,0,0","0,0,0","0,0,0","0,0,0"
+02_27_2021_vero #6_team_round 1_otter.ai,13804,Participant 548,13707,"Yeah, lack of oxygen. A match cannot ignite it all. Okay, so let's make that last.",7,3,NA,13803,3,548,264,423,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13805,Participant 872,13707,So the life raft we can put as like 13 then.,7,29,NA,13804,3,872,264,449,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13806,Participant 548,13707,Okay.,7,33,NA,13805,3,548,264,453,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13807,Participant 872,13707,And then our only one left is 12 which would be the signal flares.,7,34,NA,13806,3,872,264,454,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13808,Participant 872,13707,You guys think that's good?,7,34,NA,13807,3,872,264,454,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13809,Participant 548,13707,"Okay, I have self inflating like life raft. And parachute silk is 13. So",7,44,NA,13808,3,548,264,464,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13810,Participant 548,13707,what did I,7,44,NA,13809,3,548,264,464,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13811,Participant 872,13707,"Oh, same, yeah",7,50,NA,13810,3,872,264,470,teamwork,1,FALSE,548,548,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13812,Participant 623,13707,I,7,50,NA,13811,3,623,264,470,teamwork,1,FALSE,872,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13813,Participant 623,13707,"had the same thing too. So,",7,50,NA,13812,3,623,264,470,teamwork,1,FALSE,623,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13814,Participant 548,13707,"so 15, 14, 13, 12, Okay we're missing 11.",7,52,NA,13813,3,548,264,472,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13815,Participant 872,13707,Okay,7,57,NA,13814,3,872,264,477,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13816,Participant 548,13707,"So which one do we want to make 11? Really signal flares? Wait, no, what is it?",7,58,NA,13815,3,548,264,478,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13817,Participant 872,13707,Either the parachute or the life raft?,8,4,NA,13816,3,872,264,484,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13818,Participant 548,13707,"OK, parachute or life raft.",8,6,NA,13817,3,548,264,486,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13819,Participant 623,13707,I have signal flares open and the self inflating life raft I put 13. So did I do something wrong?,8,8,NA,13818,3,623,264,488,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13820,Participant 548,13707,"No, I think we're gonna do signal flares is 12",8,16,NA,13819,3,548,264,496,teamwork,1,FALSE,623,623,0,2,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13821,Participant 623,13707,"Okay, so the parachute silk, would that be 11?",8,19,NA,13820,3,623,264,499,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13822,Participant 548,13707,We're deciding between the silk and the life draft - life raft.,8,23,NA,13821,3,548,264,503,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13823,Participant 623,13707,Okay.,8,27,NA,13822,3,623,264,507,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13824,Participant 872,13707,"I feel like parachute might be good because I guess like, at a certain point someone's trying to rescue like you're gonna need a maybe a parachute and then so 11?",8,28,NA,13823,3,872,264,508,teamwork,1,FALSE,623,all,0,1,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13825,NA,13707,Unknown Speaker  8:37,8,28,NA,13824,3,872,264,508,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13826,Participant 548,13707,11 parachutes,8,28,NA,13825,3,872,264,508,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13827,Participant 872,13707,okay.,8,39,NA,13826,3,872,264,519,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13828,Participant 623,13707,"Sorry if you hear background noise, there's kids in the house, so.",8,39,NA,13827,3,623,264,519,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13829,Participant 872,13707,"Should we read this off really quickly just because we have, let's see, a minute and a half?",8,46,NA,13828,3,872,264,526,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13830,Participant 548,13707,"Box of matches 15. Is that, does your start at box of matches? Yeah, okay. Food concentrate four, 50 feet of nylon rope 10, parachute silk 11. Portable heating unit two. pistols, 14. One, uh. Milk six. One is oxygen, five stellar map. 13, life raft. Nine, compass. Three water, 12 signal flares, seven First Aid Kit, eight FM transmitter?",8,51,NA,13829,3,548,264,531,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13831,Participant 872,13707,Yep.,9,21,NA,13830,3,872,264,561,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13832,Participant 623,13707,Mm hmm.,9,22,NA,13831,3,623,264,562,teamwork,1,FALSE,872,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13833,Participant 872,13707,Okay. I'm gonna press the arrow then I guess?,9,22,NA,13832,3,872,264,562,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13834,Participant 548,13707,Please continue the next question at the same time.,9,30,NA,13833,3,548,264,570,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13835,Participant 872,13707,"Okay, we ready?",9,33,NA,13834,3,872,264,573,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13836,Participant 548,13707,"321 Okay, a brick. I wrote down all of my little things.",9,34,NA,13835,3,548,264,574,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13837,Participant 872,13707,Okay.,9,43,NA,13836,3,872,264,583,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13838,Participant 548,13707,"Okay, this is, I'm gonna copy paste. Is that bad?",9,44,NA,13837,3,548,264,584,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13839,Participant 872,13707,I don't think so.,9,48,NA,13838,3,872,264,588,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13840,Participant 548,13707,"Okay, I said a paperweight.",9,49,NA,13839,3,548,264,589,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13841,Participant 872,13707,"Okay. Oh nice, I said that too.",9,51,NA,13840,3,872,264,591,teamwork,1,FALSE,548,548,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13842,Participant 548,13707,"Bookends, and I said a brick path. And I said that a path outliner? I don't know if that's different but I wrote that. Brick pillars, firepit, outdoor oven, yard decorations, like kitchen smasher, or like making guacamole.",9,53,NA,13841,3,548,264,593,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13843,Participant 872,13707,"Okay, I had just like building a house or like a house in general like",10,20,NA,13842,3,872,264,620,teamwork,1,FALSE,548,"548,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #6_team_round 1_otter.ai,13844,Participant 548,13707,building a house.,10,25,NA,13843,3,548,264,625,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13845,Participant 872,13707,And like I guess building any other building I don't know like if that,10,28,NA,13844,3,872,264,628,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13846,Participant 548,13707,Or any building slash structure.,10,31,NA,13845,3,548,264,631,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13847,Participant 872,13707,Yeah.,10,35,NA,13846,3,872,264,635,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13848,Participant 872,13707,"Um, I had like, if you're like a weightlifter if you don't have weights like you can use, so weightlifting.",10,35,NA,13847,3,872,264,635,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13849,Participant 548,13707,Okay.,10,43,NA,13848,3,548,264,643,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13850,Participant 872,13707,"Okay, we're already good.",10,54,NA,13849,3,872,264,654,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13851,Participant 872,13707,"I'm gonna pull up what I, in my survey.",10,54,NA,13850,3,872,264,654,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13852,Participant 872,13707,Okay,10,54,NA,13851,3,872,264,654,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13853,Participant 623,13707,"I had basically the same thing you guys said. Oh, I'm sorry.",11,8,NA,13852,3,623,264,668,teamwork,1,FALSE,872,"all,872","0,0","0,0","1,0","0,0","0,0"
+02_27_2021_vero #6_team_round 1_otter.ai,13854,Participant 872,13707,"No no, go ahead. Sorry",11,11,NA,13853,3,872,264,671,teamwork,1,FALSE,623,623,1,0,2,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13855,Participant 623,13707,"The things you guys have said the weights and then the house building and the for paths, I put that too and then just wanted to put some input in here.",11,12,NA,13854,3,623,264,672,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13856,Participant 872,13707,"Okay,",11,23,NA,13855,3,872,264,683,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13857,Participant 872,13707,I also put this like some random building a chimney.,11,23,NA,13856,3,872,264,683,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13858,Participant 623,13707,Yes.,11,26,NA,13857,3,623,264,686,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13859,Participant 872,13707,I also put like flooring like in a house like I feel like you can have like brick floors for like some rooms I put a pizza oven brick oven pizza,11,35,NA,13858,3,872,264,695,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13860,Participant 623,13707,for roofing?,11,52,NA,13859,3,623,264,712,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13861,Participant 872,13707,what?,11,54,NA,13860,3,872,264,714,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13862,Participant 623,13707,you can make a roof out of bricks,11,55,NA,13861,3,623,264,715,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13863,Participant 872,13707,"roof,",11,57,NA,13862,3,872,264,717,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13864,Participant 872,13707,yeah,11,57,NA,13863,3,872,264,717,teamwork,1,FALSE,872,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13865,Participant 872,13707,brick stairs,11,57,NA,13864,3,872,264,717,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13866,Participant 872,13707,"and I said okay, so so the path like I feel like there's like brick roads and like driveways so maybe like roads and driveways",11,57,NA,13865,3,872,264,717,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13867,Participant 872,13707,"separate um,",11,57,NA,13866,3,872,264,717,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13868,Participant 872,13707,I thought that also you can use as a weapon kind of violent but like,11,57,NA,13867,3,872,264,717,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13869,Participant 548,13707,"Oh, that's good.",12,28,NA,13868,3,548,264,748,teamwork,1,FALSE,872,872,2,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13870,Participant 872,13707,Throw it at someone if you're in a dire situation. And I said like like play bricks like kids like as like a toy for kids. I'm saying like play brick. Lightweight bricks for kids or something,12,29,NA,13869,3,872,264,749,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13871,Participant 872,13707,I think that's all I had,12,29,NA,13870,3,872,264,749,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13872,Participant 623,13707,"Yeah, I definitely didn't have as much as you guys did.",12,54,NA,13871,3,623,264,774,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13873,Participant 872,13707,Oh wall was the other one that I had.,12,59,NA,13872,3,872,264,779,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13874,Participant 548,13707,"Oh, wall.",13,3,NA,13873,3,548,264,783,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13875,Participant 872,13707,"Okay, we have six and a half minutes left. trying to think what else",13,10,NA,13874,3,872,264,790,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13876,Participant 872,13707,Did we already say a fireplace?,13,10,NA,13875,3,872,264,790,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13877,Participant 548,13707,"Um,",14,4,NA,13876,3,548,264,844,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13878,Participant 548,13707,you said a chimney.,14,4,NA,13877,3,548,264,844,teamwork,1,FALSE,548,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13879,Participant 872,13707,"Okay,",14,8,NA,13878,3,872,264,848,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13880,Participant 548,13707,"We said firepit, pizza oven, oven. I'mma add fireplace.",14,8,NA,13879,3,548,264,848,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13881,Participant 872,13707,Trying to think like when you would need something heavy. So like I guess like paperweight. Or like.,14,45,NA,13880,3,872,264,885,teamwork,1,FALSE,548,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13882,Participant 872,13707,Do we just wait then I guess?,14,45,NA,13881,3,872,264,885,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13883,Participant 623,13707,I guess,15,30,NA,13882,3,623,264,930,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13884,Participant 872,13707,Ok.,15,31,NA,13883,3,872,264,931,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13885,Participant 623,13707,Oh it gives me the arrow already.,15,33,NA,13884,3,623,264,933,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13886,Participant 872,13707,Me too. I don't know if we should stay or go to the next one.,15,36,NA,13885,3,872,264,936,teamwork,1,FALSE,623,"623,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #6_team_round 1_otter.ai,13887,Participant 623,13707,I don't know,15,43,NA,13886,3,623,264,943,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13888,Participant 623,13707,"If you just click it, I'll click it. If not I won't.",15,43,NA,13887,3,623,264,943,teamwork,1,FALSE,623,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13889,Participant 548,13707,Are we clicking it?,16,10,NA,13888,3,548,264,970,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13890,Participant 623,13707,"I think we should. I don't, I don't want to be the one to give bad advice.",16,12,NA,13889,3,623,264,972,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13891,Participant 548,13707,"Okay, I'll click on.",16,16,NA,13890,3,548,264,976,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13892,Participant 872,13707,Yeah.,16,17,NA,13891,3,872,264,977,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13893,Participant 872,13707,"Okay, looks good.",16,17,NA,13892,3,872,264,977,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13894,Participant 548,13707,You are now... we respond individually to this.,16,19,NA,13893,3,548,264,979,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13895,Participant 872,13707,Okay.,16,26,NA,13894,3,872,264,986,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13896,Participant 548,13707,Oh my gosh there's so many questions?,18,54,NA,13895,3,548,264,1134,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13897,Participant 872,13707,Yeah.,18,56,NA,13896,3,872,264,1136,teamwork,1,FALSE,548,548,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13898,Participant 872,13707,Need to make another coffee.,18,56,NA,13897,3,872,264,1136,teamwork,1,FALSE,872,all,1,0,1,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13899,NA,13707,STRONG Team  19:48,18,56,NA,13898,3,872,264,1136,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13900,NA,13707,"Hi everyone. Sorry,",18,56,NA,13899,3,872,264,1136,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13901,NA,13707,I'm just checking in that you guys have all the passwords and everything and move forward.,18,56,NA,13900,3,872,264,1136,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13902,NA,13707,We haven't been prompted to put any in yet.,19,54,NA,13901,3,872,264,1194,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13903,NA,13707,STRONG Team  19:58,19,54,NA,13902,3,872,264,1194,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13904,NA,13707,You haven't. Okay. Very interesting. Are you guys working on the creativity test then?,19,54,NA,13903,3,872,264,1194,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13905,NA,13707,We just finished it. So we're on the  survey questions now.,20,4,NA,13904,3,872,264,1204,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13906,NA,13707,STRONG Team  20:07,20,4,NA,13905,3,872,264,1204,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13907,NA,13707,"Okay,",20,4,NA,13906,3,872,264,1204,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13908,NA,13707,so hang tight on the survey questions until you hit stop. And we'll we're trying to figure out the timing with everyone. So hang in there and we'll check in with you guys soon.,20,4,NA,13907,3,872,264,1204,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13909,NA,13707,"Okay, so don't do the survey right now?",20,19,NA,13908,3,872,264,1219,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13910,NA,13707,STRONG Team  20:21,20,19,NA,13909,3,872,264,1219,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13911,NA,13707,"Um, you can you can begin on the survey since it's completed individually, so you'll do it independently and then we'll we'll announce when we're gonna bring everyone back in.",20,19,NA,13910,3,872,264,1219,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13912,NA,13707,"Okay, got it.",20,30,NA,13911,3,872,264,1230,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13913,NA,13707,STRONG Team  20:32,20,30,NA,13912,3,872,264,1230,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13914,NA,13707,Thanks.,20,30,NA,13913,3,872,264,1230,teamwork,1,FALSE,872,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #6_team_round 1_otter.ai,13915,Participant 872,13707,"I think she said we finish the survey? Right? And then we don't do anything after that. I don't know. I couldn't, wasn't really clear.",20,39,NA,13914,3,872,264,1239,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13916,Participant 623,13707,"Yeah,",20,47,NA,13915,3,623,264,1247,teamwork,1,FALSE,872,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13917,Participant 623,13707,I don't know either.,20,47,NA,13916,3,623,264,1247,teamwork,1,FALSE,623,872,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13918,Participant 872,13707,"I think because she was like, you can do it because it's individually. So I guess that means yes. You got to the next one. Okay.",20,52,NA,13917,3,872,264,1252,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13919,Participant 623,13707,"So when it says stop, we don't touch the arrow?",21,42,NA,13918,3,623,264,1302,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13920,Participant 548,13707,"Yeah, I didn't click it.",21,44,NA,13919,3,548,264,1304,teamwork,1,FALSE,623,623,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13921,Participant 623,13707,Okay. Thank you.,21,46,NA,13920,3,623,264,1306,teamwork,1,FALSE,548,548,1,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13922,Participant 872,13707,"Okay, I got there too.",21,51,NA,13921,3,872,264,1311,teamwork,1,FALSE,623,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13923,Participant 872,13707,I'm gonna run to the bathroom probably be back in,21,51,NA,13922,3,872,264,1311,teamwork,1,FALSE,872,all,0,0,0,0,0
+02_27_2021_vero #6_team_round 1_otter.ai,13924,Participant 872,13707,one minute.,21,51,NA,13923,3,872,264,1311,teamwork,1,FALSE,872,all,0,0,0,0,0

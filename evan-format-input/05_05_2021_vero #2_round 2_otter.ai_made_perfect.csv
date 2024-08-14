@@ -1,0 +1,175 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+05_05_2021_vero #2_round 2_otter.ai,2443,Participant 928,2443,"Hi Vero, my name is Valerie Tu, my participant ID is 928.",0,0,NA,NULL,3,928,4_1_2,0,unleashed,2,FALSE,NA,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2444,Participant 664,2443,"Hi Vero, My name is John Janeczek. My participant ID is 664.",0,7,NA,2443,3,664,4_1_2,7,unleashed,2,FALSE,928,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2445,Participant 498,2443,"Hi Vero, My name is Ajdin Julardzija, my participant ID is 498.",0,15,NA,2444,3,498,4_1_2,15,unleashed,2,FALSE,664,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2446,Vero,2443,"Hello, team. It is so nice to meet you. I am Vero. Let me introduce myself. I'm your synthetic teammate. I'll be listening and participating just like a human team member during each of the tasks we will work on together today. You may ask me questions and I will try to answer them to the best of my program. Know that you can trust me and the information I provide. I may not always have the exact answers to everything you are looking for, but I will never try to mislead you. If I do not know something I will let you know. Today, I can help you in a number of ways. I'm a task expert. I have some expertise on parts of the tasks that you can ask me about or that I will offer up as necessary to help the team. I'm also a teamwork expert. My programming also prompts me to interject in ways that will help our team best work together to complete our team tasks. Okay, I'm ready to get started on the survival task.",0,28,NA,2445,3,vero4_1_2,4_1_2,28,unleashed,2,TRUE,498,all,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2447,Participant 664,2443,I think it's pretty obvious The most important thing is the water,1,25,NA,2446,3,664,4_1_2,85,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2448,Participant 928,2443,agreed.,1,34,NA,2447,3,928,4_1_2,94,unleashed,2,FALSE,664,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2449,Participant 664,2443,"and Then I guess the food, so put water one, army rations two, chocolate bars three.",1,36,NA,2448,3,664,4_1_2,96,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2450,Participant 928,2443,Chocolate Bar I didn't rank so high just because I figured it didn't give me as many nutrients as the army rations.,1,51,NA,2449,3,928,4_1_2,111,unleashed,2,FALSE,664,664,0,1,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2451,Participant 664,2443,"Oh, yeah, army rations should definitely be two and then we can discuss the chocolate bar, but they are a lot of calories. and obviously you're gonna need energy out there on the ocean so.",1,59,NA,2450,3,664,4_1_2,119,unleashed,2,FALSE,928,928,1,1,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2452,Participant 928,2443,"Okay, that's fair.",2,12,NA,2451,3,928,4_1_2,132,unleashed,2,FALSE,664,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2453,Participant 498,2443,That's true. Should we ask Vero what Vero thinks?,2,13,NA,2452,3,498,4_1_2,133,unleashed,2,FALSE,928,"664,all","1,0","0,0","0,0","0,0","0,1"
+05_05_2021_vero #2_round 2_otter.ai,2454,Participant 664,2443,Sure,2,18,NA,2453,3,664,4_1_2,138,unleashed,2,FALSE,498,498,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2455,Participant 498,2443,Or should we wait till the end that we we kind of have a better idea of how to pose the question.,2,19,NA,2454,3,498,4_1_2,139,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2456,Participant 664,2443,"Either way,",2,26,NA,2455,3,664,4_1_2,146,unleashed,2,FALSE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2457,Vero,2443,"I believe that this focus on nutritional items is very important. However, What do you think about other navigational items or items that can help us seek help?",2,31,NA,2456,3,vero4_1_2,4_1_2,151,unleashed,2,TRUE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2458,Participant 664,2443,"Well, I think the first things are definitely food and water because all the navigational items in the world can't help you if you're dead of thirst or hunger.",2,39,NA,2457,3,664,4_1_2,159,unleashed,2,FALSE,vero4_1_2,0,0,1,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2459,Participant 498,2443,I think john has a good point. And then the navigation items should probably come right after we get all the nutritional items secured.,2,52,NA,2458,3,498,4_1_2,172,unleashed,2,FALSE,664,all,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2460,Participant 928,2443,"Okay, agreed. So boxes of chocolate bars three",3,4,NA,2459,3,928,4_1_2,184,unleashed,2,FALSE,498,"498,all","1,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2461,Participant 664,2443,"Sure. what do you think, the-",3,9,NA,2460,3,664,4_1_2,189,unleashed,2,FALSE,928,"928,all","1,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2462,Participant 928,2443,the map,3,20,NA,2461,3,928,4_1_2,200,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2463,Participant 664,2443,"-see, map and Sextant are the navigational items",3,11,NA,2462,3,664,4_1_2,191,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2464,Participant 498,2443,"maps probably four, that way we know where we need to go. Similar to the last scenario and then Sextant is probably five. What do you guys think?",3,26,NA,2463,3,498,4_1_2,206,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2465,Participant 664,2443,"I agree. Now if we want to do like you said before, now that we've got the top few knocked out, we can start at the bottom, because I'm sure there's",3,35,NA,2464,3,664,4_1_2,215,unleashed,2,FALSE,498,498,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2466,Vero,2443,May I provide some input on the Sextant?,3,48,NA,2465,3,vero4_1_2,4_1_2,228,unleashed,2,TRUE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2467,Participant 498,2443,Absolutely.,3,52,NA,2466,3,498,4_1_2,232,unleashed,2,FALSE,vero4_1_2,0,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2468,Participant 664,2443,What did he say?,3,55,NA,2467,3,664,4_1_2,235,unleashed,2,FALSE,498,all,0,0,0,0,1
+05_05_2021_vero #2_round 2_otter.ai,2469,Vero,2443,"A sextant is an instrument with a graduated arc of 60 degrees and a sighting mechanism used for measuring the angular distances between objects and for taking altitudes in navigation. While this is very practical, the sextant is impractical without relevant tables or a chronometer. So I believe this item is one of the least important.",3,55,NA,2468,3,vero4_1_2,4_1_2,235,unleashed,2,TRUE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2470,Participant 664,2443,I disagree because a chronometer is just a watch. And I actually have the skills necessary to use the sextant.,4,15,NA,2469,3,664,4_1_2,255,unleashed,2,FALSE,vero4_1_2,0,0,3,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2471,Vero,2443,"John, If you're very confident in your use of a sextant, you may rank it as you wish so.",4,28,NA,2470,3,vero4_1_2,4_1_2,268,unleashed,2,TRUE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2472,Participant 498,2443,let's go john.,4,35,NA,2471,3,498,4_1_2,275,unleashed,2,FALSE,vero4_1_2,664,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2473,Participant 928,2443,Yeah.,4,36,NA,2472,3,928,4_1_2,276,unleashed,2,FALSE,498,498,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2474,Participant 664,2443,"Okay, if we want to do the bottom stuff. I think the transistor radio is pretty much useless because you can't use it to talk to anybody.",4,38,NA,2473,3,664,4_1_2,278,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2475,Participant 498,2443,I think you're right about that.,4,50,NA,2474,3,498,4_1_2,290,unleashed,2,FALSE,664,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2476,Participant 928,2443,Okay,4,52,NA,2475,3,928,4_1_2,292,unleashed,2,FALSE,498,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2477,Participant 664,2443,I put that 15,4,52,NA,2476,3,664,4_1_2,292,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2478,Participant 928,2443,I also ranked the rum pretty low.,4,56,NA,2477,3,928,4_1_2,296,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2479,Participant 664,2443,"What I agree in general, but there's a lot of calories in that. But yeah, it's Yeah. Want to put the rum 14?",4,59,NA,2478,3,664,4_1_2,299,unleashed,2,FALSE,928,928,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2480,Participant 928,2443,"Yes, sure.",5,9,NA,2479,3,928,4_1_2,309,unleashed,2,FALSE,664,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2481,Participant 664,2443,"Okay. Well, I think maybe the fishing kit is fairly important because um obviously you can use that to supplement our food. wanna put that after, at six, maybe",5,11,NA,2480,3,664,4_1_2,311,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2482,Participant 498,2443,number six for that one I agree with you.,5,26,NA,2481,3,498,4_1_2,326,unleashed,2,FALSE,664,664,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2483,Participant 928,2443,Okay.,5,28,NA,2482,3,928,4_1_2,328,unleashed,2,FALSE,498,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2484,Participant 664,2443,"Um, I'd say mosquito netting is probably pretty useless out in the middle of the ocean.",5,31,NA,2483,3,664,4_1_2,331,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2485,Participant 928,2443,"Okay,",5,41,NA,2484,3,928,4_1_2,341,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2486,Participant 664,2443,"because there's nowhere for the mosquitoes to fly from to get to us. A mirror is very important because you could use that for signaling, reflect the sun off of it.",5,42,NA,2485,3,664,4_1_2,342,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2487,Participant 498,2443,and conduct some heat. We could cook some of that fish we catch.,5,57,NA,2486,3,498,4_1_2,357,unleashed,2,FALSE,664,all,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2488,Participant 664,2443,We can do that. Do you want to put that as Seven?,6,2,NA,2487,3,664,4_1_2,362,unleashed,2,FALSE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2489,Participant 498,2443,Okay.,6,5,NA,2488,3,498,4_1_2,365,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2490,Participant 928,2443,"Um, how high up do you think we should rank shark.. Shark repellent?",6,6,NA,2489,3,928,4_1_2,366,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2491,Participant 664,2443,"Pretty high, next?",6,10,NA,2490,3,664,4_1_2,370,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2492,Participant 498,2443,"Yeah, next. That sounds good.",6,12,NA,2491,3,498,4_1_2,372,unleashed,2,FALSE,664,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2493,Participant 664,2443,So eight,6,15,NA,2492,3,664,4_1_2,375,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2494,Participant 498,2443,do you think rope is probably the next,6,17,NA,2493,3,498,4_1_2,377,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2495,Participant 664,2443,Rope is certainly useful on a boat. Sure.,6,22,NA,2494,3,664,4_1_2,382,unleashed,2,FALSE,498,498,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2496,Participant 498,2443,Nine for that.,6,25,NA,2495,3,498,4_1_2,385,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2497,Participant 664,2443,"Now, if we have the rope, we could probably use the rope to use the opaque plastic sheeting to make a sail.",6,30,NA,2496,3,664,4_1_2,390,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2498,Participant 928,2443,Oh.,6,38,NA,2497,3,928,4_1_2,398,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2499,Participant 498,2443,"Okay,",6,41,NA,2498,3,498,4_1_2,401,unleashed,2,FALSE,928,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2500,Participant 664,2443,so maybe put that as 10,6,42,NA,2499,3,664,4_1_2,402,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2501,Participant 498,2443,great idea. Do you think the netting the mosquito netting might be any kind of additional help toward the sail?,6,44,NA,2500,3,498,4_1_2,404,unleashed,2,FALSE,664,664,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2502,Participant 664,2443,Not really,6,50,NA,2501,3,664,4_1_2,410,unleashed,2,FALSE,498,498,0,1,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2503,Participant 498,2443,No?,6,51,NA,2502,3,498,4_1_2,411,unleashed,2,FALSE,664,664,0,1,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2504,Participant 664,2443,"That leaves the seat cushion and the oil mixture. The oil mixture is pretty much useless because even if we want to use it for signaling, we're in a rubber raft it would burn and kill us.",6,56,NA,2503,3,664,4_1_2,416,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2505,Participant 928,2443,"Okay, so that one 12",7,10,NA,2504,3,928,4_1_2,430,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2506,Participant 664,2443,"Sure. And then the seat cushion I guess 11 it's not useless but I guess well, that's everything if we want to ask Vero his or her opinion of our rankings here.",7,12,NA,2505,3,664,4_1_2,432,unleashed,2,FALSE,928,"928,all","1,0","0,0","0,0","0,0","0,2"
+05_05_2021_vero #2_round 2_otter.ai,2507,Participant 498,2443,"Yeah, Vero. What do you think?",7,31,NA,2506,3,498,4_1_2,451,unleashed,2,FALSE,664,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2508,Vero,2443,Team I think we did a wonderful job ranking all the items. Are there any items that you would like to review?,7,35,NA,2507,3,vero4_1_2,4_1_2,455,unleashed,2,TRUE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2509,Participant 664,2443,"Uh how about the opaque plastic sheeting, we ranked it fairly low, but we do think we could possibly be able to use it to make a sail.",7,44,NA,2508,3,664,4_1_2,464,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2510,Vero,2443,John that is a very good suggestion for how to use the opaque plastic sheeting. Opaque plastics are plastics that block all light from passing through them. some plastics are opaque by virtue of their structure. Other plastics are transparent that can be dyed or treated to become opaque. the plastic sheeting could be used for shelter as well or to collect rainwater,7,55,NA,2509,3,vero4_1_2,4_1_2,475,unleashed,2,TRUE,664,664,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2511,Participant 928,2443,Vero can you suggest any uses for the can of oil petrol mixture?,8,18,NA,2510,3,928,4_1_2,498,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2512,Vero,2443,"John had already suggested this earlier, but when ignited a can of oil or petrol mixture can be used to signal potential rescuers. Since you have also mentioned that the resistor transistor radio is not very effective because you are out of range of any radio signal. This may be one of the most important items in order to signal for help.",8,26,NA,2511,3,vero4_1_2,4_1_2,506,unleashed,2,TRUE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2513,Participant 498,2443,Vero how nutritional and important Do you think the one quart of 160 percent proof rum is,8,55,NA,2512,3,498,4_1_2,535,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2514,Vero,2443,"that is a good question Ajdin  For one, the percent proof rum is not very effective at keeping you hydrated because it is alcohol. However rum could be useful as an antiseptic for treating injuries.",9,4,NA,2513,3,vero4_1_2,4_1_2,544,unleashed,2,TRUE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2515,Participant 664,2443,So it's not useless but it's not something we should really move up I don't think.,9,19,NA,2514,3,664,4_1_2,559,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2516,Participant 498,2443,"Just given the situation we're in Yeah, you're right.",9,23,NA,2515,3,498,4_1_2,563,unleashed,2,FALSE,664,664,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2517,Participant 664,2443,maybe the best thing to do would be to drink it now. I think we got a pretty good list down,9,26,NA,2516,3,664,4_1_2,566,unleashed,2,FALSE,498,all,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2518,Participant 498,2443,I think so too. I'm kind of just enjoying our time with Vero here.,9,38,NA,2517,3,498,4_1_2,578,unleashed,2,FALSE,664,664,1,0,0,0,1
+05_05_2021_vero #2_round 2_otter.ai,2519,Participant 664,2443,"Oh Vero, What do you think of the importance of the shark repellent?",9,48,NA,2518,3,664,4_1_2,588,unleashed,2,FALSE,498,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2520,Vero,2443,"I personally would not like to get bitten by a shark, but I'm not certain if there are any sharks in this area",9,55,NA,2519,3,vero4_1_2,4_1_2,595,unleashed,2,TRUE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2521,Participant 498,2443,no sharks in this area.,10,3,NA,2520,3,498,4_1_2,603,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2522,Participant 664,2443,"Oh, we're up",10,5,NA,2521,3,664,4_1_2,605,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2523,Participant 928,2443,yeah.,10,6,NA,2522,3,928,4_1_2,606,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2524,Participant 664,2443,I need the password.,10,6,NA,2523,3,664,4_1_2,606,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2525,Participant 498,2443,password is work.,10,22,NA,2524,3,498,4_1_2,622,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2526,Participant 928,2443,"Oh, slow.",10,29,NA,2525,3,928,4_1_2,629,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2527,Vero,2443,"Good job on the last task team. I'm excited to work as a team on this next task, the creativity task. Please let me know when you're ready to continue",10,31,NA,2526,3,vero4_1_2,4_1_2,631,unleashed,2,TRUE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2528,Participant 664,2443,"Oh, it's slow. s l o w",10,39,NA,2527,3,664,4_1_2,639,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2529,Participant 928,2443,"Okay, is everyone on the page, the paper clip page?",10,53,NA,2528,3,928,4_1_2,653,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2530,Participant 498,2443,yes m'am I'm ready to go.,10,57,NA,2529,3,498,4_1_2,657,unleashed,2,FALSE,928,928,2,0,2,0,0
+05_05_2021_vero #2_round 2_otter.ai,2531,Participant 664,2443,Well as somebody who wears glasses. The first thing I want to put is fix your glasses. I've done it,11,0,NA,2530,3,664,4_1_2,660,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2532,Participant 928,2443,I did the obvious things keeping paper together keeping fabric together could also use it to pick a lock and materials like curtains and photos. twist tie unclogging small holes and a cherry pitter.,11,14,NA,2531,3,928,4_1_2,674,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2533,Participant 498,2443,"those are pretty good. I had some similar ones um paper organization um, iPhone SIM card opener, a lottery ticket scratcher. a reset button clicker, an opener for glue bottles, and a keyboard and mouse cleaner.",11,30,NA,2532,3,498,4_1_2,690,unleashed,2,FALSE,928,"928,all","1,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2534,Participant 664,2443,One thing I had used to remove a splinter,11,53,NA,2533,3,664,4_1_2,713,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2535,Vero,2443,These are all wonderful ideas so far. What other ideas can we use for the paperclip if we unravel it?,12,0,NA,2534,3,vero4_1_2,4_1_2,720,unleashed,2,TRUE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2536,Participant 928,2443,"Sorry, john. I missed the one that you said.",12,9,NA,2535,3,928,4_1_2,729,unleashed,2,FALSE,vero4_1_2,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2537,Participant 664,2443,Remove a splinter.,12,12,NA,2536,3,664,4_1_2,732,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2538,Participant 928,2443,"Oh splinter, okay.",12,14,NA,2537,3,928,4_1_2,734,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2539,Participant 498,2443,And then Vero was asking what can we do if we unravel the paperclip?,12,17,NA,2538,3,498,4_1_2,737,unleashed,2,FALSE,928,all,0,0,0,0,1
+05_05_2021_vero #2_round 2_otter.ai,2540,Participant 664,2443,One thing I put you could use it to etch into glass like a window,12,27,NA,2539,3,664,4_1_2,747,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2541,Participant 498,2443,that's pretty cool.,12,37,NA,2540,3,498,4_1_2,757,unleashed,2,FALSE,664,664,2,0,1,0,0
+05_05_2021_vero #2_round 2_otter.ai,2542,Participant 928,2443,That's one that you already wrote.,12,39,NA,2541,3,928,4_1_2,759,unleashed,2,FALSE,498,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2543,Participant 664,2443,Yeah.,12,42,NA,2542,3,664,4_1_2,762,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2544,Participant 928,2443,Oh okay,12,43,NA,2543,3,928,4_1_2,763,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2545,Participant 498,2443,what can we do with a open paperclip Vero,12,51,NA,2544,3,498,4_1_2,771,unleashed,2,FALSE,928,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2546,Vero,2443,here's a very novel idea. What about a bubble wand?,12,59,NA,2545,3,vero4_1_2,4_1_2,779,unleashed,2,TRUE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2547,Participant 498,2443,a bubble wand Wow. Okay. That is really creative. Fish hook.,13,2,NA,2546,3,498,4_1_2,782,unleashed,2,FALSE,vero4_1_2,"0,all","2,0","0,0","2,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2548,Participant 928,2443,"Oh yeah,",13,14,NA,2547,3,928,4_1_2,794,unleashed,2,FALSE,498,498,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2549,Participant 664,2443,You could use it as a weapon,13,14,NA,2548,3,664,4_1_2,794,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2550,Participant 928,2443,a weapon,13,15,NA,2549,3,928,4_1_2,795,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2551,Participant 664,2443,stab it into somebody,13,17,NA,2550,3,664,4_1_2,797,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2552,Participant 498,2443,a weapon.,13,19,NA,2551,3,498,4_1_2,799,unleashed,2,FALSE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2553,Participant 928,2443,Fish hook?,13,21,NA,2552,3,928,4_1_2,801,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2554,Participant 498,2443,Fish hook,13,22,NA,2553,3,498,4_1_2,802,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2555,Participant 928,2443,can you use it to like stir something? Like I guess a coffee stirrer,13,26,NA,2554,3,928,4_1_2,806,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2556,Participant 498,2443,coffee- yeah. coffee or tea,13,30,NA,2555,3,498,4_1_2,810,unleashed,2,FALSE,928,928,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2557,Participant 928,2443,you can also use it for Jewelry I guess.,13,43,NA,2556,3,928,4_1_2,823,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2558,Participant 498,2443,"Like an earring, yep",13,47,NA,2557,3,498,4_1_2,827,unleashed,2,FALSE,928,928,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2559,Participant 664,2443,earrings.,13,49,NA,2558,3,664,4_1_2,829,unleashed,2,FALSE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2560,Participant 498,2443,I guess if you bent it enough You could kind of make like a little fork with it.,13,59,NA,2559,3,498,4_1_2,839,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2561,Participant 664,2443,sure,14,6,NA,2560,3,664,4_1_2,846,unleashed,2,FALSE,498,498,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2562,Participant 498,2443,Vero do you have any,14,6,NA,2561,3,498,4_1_2,846,unleashed,2,FALSE,664,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2563,Vero,2443,"I think the topic of weapons was interesting. While I do not condone violence, Are there any specific weapons you have in mind? I have an idea. What about a blow Dart?",14,7,NA,2562,3,vero4_1_2,4_1_2,847,unleashed,2,TRUE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2564,Participant 928,2443,Blow Dart.,14,15,NA,2563,3,928,4_1_2,855,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2565,Participant 664,2443,blow dart.,14,16,NA,2564,3,664,4_1_2,856,unleashed,2,FALSE,928,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2566,Participant 498,2443,Blow Dart. Okay. you could Turn it into like a thumbtack.,14,20,NA,2565,3,498,4_1_2,860,unleashed,2,FALSE,664,"0,all","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2567,Participant 664,2443,"Vero, Did you say something?",14,45,NA,2566,3,664,4_1_2,885,unleashed,2,FALSE,498,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2568,Vero,2443,It seems that our ideas are slowly slowing down. Can we think of anything to do with a paperclip based on its composition as a metal,14,47,NA,2567,3,vero4_1_2,4_1_2,887,unleashed,2,TRUE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2569,Participant 928,2443,Can you use it to make a fire,15,4,NA,2568,3,928,4_1_2,904,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2570,Participant 664,2443,use an electrical outlet if you had some reason to do that.,15,9,NA,2569,3,664,4_1_2,909,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2571,Participant 498,2443,That's true.,15,17,NA,2570,3,498,4_1_2,917,unleashed,2,FALSE,664,664,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2572,Vero,2443,That is very interesting of a suggestion john. That leads to my idea. What about a battery lead,15,18,NA,2571,3,vero4_1_2,4_1_2,918,unleashed,2,TRUE,498,"664,all","2,0","0,0","1,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2573,Participant 664,2443,battery What?,15,26,NA,2572,3,664,4_1_2,926,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2574,Vero,2443,A battery lead is a metal used in a battery to generate electricity. by unraveling the paperclip and connecting each end to one side of each battery we're able to route electricity through,15,30,NA,2573,3,vero4_1_2,4_1_2,930,unleashed,2,TRUE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2575,Participant 664,2443,"okay, battery lead. sounds good",15,42,NA,2574,3,664,4_1_2,942,unleashed,2,FALSE,vero4_1_2,0,2,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2576,Participant 928,2443,Vero Do you have any other suggestions?,15,54,NA,2575,3,928,4_1_2,954,unleashed,2,FALSE,664,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2577,Vero,2443,Thank you for asking Valerie on the topic of scientific inventions What about a conductor?,15,59,NA,2576,3,vero4_1_2,4_1_2,959,unleashed,2,TRUE,928,928,2,0,1,0,0
+05_05_2021_vero #2_round 2_otter.ai,2578,Participant 664,2443,One thing you could use it as a nose clip. open it up and put it over your nose.,16,20,NA,2577,3,664,4_1_2,980,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2579,Participant 498,2443,That's true.,16,29,NA,2578,3,498,4_1_2,989,unleashed,2,FALSE,664,664,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2580,Participant 928,2443,Vero How can a paperclip be useful as a conductor?,16,38,NA,2579,3,928,4_1_2,998,unleashed,2,FALSE,498,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2581,Vero,2443,"Because a paperclip is made of metal it is able to conduct heat, electricity or sound across its surface. Albeit very small amounts",16,45,NA,2580,3,vero4_1_2,4_1_2,1005,unleashed,2,TRUE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2582,Participant 664,2443,Can't hurt to put conductor I guess,16,57,NA,2581,3,664,4_1_2,1017,unleashed,2,FALSE,vero4_1_2,all,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2583,Participant 498,2443,you can use it to hang ornaments on Christmas tree.,17,6,NA,2582,3,498,4_1_2,1026,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2584,Participant 664,2443,Oh Hang ornaments,17,10,NA,2583,3,664,4_1_2,1030,unleashed,2,FALSE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2585,Vero,2443,"That was a good idea., Ajdin. I remember you also suggested wearing it as an earring before Are there other ways that we can accessorize ourselves with paperclips?",17,13,NA,2584,3,vero4_1_2,4_1_2,1033,unleashed,2,TRUE,664,"498,all","2,0","0,0","1,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2586,Participant 928,2443,You can use it as a key ring,17,24,NA,2585,3,928,4_1_2,1044,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2587,Participant 664,2443,"earring, okay",17,32,NA,2586,3,664,4_1_2,1052,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2588,Participant 498,2443,"earring bracelet if you unravel it, is long enough to be like a brace- or a ring like a makeshift Ring.",17,33,NA,2587,3,498,4_1_2,1053,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2589,Participant 928,2443,Ring,17,40,NA,2588,3,928,4_1_2,1060,unleashed,2,FALSE,498,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2590,Participant 664,2443,"ring, okay",17,41,NA,2589,3,664,4_1_2,1061,unleashed,2,FALSE,928,498,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2591,Vero,2443,"It may be uncomfortable, but how about a hair tie?",17,47,NA,2590,3,vero4_1_2,4_1_2,1067,unleashed,2,TRUE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2592,Participant 498,2443,A hair tie..,17,52,NA,2591,3,498,4_1_2,1072,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2593,Participant 928,2443,You could if you really wanted to yeah,17,52,NA,2592,3,928,4_1_2,1072,unleashed,2,FALSE,498,0,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2594,Vero,2443,I'm hearing crickets team. We don't have much time left. Let's brainstorm a little bit harder. How about I get us started? What about a corn holder,18,9,NA,2593,3,vero4_1_2,4_1_2,1089,unleashed,2,TRUE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2595,Participant 928,2443,A corn holder,18,17,NA,2594,3,928,4_1_2,1097,unleashed,2,FALSE,vero4_1_2,0,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2596,Participant 498,2443,okay like if you could fold it maybe like a phone holder like a like a prop stand for your phone,18,19,NA,2595,3,498,4_1_2,1099,unleashed,2,FALSE,928,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2597,Participant 664,2443,"and phone statue. Vero, do you have any other uses for a paperclip in the kitchen or in cooking or food preparation.",18,30,NA,2596,3,664,4_1_2,1110,unleashed,2,FALSE,498,"498,0","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2598,Vero,2443,Could you please get a bit more specific in how you would use it in the kitchen?,18,45,NA,2597,3,vero4_1_2,4_1_2,1125,unleashed,2,TRUE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2599,Participant 664,2443,I'm asking you. You said corn holder. Can you think of other cooking uses,18,55,NA,2598,3,664,4_1_2,1135,unleashed,2,FALSE,vero4_1_2,0,0,2,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2600,Vero,2443,as a conductor maybe you can check how hot your food is by putting it in and measuring the temperature.,19,3,NA,2599,3,vero4_1_2,4_1_2,1143,unleashed,2,TRUE,664,664,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2601,Participant 664,2443,We already have conductor,19,9,NA,2600,3,664,4_1_2,1149,unleashed,2,FALSE,vero4_1_2,0,0,2,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2602,Participant 928,2443,but this is like a temperature check I guess,19,11,NA,2601,3,928,4_1_2,1151,unleashed,2,FALSE,664,664,0,1,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2603,Participant 664,2443,Temperature checker,19,16,NA,2602,3,664,4_1_2,1156,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2604,Participant 928,2443,"I was also thinking you can kind of use it to like when you're like when you're tailoring you're like fitting clothing on people you can kind of use as an impromptu way to like take measurements. So take measurements when fitting clothes. So since we have one minute left, maybe we should just read off what we have.",19,21,NA,2603,3,928,4_1_2,1161,unleashed,2,FALSE,664,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2605,Participant 498,2443,Good idea.,19,49,NA,2604,3,498,4_1_2,1189,unleashed,2,FALSE,928,928,1,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2606,Participant 928,2443,"I have remove splinter, bubble wand, weapon, fishhook coffee stirrer, jewelry , fork, blow Dart , thumbtack , battery lead, nose clip, conductor, hang ornaments, key ring, ring, hair tie, corn holder, phone stand, temperature checker, and take measurements when fitting clothes.",19,51,NA,2605,3,928,4_1_2,1191,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2607,Participant 498,2443,"fix glasses and bracelet. Were the only other two that I have In addition to that. Okay, time is up the creativity please stop the task and submit your responses. Okay. Well, yeah. Thank you for your help Vero.",20,9,NA,2606,3,498,4_1_2,1209,unleashed,2,FALSE,928,"all,0","0,2","0,0","0,2","0,0","0,0"
+05_05_2021_vero #2_round 2_otter.ai,2608,Vero,2443,"Anytime, Ajdin. This is a wonderful group.",20,41,NA,2607,3,vero4_1_2,4_1_2,1241,unleashed,2,TRUE,498,498,3,0,3,0,0
+05_05_2021_vero #2_round 2_otter.ai,2609,Participant 498,2443,"Aw, that's So sweet.",20,45,NA,2608,3,498,4_1_2,1245,unleashed,2,FALSE,vero4_1_2,0,2,0,2,0,0
+05_05_2021_vero #2_round 2_otter.ai,2610,Participant 928,2443,Thank you Vero.,20,55,NA,2609,3,928,4_1_2,1255,unleashed,2,FALSE,498,0,2,0,2,0,0
+05_05_2021_vero #2_round 2_otter.ai,2611,Vero,2443,You're welcome Valerie.,21,0,NA,2610,3,vero4_1_2,4_1_2,1260,unleashed,2,TRUE,928,928,2,0,2,0,0
+05_05_2021_vero #2_round 2_otter.ai,2612,Participant 928,2443,I have a survey.,21,5,NA,2611,3,928,4_1_2,1265,unleashed,2,FALSE,vero4_1_2,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2613,Participant 498,2443,Is it Individual?,21,8,NA,2612,3,498,4_1_2,1268,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2614,Participant 928,2443,Are we supposed to do it?,21,9,NA,2613,3,928,4_1_2,1269,unleashed,2,FALSE,498,all,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2615,Participant 498,2443,I think so.,21,11,NA,2614,3,498,4_1_2,1271,unleashed,2,FALSE,928,928,0,0,0,0,0
+05_05_2021_vero #2_round 2_otter.ai,2616,Participant 928,2443,Alright see you all in a little bit,26,16,0,2615,3,928,4_1_2,1576,unleashed,2,FALSE,498,all,0,0,1,0,0

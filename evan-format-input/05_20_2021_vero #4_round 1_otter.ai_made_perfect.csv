@@ -1,0 +1,224 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+05_20_2021_vero #4_round 1_otter.ai,16802,NA,16802,STRONG Team  0:02,NA,NA,NA,NULL,2,NA,NA,NA,NA,1,NA,145,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16803,NA,16802,"Hi, I see you asked for help.",NA,NA,NA,16802,2,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16804,NA,16802,Yeah. So is there a link to the task?,0,4,NA,16803,2,540,4_5_4,4,unleashed,1,FALSE,NA,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16805,NA,16802,STRONG Team  0:09,0,4,NA,16804,2,540,4_5_4,4,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16806,NA,16802,"Oh, yeah. Did you start a Qualtrics? link? I can send it again.",0,4,NA,16805,2,540,4_5_4,4,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16807,NA,16802,Okay.,0,14,NA,16806,2,540,4_5_4,14,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16808,NA,16802,STRONG Team  0:14,0,14,NA,16807,2,540,4_5_4,14,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16809,NA,16802,So this is okay... Okay. So are you able Are you in the Qualtrics link right now?,0,14,NA,16808,2,540,4_5_4,14,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16810,NA,16802,"Yeah, I'm filling out my name and the session. That's what I got.",0,43,NA,16809,2,540,4_5_4,43,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16811,NA,16802,STRONG Team  0:50,0,43,NA,16810,2,540,4_5_4,43,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16812,NA,16802,"Okay. Yeah, correct. And then if you continue to fill that in, then it will bring you up to a screen where it will ask for a password. And the password for that will be wave. Okay. All right. Mark, how are you doing? You're unmuted.",0,43,NA,16811,2,540,4_5_4,43,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16813,NA,16802,What's the breakout room number?,1,11,NA,16812,2,540,4_5_4,71,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16814,NA,16802,STRONG Team  1:14,1,11,NA,16813,2,540,4_5_4,71,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16815,NA,16802,You are in breakout room 4.,1,11,NA,16814,2,540,4_5_4,71,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16816,NA,16802,What's that?,1,17,NA,16815,2,106,4_5_4,77,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16817,NA,16802,STRONG Team  1:20,1,17,NA,16816,2,106,4_5_4,77,unleashed,1,FALSE,106,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16818,NA,16802,"Oh yeah, Mark, how are you doing? Do you have access to Qualtrics?",1,17,NA,16817,2,106,4_5_4,77,unleashed,1,FALSE,106,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16819,NA,16802,"Yes, I see the puzzle or the question.",1,24,NA,16818,2,106,4_5_4,84,unleashed,1,FALSE,106,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16820,NA,16802,STRONG Team  1:27,1,24,NA,16819,2,106,4_5_4,84,unleashed,1,FALSE,106,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16821,NA,16802,"Okay. Okay, we'll wait a little bit. Sorry, Linda, are you in Qualtrics right now",1,24,NA,16820,2,106,4_5_4,84,unleashed,1,FALSE,106,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16822,NA,16802,I see your team has found this ended.,1,35,NA,16821,2,540,4_5_4,95,unleashed,1,FALSE,106,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16823,NA,16802,STRONG Team  1:38,1,35,NA,16822,2,540,4_5_4,95,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16824,NA,16802,Okay. All right. Yeah. So you will be working with Art for this class. And I'm just going to leave the room so that you guys can work through the task together.,1,35,NA,16823,2,540,4_5_4,95,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16825,Participant 106,16802,"Okay. Great. Can you hear me? Linda, you hear me?",1,47,NA,16824,2,106,4_5_4,107,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16826,Participant 540,16802,"Yes, I can.",1,53,NA,16825,2,540,4_5_4,113,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16827,Participant 106,16802,"Hey, I said your name right?",1,54,NA,16826,2,106,4_5_4,114,unleashed,1,FALSE,540,540,0,0,1,0,0
+05_20_2021_vero #4_round 1_otter.ai,16828,Participant 540,16802,"Yeah, that's good.",1,57,NA,16827,2,540,4_5_4,117,unleashed,1,FALSE,106,106,0,0,1,0,0
+05_20_2021_vero #4_round 1_otter.ai,16829,Participant 106,16802,"All right, I'm Art. Well, I'm okay. Okay. And I remember ranking these things and my thought was you got to stay alive for the 200 miles I'm guessing you need oxygen on the moon I don't know are on this place and you may need water. So I said I'm putting number one was oxygen. I don't know.",1,58,NA,16828,2,106,4_5_4,118,unleashed,1,FALSE,540,540,0,0,1,0,0
+05_20_2021_vero #4_round 1_otter.ai,16830,Participant 540,16802,I have oxygen is number one too.,2,21,NA,16829,2,540,4_5_4,141,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16831,Participant 106,16802,Right. And then water I had as two,2,24,NA,16830,2,106,4_5_4,144,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16832,Participant 540,16802,"Ok, I had food concentrate is two.",2,30,NA,16831,2,540,4_5_4,150,unleashed,1,FALSE,106,106,0,1,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16833,Participant 106,16802,I can live with that.,2,33,NA,16832,2,106,4_5_4,153,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16834,Participant 540,16802,I don't care ever. I have water is three.,2,34,NA,16833,2,540,4_5_4,154,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16835,Participant 106,16802,"Okay, we'll go food concentrate two water three. Then, I don't know about a compass. I don't know if there's magnet.",2,37,NA,16834,2,106,4_5_4,157,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16836,Participant 540,16802,So I can't even find where is oxygen. Let's see.,2,52,NA,16835,2,540,4_5_4,172,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16837,Participant 106,16802,"Oh, let me see. 2 cases of...",2,58,NA,16836,2,106,4_5_4,178,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16838,Participant 540,16802,Yeah.,3,2,NA,16837,2,540,4_5_4,182,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16839,Participant 106,16802,"Yeah, I figured we needed I don't have a clue. Really. But Wow.",3,3,NA,16838,2,106,4_5_4,183,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16840,Participant 540,16802,So three...,3,10,NA,16839,2,540,4_5_4,190,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16841,Participant 106,16802,"Box of matches, I'm guessing. I don't know what I do. That's parachute.",3,14,NA,16840,2,106,4_5_4,194,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16842,Participant 540,16802,Next I have a portable heating unit.,3,19,NA,16841,2,540,4_5_4,199,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16843,Participant 106,16802,I'll do it. Yes. Very good. And that four?,3,23,NA,16842,2,106,4_5_4,203,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16844,Participant 540,16802,"Yeah. All right. And then five, I have matches. I don't know we don't have to put matches is five.",3,27,NA,16843,2,540,4_5_4,207,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16845,Participant 106,16802,I'm thinking of it's a planet and we need an oxygen. I don't know what we're gonna do with the matches say about them.,3,44,NA,16844,2,106,4_5_4,224,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16846,Participant 540,16802,Ok.,3,49,NA,16845,2,540,4_5_4,229,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16847,Participant 106,16802,"But I mean, what are we gonna do with rope? Well, we might need.",3,50,NA,16846,2,106,4_5_4,230,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16848,Participant 540,16802,That's true. Like there's not enough oxygen to,3,53,NA,16847,2,540,4_5_4,233,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16849,Participant 106,16802,"I don't Yeah, I don't know. I don't.",3,57,NA,16848,2,106,4_5_4,237,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16850,Participant 540,16802,"Okay, we'll skip matches.",4,0,NA,16849,2,540,4_5_4,240,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16851,Participant 106,16802,Skip matches. And then rope maybe. We might do it in miles you think?,4,1,NA,16850,2,106,4_5_4,241,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16852,Participant 540,16802,"Okay, so...",4,7,NA,16851,2,540,4_5_4,247,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16853,Participant 106,16802,I don't know about a liferaft - It doesn't say there's any water.,4,9,NA,16852,2,106,4_5_4,249,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16854,Participant 540,16802,"So wait, so the rope is number five. Is that right?",4,12,NA,16853,2,540,4_5_4,252,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16855,Participant 106,16802,Or what do you think about a receiver transmitter? Maybe that would be five. Do you think,4,16,NA,16854,2,106,4_5_4,256,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16856,Participant 540,16802,I had that as six.,4,21,NA,16855,2,540,4_5_4,261,unleashed,1,FALSE,106,106,0,1,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16857,Participant 106,16802,What did you have as Five?,4,23,NA,16856,2,106,4_5_4,263,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16858,Participant 540,16802,"Well, we'll put rope is five.",4,26,NA,16857,2,540,4_5_4,266,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16859,Participant 106,16802,Okay.,4,29,NA,16858,2,106,4_5_4,269,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16860,Participant 540,16802,We'll put solar powered FM for number six,4,30,NA,16859,2,540,4_5_4,270,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16861,Participant 106,16802,"Rope is five and solar powered six. Okay, we're getting there. We're getting there.",4,35,NA,16860,2,106,4_5_4,275,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16862,Participant 540,16802,Seven. I have the compass.,4,43,NA,16861,2,540,4_5_4,283,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16863,Participant 106,16802,The compass?,4,50,NA,16862,2,106,4_5_4,290,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16864,Participant 540,16802,Yeah.,4,51,NA,16863,2,540,4_5_4,291,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16865,Participant 106,16802,"Well, I you know, I don't know where to put it.",4,52,NA,16864,2,106,4_5_4,292,unleashed,1,FALSE,540,540,0,1,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16866,Participant 540,16802,Do magnetic conferences work on the moon?,4,56,NA,16865,2,540,4_5_4,296,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16867,Participant 106,16802,"That's exactly my thought. Is there. Is there a pole, but let's put it in. I mean, it wouldn't hurt us. And then how about how about the map?",5,0,NA,16866,2,106,4_5_4,300,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16868,Participant 540,16802,Ok.,5,7,NA,16867,2,540,4_5_4,307,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16869,Participant 106,16802,Because maybe that's 200 miles. Maybe we need to know.,5,8,NA,16868,2,106,4_5_4,308,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16870,Participant 540,16802,"You have a stellar map, is that it?",5,13,NA,16869,2,540,4_5_4,313,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16871,Participant 106,16802,"Yeah, well map.",5,16,NA,16870,2,106,4_5_4,316,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16872,Participant 540,16802,Okay.,5,18,NA,16871,2,540,4_5_4,318,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16873,Participant 106,16802,Might be more important than some of this like a 45. I don't know what we do with that. Extra dehydrated milk maybe.,5,18,NA,16872,2,106,4_5_4,318,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16874,Participant 540,16802,Okay. So milk for nine?,5,29,NA,16873,2,540,4_5_4,329,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16875,Participant 106,16802,"Yes. Okay. How about us? Oh, well, how about signal flares? Because if we got a group,",5,35,NA,16874,2,106,4_5_4,335,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16876,Participant 540,16802,"okay,",5,45,NA,16875,2,540,4_5_4,345,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16877,Participant 106,16802,I don't know.,5,46,NA,16876,2,106,4_5_4,346,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16878,Participant 540,16802,10?,5,46,NA,16877,2,540,4_5_4,346,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16879,Participant 106,16802,And a first aid kit,5,47,NA,16878,2,106,4_5_4,347,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16880,Participant 540,16802,Maybe 11?,5,49,NA,16879,2,540,4_5_4,349,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16881,Participant 106,16802,"All right. Now where are we self inflating liferaft. Wow. rest of these parachutes silk. Desert one. At first. What are we gonna do with that? Then I'm thinking well protect ourselves, you know?",5,52,NA,16880,2,106,4_5_4,352,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16882,Participant 540,16802,Yes.,6,9,NA,16881,2,540,4_5_4,369,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16883,Participant 106,16802,"Sun, but I can go. I think the last thing we might need...",6,10,NA,16882,2,106,4_5_4,370,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16884,Participant 540,16802,Is the matches?,6,17,NA,16883,2,540,4_5_4,377,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16885,Participant 106,16802,"Or the raft? Well, we can do Who knows? It didn't say there wasn't a raft.",6,21,NA,16884,2,106,4_5_4,381,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16886,Participant 540,16802,"Well, I'd like to sleep on raft.",6,27,NA,16885,2,540,4_5_4,387,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16887,Participant 106,16802,Good point. So,6,30,NA,16886,2,106,4_5_4,390,unleashed,1,FALSE,540,540,2,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16888,Participant 540,16802,I don't know. Are we sleeping? Are we just going,6,33,NA,16887,2,540,4_5_4,393,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16889,Participant 106,16802,I think we should do a little sleeping. I think we put raft 10.,6,36,NA,16888,2,106,4_5_4,396,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16890,Participant 540,16802,Okay.,6,41,NA,16889,2,540,4_5_4,401,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16891,Participant 106,16802,I think that's where we are.,6,42,NA,16890,2,106,4_5_4,402,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16892,Participant 540,16802,I'm saying signal flares for 10? Raft 11. Is that what you have?,6,44,NA,16891,2,540,4_5_4,404,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16893,Participant 106,16802,I got that. And now where are we?,6,49,NA,16892,2,106,4_5_4,409,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16894,Participant 540,16802,Pistols matches and parachute...,6,54,NA,16893,2,540,4_5_4,414,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16895,Participant 106,16802,How about parachute?,6,56,NA,16894,2,106,4_5_4,416,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16896,Participant 540,16802,"Okay,",6,59,NA,16895,2,540,4_5_4,419,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16897,Participant 106,16802,Matches and pistol.,7,0,NA,16896,2,106,4_5_4,420,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16898,Participant 540,16802,All right.,7,1,NA,16897,2,540,4_5_4,421,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16899,Participant 106,16802,All right. So got 12 or no?,7,2,NA,16898,2,106,4_5_4,422,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16900,Participant 540,16802,"Well, I have two elevens. So I have 2 11's. So what do you have for 11? Self inflating life raft or first aid kit?",7,6,NA,16899,2,540,4_5_4,426,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16901,Participant 106,16802,That's a good question. Let me see. I got the first aid kit as 11.,7,15,NA,16900,2,106,4_5_4,435,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16902,Participant 540,16802,Okay and then we have,7,20,NA,16901,2,540,4_5_4,440,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16903,Participant 106,16802,I have another 11. So we better change that self inflating deal to 12.,7,22,NA,16902,2,106,4_5_4,442,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16904,Participant 540,16802,"Okay, then 13 for the matches 13 for the matches.",7,28,NA,16903,2,540,4_5_4,448,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16905,Participant 106,16802,13 for the matches.,7,33,NA,16904,2,106,4_5_4,453,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16906,Participant 540,16802,"Oh, we got another 12. Here we got the parachute silk.",7,34,NA,16905,2,540,4_5_4,454,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16907,Participant 106,16802,"So Oh, okay.",7,37,NA,16906,2,106,4_5_4,457,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16908,Participant 540,16802,"Well, just 14. Matches 14. Then two pistols.",7,39,NA,16907,2,540,4_5_4,459,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16909,Participant 106,16802,2 45 caliber. Yeah. Oh...,7,49,NA,16908,2,106,4_5_4,469,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16910,Participant 540,16802,Just in case.,7,52,NA,16909,2,540,4_5_4,472,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16911,Participant 106,16802,"I can see those in the desert. But because you know, snakes are, you know, animals to eat.",7,53,NA,16910,2,106,4_5_4,473,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16912,Participant 540,16802,"Yeah, I don't even think if you shot it. I don't know. Would you be able to hear it? Anybody be able to hear it?",8,3,NA,16911,2,540,4_5_4,483,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16913,Participant 106,16802,"Well, that's a good point. That's a very good point. Yeah, you want to change it? The last four or five I could live with any.",8,9,NA,16912,2,106,4_5_4,489,unleashed,1,FALSE,540,540,2,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16914,Participant 540,16802,I'm good with this.,8,18,NA,16913,2,540,4_5_4,498,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16915,Participant 106,16802,"Okay, so then it says please rank. What are we doing? We're done.",8,21,NA,16914,2,106,4_5_4,501,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16916,Participant 540,16802,So I just see creativity entry password. Is that what you see?,8,31,NA,16915,2,540,4_5_4,511,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16917,Participant 106,16802,"Yes, I do. And it says put it in when we're ready to move on together. You will not receive the entry password for the next task until the session. Oh, alright. So and we're out of time. I didn't notice how long it took us. But",8,37,NA,16916,2,106,4_5_4,517,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16918,Participant 540,16802,"okay, what was the password? I don't remember. Remember.",8,56,NA,16917,2,540,4_5_4,536,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16919,Participant 106,16802,"Wave. I don't think I think this is a new one. Well, let's try...",8,59,NA,16918,2,106,4_5_4,539,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16920,Participant 540,16802,It says around one,9,6,NA,16919,2,540,4_5_4,546,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16921,Participant 106,16802,Did you try wave.,9,9,NA,16920,2,106,4_5_4,549,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16922,Participant 540,16802,"Yeah, go ahead. See what happens.",9,11,NA,16921,2,540,4_5_4,551,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16923,Participant 106,16802,Hope I see on the other side.,9,13,NA,16922,2,106,4_5_4,553,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16924,Participant 540,16802,Okay.,9,15,NA,16923,2,540,4_5_4,555,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16925,Participant 106,16802,Please assign a value me. Names may not be repeated at all. Oh,9,18,NA,16924,2,106,4_5_4,558,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16926,Participant 540,16802,I have wrong password.,9,25,NA,16925,2,540,4_5_4,565,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16927,Participant 106,16802,"Oh, that's okay. That's good. Okay, so our values were not repeated. Let me look 6 11 10. Okay.",9,27,NA,16926,2,106,4_5_4,567,unleashed,1,FALSE,540,540,2,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16928,Participant 540,16802,"Well, do you want me to go through what I have?",9,39,NA,16927,2,540,4_5_4,579,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16929,Participant 106,16802,Sure.,9,43,NA,16928,2,106,4_5_4,583,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16930,Participant 540,16802,"Okay. oxygens, one, two food concentrate, three gallons of water. Four portable heating unit. five is five is nylon rope.",9,44,NA,16929,2,540,4_5_4,584,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16931,Participant 106,16802,"Let me find nylon rope where is that. Oh I had that as six. Okay, so I screwed that up. Alright. Let me go five okay.",9,58,NA,16930,2,106,4_5_4,598,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16932,Participant 540,16802,Six is a FM receiver transmitter.,10,8,NA,16931,2,540,4_5_4,608,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16933,Participant 106,16802,Yes,10,12,NA,16932,2,106,4_5_4,612,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16934,Participant 540,16802,"Seven magnetic compass. Eight Stoller map, nine milk, 10 flares, 11 first aid kit, 12 Self inflating liferaft. 13, silk 14 matches 15 pistols.",10,13,NA,16933,2,540,4_5_4,613,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16935,Participant 106,16802,Thank you so yeah. Okay. I think we're harmonious.,10,35,NA,16934,2,106,4_5_4,635,unleashed,1,FALSE,540,540,2,0,1,0,0
+05_20_2021_vero #4_round 1_otter.ai,16936,Participant 540,16802,"Okay, so we just have to wait for the password?",10,39,NA,16935,2,540,4_5_4,639,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16937,Participant 106,16802,You have to wait for the password it says.,10,43,NA,16936,2,106,4_5_4,643,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16938,Participant 540,16802,"Okay, well, maybe she's making the rounds over there.",10,46,NA,16937,2,540,4_5_4,646,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16939,Participant 106,16802,"Ask for help function in zoom. I'm going to take a short break here, so get it.",10,51,NA,16938,2,106,4_5_4,651,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16940,Participant 540,16802,"Okay, I'll write it down soon.",11,2,NA,16939,2,540,4_5_4,662,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16941,NA,16802,STRONG Team  11:12,11,2,NA,16940,2,540,4_5_4,662,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16942,NA,16802,"Hi, guys. Are you having some difficulty?",11,2,NA,16941,2,540,4_5_4,662,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16943,NA,16802,"Um, well, a round one creativity entry password. Is that a new password? I put wave in.",11,15,NA,16942,2,540,4_5_4,675,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16944,NA,16802,STRONG Team  11:21,11,15,NA,16943,2,540,4_5_4,675,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16945,NA,16802,"Yes, Yes. I sent the password in. So it's feel.",11,15,NA,16944,2,540,4_5_4,675,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16946,NA,16802,Feel f e e l?,11,27,NA,16945,2,540,4_5_4,687,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16947,NA,16802,STRONG Team  11:29,11,27,NA,16946,2,540,4_5_4,687,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16948,NA,16802,Yes. Correct.,11,27,NA,16947,2,540,4_5_4,687,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16949,NA,16802,"Okay. Okay, so Art took a short break. So as soon as he comes back, we'll do it.",11,30,NA,16948,2,540,4_5_4,690,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16950,NA,16802,STRONG Team  11:37,11,30,NA,16949,2,540,4_5_4,690,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16951,NA,16802,"Okay, yeah. Okay, you'll have you have like six minutes right now. So I'm just gonna let you know that if you miss a password, so each round, just to clarify each round, there'll be a different password. So make sure to check on like the top bar, I think where my broadcast message will come through with a new password for each round.",11,30,NA,16950,2,540,4_5_4,690,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16952,NA,16802,Okay. All right. Thanks.,11,57,NA,16951,2,540,4_5_4,717,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16953,NA,16802,STRONG Team  12:00,11,57,NA,16952,2,540,4_5_4,717,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16954,NA,16802,Thank you.,11,57,NA,16953,2,540,4_5_4,717,unleashed,1,FALSE,540,NA,NA,NA,NA,NA,NA
+05_20_2021_vero #4_round 1_otter.ai,16955,Participant 106,16802,"Okay, I have returned and I didn't hear, seal?",12,2,NA,16954,2,106,4_5_4,722,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16956,Participant 540,16802,Feel f e e l.,12,5,NA,16955,2,540,4_5_4,725,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16957,Participant 106,16802,"Got it. Okay, here we go.",12,7,NA,16956,2,106,4_5_4,727,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16958,Participant 540,16802,Okay.,12,10,NA,16957,2,540,4_5_4,730,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16959,Participant 106,16802,We're gonna get right in because...,12,11,NA,16958,2,106,4_5_4,731,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16960,Participant 540,16802,Yeah.,12,14,NA,16959,2,540,4_5_4,734,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16961,Participant 106,16802,"Oh, it says okay, well,",12,15,NA,16960,2,106,4_5_4,735,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16962,Participant 540,16802,She says that the new passwords will be in the top. Like in the top in the bar on the top.,12,17,NA,16961,2,540,4_5_4,737,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16963,Participant 106,16802,Did you see that?,12,24,NA,16962,2,106,4_5_4,744,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16964,Participant 540,16802,She told me she came in while you were gone.,12,26,NA,16963,2,540,4_5_4,746,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16965,Participant 106,16802,I heard that but did but but I didn't see it. Did you know...,12,29,NA,16964,2,106,4_5_4,749,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16966,Participant 540,16802,i don't see it either.,12,32,NA,16965,2,540,4_5_4,752,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16967,Participant 106,16802,"Okay, well, maybe we got to go to zoom but I didn't want to set don't anyway. Alright, so let's see. Oh, bricks.",12,34,NA,16966,2,106,4_5_4,754,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16968,Participant 540,16802,"Oh, the brick. Yeah, so we have...",12,41,NA,16967,2,540,4_5_4,761,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16969,Participant 106,16802,I put weapon.,12,43,NA,16968,2,106,4_5_4,763,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16970,Participant 540,16802,"Uh huh. So let's see. Um, so I you know, I didn't know like how specific they wanted to be I put doorstop?",12,46,NA,16969,2,540,4_5_4,766,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16971,Participant 106,16802,Yes.,12,55,NA,16970,2,106,4_5_4,775,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16972,Participant 540,16802,weapon.,12,57,NA,16971,2,540,4_5_4,777,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16973,Participant 106,16802,I'm gonna put doorstop. Pestal like you know. Grinding stuff up.,12,59,NA,16972,2,106,4_5_4,779,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16974,Participant 540,16802,Paperweight.,13,9,NA,16973,2,540,4_5_4,789,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16975,Participant 106,16802,Say the last thing?,13,10,NA,16974,2,106,4_5_4,790,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16976,Participant 540,16802,Paperweight?,13,12,NA,16975,2,540,4_5_4,792,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16977,Participant 106,16802,"Yes, I did.",13,13,NA,16976,2,106,4_5_4,793,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16978,Participant 540,16802,Something to break glass.,13,17,NA,16977,2,540,4_5_4,797,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16979,Participant 106,16802,Okay. I forgot so I gotta find my...,13,20,NA,16978,2,106,4_5_4,800,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16980,Participant 540,16802,I got mine here. So um... chalk. You can grind it up and make chalk.,13,28,NA,16979,2,540,4_5_4,808,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16981,Participant 106,16802,I said grind it up and make stone but I don't know what you're gonna do with it. Okay chalk.,13,38,NA,16980,2,106,4_5_4,818,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16982,Participant 540,16802,To fill in a space.,13,44,NA,16981,2,540,4_5_4,824,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16983,Participant 106,16802,Going in space?,13,47,NA,16982,2,106,4_5_4,827,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16984,Participant 540,16802,Fill in a space.,13,49,NA,16983,2,540,4_5_4,829,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16985,Participant 106,16802,Fill in a space.,13,51,NA,16984,2,106,4_5_4,831,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16986,Participant 540,16802,Uh-huh like a warmer.,13,53,NA,16985,2,540,4_5_4,833,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16987,Participant 106,16802,Very good.,13,57,NA,16986,2,106,4_5_4,837,unleashed,1,FALSE,540,540,2,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16988,Participant 540,16802,A cooler. You can cool something with it if you freeze it.,13,58,NA,16987,2,540,4_5_4,838,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16989,Participant 106,16802,I put a street paver I put a paver you know like...,14,4,NA,16988,2,106,4_5_4,844,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16990,Participant 540,16802,Oh paver.,14,9,NA,16989,2,540,4_5_4,849,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16991,Participant 106,16802,In here... Warmer I don't know if we have to do the exact same thing but paver.,14,12,NA,16990,2,106,4_5_4,852,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16992,Participant 540,16802,I said make makeup.,14,24,NA,16991,2,540,4_5_4,864,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16993,Participant 106,16802,Right,14,26,NA,16992,2,106,4_5_4,866,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16994,Participant 540,16802,"Grind it up and make rouge. Dye, make your clothing dye.",14,26,NA,16993,2,540,4_5_4,866,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16995,Participant 106,16802,Clothing Dye. Yeah.,14,38,NA,16994,2,106,4_5_4,878,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16996,Participant 540,16802,"Oh. Oh, great for polishing.",14,41,NA,16995,2,540,4_5_4,881,unleashed,1,FALSE,106,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16997,Participant 106,16802,"That's good. Brick for polishing... Oh yeah, you know what I said millstone like for... I can't spell right. Okay. No, I'm going to put a millstone for what it's worth because sort of same thing as a pestel I guess I don't know. I can't find my answers to that I'm looking.. extent to what you agree or disagree? Okay, um, and I put more...",14,48,NA,16996,2,106,4_5_4,888,unleashed,1,FALSE,540,540,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16998,Participant 540,16802,Do you want to look for them?,15,28,NA,16997,2,540,4_5_4,928,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,16999,Participant 106,16802,I'm looking - where did yours come from? At the end?,15,29,NA,16998,2,106,4_5_4,929,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17000,Participant 540,16802,I have my phone here and I put the I put that link on my phone,15,34,NA,16999,2,540,4_5_4,934,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17001,Participant 106,16802,very good and I I have the link I just can't find the question. I mean I got all my strongly agrees and ranks and...,15,41,NA,17000,2,106,4_5_4,941,unleashed,1,FALSE,540,540,2,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17002,Participant 540,16802,"oh, that's strange.",15,50,NA,17001,2,540,4_5_4,950,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17003,Participant 106,16802,"Are you feeling today stuff that I don't really? I don't see my answers to. Oh, are you using brick for flares timing for the next Oh, well, maybe. Paperweight, street paver housebuilding was a weapon stepping stone stepping stone. How about that? Furnace?",15,52,NA,17002,2,106,4_5_4,952,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17004,Participant 540,16802,"Oh, yeah.",16,21,NA,17003,2,540,4_5_4,981,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17005,Participant 106,16802,"Stepping stone or something here. I had an uncle that made bricks in Pennsylvania. The good old brick yard. Snow shoe Pennsylvania. Oh, decoration.",16,24,NA,17004,2,106,4_5_4,984,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17006,Participant 540,16802,"Decoration, ok.",16,44,NA,17005,2,540,4_5_4,1004,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17007,Participant 106,16802,Slingshot.,16,45,NA,17006,2,106,4_5_4,1005,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17008,Participant 540,16802,What slingshot? Is that what you said?,16,48,NA,17007,2,540,4_5_4,1008,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17009,Participant 106,16802,"I mean? Yeah, you know, when it's sort of a weapon. Decoration. I don't know if it's a decoration. I said use as a hammer. And that sort of weapon. So I I think that's everything. Garden divider. I put the I'm gonna put it in. Repeat. Okay, where are we on our time? Probably long. Oh no, Four minutes.",16,50,NA,17008,2,106,4_5_4,1010,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17010,Participant 540,16802,I know. But she said,17,24,NA,17009,2,540,4_5_4,1044,unleashed,1,FALSE,106,106,0,1,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17011,Participant 106,16802,Six minutes. So we're on six minutes.,17,26,NA,17010,2,106,4_5_4,1046,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17012,Participant 540,16802,Yeah...,17,29,NA,17011,2,540,4_5_4,1049,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17013,Participant 106,16802,But I don't see where to do we raise our hand or ask for the password or where we see it,17,30,NA,17012,2,106,4_5_4,1050,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17014,Participant 540,16802,"Uh, I don't i don't even",17,40,NA,17013,2,540,4_5_4,1060,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17015,Participant 106,16802,Whatever that is. They said go or maybe it's at the bottom and this will say...,17,43,NA,17014,2,106,4_5_4,1063,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17016,Participant 540,16802,"Yeah, I clicked on the bottom.",17,50,NA,17015,2,540,4_5_4,1070,unleashed,1,FALSE,106,106,1,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17017,Participant 106,16802,Zoom broadcast message stating that it's time to move on. It will contain... Well I don't have it. Let me check this part of zoom. No.,17,52,NA,17016,2,106,4_5_4,1072,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17018,Participant 540,16802,"I hate to click off because then I'm like, oh, where the hell am I? Let's see the creativities...",18,6,NA,17017,2,540,4_5_4,1086,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17019,Participant 106,16802,I think I just screwed it up. But anyway.,18,27,NA,17018,2,106,4_5_4,1107,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17020,Participant 540,16802,"Alright, so...",18,31,NA,17019,2,540,4_5_4,1111,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17021,Participant 106,16802,"Oh, here it is. It's back. Okay, but I don't have the password. Host and we're supposed to ask for help, but I don't see that. Let me just see. No zoom conferencing service. It's gonna close in 30 seconds.",18,33,NA,17020,2,106,4_5_4,1113,unleashed,1,FALSE,540,all,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17022,Participant 540,16802,Yeah.,19,0,NA,17021,2,540,4_5_4,1140,unleashed,1,FALSE,106,106,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17023,Participant 106,16802,Are you gonna are we gonna poke that?,19,3,NA,17022,2,106,4_5_4,1143,unleashed,1,FALSE,540,540,0,0,0,0,0
+05_20_2021_vero #4_round 1_otter.ai,17024,Participant 540,16802,Um...,19,5,NA,17023,2,540,4_5_4,1145,unleashed,1,FALSE,106,106,0,0,0,0,0

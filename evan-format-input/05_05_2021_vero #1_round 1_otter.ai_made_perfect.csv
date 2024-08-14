@@ -1,0 +1,228 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+05_05_2021_vero #1_round 1_otter.ai,1591,Participant 272,1591,Hello.,0,4,NA,NULL,3,272,4_1_1,4,unleashed,1,FALSE,NA,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1592,Participant 193,1591,Hello,0,9,NA,1591,3,193,4_1_1,9,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1593,Participant 272,1591,"Hi Barbara, hi Mike",0,10,NA,1592,3,272,4_1_1,10,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1594,Participant 193,1591,Hello,0,12,NA,1593,3,193,4_1_1,12,unleashed,1,FALSE,272,272,0,0,1,0,0
+05_05_2021_vero #1_round 1_otter.ai,1595,Participant 272,1591,"Okay, we have the password now.",0,41,NA,1594,3,272,4_1_1,41,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1596,Participant 193,1591,"Oh, We do?",0,43,NA,1595,3,193,4_1_1,43,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1597,Participant 272,1591,See it? Wave?,0,45,NA,1596,3,272,4_1_1,45,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1598,Participant 193,1591,"No, I didn't see it.",0,45,NA,1597,3,193,4_1_1,45,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1599,Participant 272,1591,Yeah they sent the chat message wave W A V E.,0,48,NA,1598,3,272,4_1_1,48,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1600,Participant 193,1591,The password is wave?,0,53,NA,1599,3,193,4_1_1,53,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1601,Participant 272,1591,Yes.,0,56,NA,1600,3,272,4_1_1,56,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1602,Participant 193,1591,Okay.,0,58,NA,1601,3,193,4_1_1,58,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1603,Participant 272,1591,There we go. Room number room one. Clock has started for me.,0,58,NA,1602,3,272,4_1_1,58,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1604,Participant 193,1591,Okay.,1,10,NA,1603,3,193,4_1_1,70,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1605,Participant 272,1591,"So I think in this exercise, we all need to come into the same rankings. Is that correct?",1,13,NA,1604,3,272,4_1_1,73,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1606,Participant 193,1591,Yeah.,1,19,NA,1605,3,193,4_1_1,79,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1607,Participant 272,1591,"So we're our teammates, space crew originally scheduled to rendezvous with the mothership. On the lightest surface of the moon, however, due to mechanical difficulties, the ship was forced to land at a spot some 200 miles from the rendezvous point. I guess we all did this exercise and the earlier.",1,26,NA,1606,3,272,4_1_1,86,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1608,Participant 193,1591,Yeah,1,46,NA,1607,3,193,4_1_1,106,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1609,Participant 272,1591,"So, below are the 15 items left intact, undamaged after landing. Your task is to rank them in order in terms of importance for your crew and allowing them to reach the rendezvous point. So what is our so I guess, as we go through this, what's everyone's rationale as into ranking? Is it based on survival? Communication? Shelter? How did you? How are we going about setting our rank? ranking? Mike, you're muted.",1,47,NA,1608,3,272,4_1_1,107,unleashed,1,FALSE,193,"all,705","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1610,Participant 193,1591,Okay.,2,20,NA,1609,3,193,4_1_1,140,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1611,Participant 272,1591,"Sorry, Mike, we can't hear you. You're still muted.",2,22,NA,1610,3,272,4_1_1,142,unleashed,1,FALSE,193,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1612,Participant 193,1591,"Are you looking at this as a split screen, Jude?",2,29,NA,1611,3,193,4_1_1,149,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1613,Participant 272,1591,I have my...,2,34,NA,1612,3,272,4_1_1,154,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1614,Participant 705,1591,"I hope nobody can read lips when I learned my mic was off. So I think we have to start with survival, right? Because we're, we're not on Earth. So if we don't survive, we won't communicate or take the next steps. To my to my way of thinking, the first thing everyone can't live without is oxygen.",2,36,NA,1613,3,705,4_1_1,156,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1615,Participant 193,1591,That was my first choice.,2,58,NA,1614,3,193,4_1_1,178,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1616,Participant 272,1591,Number one is oxygen. Let's do it.,3,1,NA,1615,3,272,4_1_1,181,unleashed,1,FALSE,193,all,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1617,Participant 705,1591,"And then, to my way of thinking after oxygen, I would think the next thing a person would need is water.",3,4,NA,1616,3,705,4_1_1,184,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1618,Participant 272,1591,"Water is two. See, I'm looking for oxygen again.",3,12,NA,1617,3,272,4_1_1,192,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1619,Participant 193,1591,Number two,3,22,NA,1618,3,193,4_1_1,202,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1620,Participant 272,1591,"Five gallons of water is number two, 2 hundred pound tanks of oxygen number one.",3,22,NA,1619,3,272,4_1_1,202,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1621,Participant 193,1591,My number three was the food concentrate.,3,34,NA,1620,3,193,4_1_1,214,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1622,Participant 272,1591,"Food Concentrate three,",3,43,NA,1621,3,272,4_1_1,223,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1623,Participant 705,1591,I agree.,3,46,NA,1622,3,705,4_1_1,226,unleashed,1,FALSE,272,193,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1624,Participant 272,1591,"Or do we? What do we have for communication? So we're 200 miles out. We've got water, we've got food. We've got oxygen, is our...",3,52,NA,1623,3,272,4_1_1,232,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1625,Participant 705,1591,I put signal flares as four,4,7,NA,1624,3,705,4_1_1,247,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1626,Participant 272,1591,Okay.,4,11,NA,1625,3,272,4_1_1,251,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1627,Participant 705,1591,"but maybe I'm wrong because maybe if you're on the moon, like does a signal flare need Earth's oxygen in order to do what it does?",4,11,NA,1626,3,705,4_1_1,251,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1628,Participant 272,1591,It's a good question.,4,21,NA,1627,3,272,4_1_1,261,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1629,Participant 705,1591,"Because it's it's the kind of thing we ignite, right?",4,22,NA,1628,3,705,4_1_1,262,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1630,Participant 272,1591,"I'm assuming they've given us this option to send a signal. But yeah, I'm not I. Yeah, I'm not an astronaut.",4,24,NA,1629,3,272,4_1_1,264,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1631,Participant 705,1591,"Oh, no, I thought it was the type you keep, use on a highway. If it's moon signal flares, yeah, sure, that'd be fine.",4,33,NA,1630,3,705,4_1_1,273,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1632,Participant 193,1591,"My number four was the portable heating unit, but I'm not wed to that. I'm still, I'm still looking out for my own personal comfort here. Thoughts?",4,40,NA,1631,3,193,4_1_1,280,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1633,Participant 705,1591,"I think communications would be after we've taken care of oxygen, water, and food.",4,55,NA,1632,3,705,4_1_1,295,unleashed,1,FALSE,193,193,0,1,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1634,Participant 272,1591,"Yeah,",5,0,NA,1633,3,272,4_1_1,300,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1635,Participant 193,1591,"Okay, and so your communications...",5,0,NA,1634,3,193,4_1_1,300,unleashed,1,FALSE,272,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1636,Participant 272,1591,is that the solar power FM receiver transmitter four?,5,2,NA,1635,3,272,4_1_1,302,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1637,Participant 705,1591,Could be,5,11,NA,1636,3,705,4_1_1,311,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1638,Participant 272,1591,Okay so number four solar powered FM receiver. Five. We're down to five minutes and 45 seconds. So what we got left? we got matches we need a box of matches we got nylon rope we got parachute silk,5,12,NA,1637,3,272,4_1_1,312,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1639,Participant 705,1591,I think- I still think... don't we need those signal flares?,5,35,NA,1638,3,705,4_1_1,335,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1640,Participant 272,1591,Okay yeah that's a that's that falls in line with getting some some means of communication so number five is signal flares.,5,40,NA,1639,3,272,4_1_1,340,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1641,Participant 705,1591,yeah,5,54,NA,1640,3,705,4_1_1,354,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1642,Participant 272,1591,I kind of went through this thinking you know some some bit of personal safety comfort along with communication was was my my thought pattern. So I think I had I can't find my I know they sent me all my answers. I could not find that email.,5,59,NA,1641,3,272,4_1_1,359,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1643,Participant 705,1591,"So after signal flares, would it be heating unit would be next or what?",6,20,NA,1642,3,705,4_1_1,380,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1644,Participant 272,1591,I like heat. I had heat I know I had heat in that top half of my ranking so we can go six for heat.,6,24,NA,1643,3,272,4_1_1,384,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1645,Participant 193,1591,Okay,6,29,NA,1644,3,193,4_1_1,389,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1646,Participant 272,1591,You guys agree?,6,33,NA,1645,3,272,4_1_1,393,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1647,Participant 193,1591,I do.,6,34,NA,1646,3,193,4_1_1,394,unleashed,1,FALSE,272,272,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1648,Participant 272,1591,"Alright,",6,36,NA,1647,3,272,4_1_1,396,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1649,Participant 193,1591,What about the map and the compass?,6,36,NA,1648,3,193,4_1_1,396,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1650,Participant 272,1591,"That's direction, yeah, that gives us a sense of direction. Stellar map and that was kind of you know, again, I don't know much about astrology it would that give us like directions on the moon itself? Or would that give us like, directions of the moon versus other planets? Yeah, exactly.",6,42,NA,1649,3,272,4_1_1,402,unleashed,1,FALSE,193,193,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1651,Participant 193,1591,"Yeah, I wasn't sure about that. And I mean,",7,2,NA,1650,3,193,4_1_1,422,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1652,Participant 272,1591,"It gave us the- does it give us a direction as to how far we are from the ship? We're just 200 miles out, did it tell us what direction we were?",7,5,NA,1651,3,272,4_1_1,425,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1653,Participant 193,1591,"Uh,",7,18,NA,1652,3,193,4_1_1,438,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1654,Participant 705,1591,No.,7,20,NA,1653,3,705,4_1_1,440,unleashed,1,FALSE,193,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1655,Participant 193,1591,200 mile trip is what we're going to be making. Most critical item available must be chosen for the two hundred mile trip.,7,21,NA,1654,3,193,4_1_1,441,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1656,Participant 272,1591,So we don't even know like which direction we're heading in.,7,30,NA,1655,3,272,4_1_1,450,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1657,Participant 705,1591,No,7,34,NA,1656,3,705,4_1_1,454,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1658,Participant 193,1591,No,7,34,NA,1657,3,193,4_1_1,454,unleashed,1,FALSE,705,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1659,Participant 272,1591,Right? We don't know if we're north south of our meeting point.,7,34,NA,1658,3,272,4_1_1,454,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1660,Participant 705,1591,So I'm thinking I'm thinking that maybe the map is more useful than a compass but maybe I'm misinterpreting the situation.,7,38,NA,1659,3,705,4_1_1,458,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1661,Participant 272,1591,Let's try that.,7,47,NA,1660,3,272,4_1_1,467,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1662,Participant 705,1591,"I'm thinking that if it's a if it's a map of the sky, a map of the stars, you know, one could look look up and say, ""ohh,""",7,48,NA,1661,3,705,4_1_1,468,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1663,Participant 272,1591,"I'm with you, let's go seven seven with the stellar map if that's okay. Do we need that I kind of I kind of looking at the list of some of the items that are just like dead last like what what is the least needed item? Do we need, do we need a 45 caliber pistol? Do we need a raft? You know what's item 15? I kind of-",7,54,NA,1662,3,272,4_1_1,474,unleashed,1,FALSE,705,"705,all","1,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1664,Participant 705,1591,I think the last item might be the gun. Unless you think,8,18,NA,1663,3,705,4_1_1,498,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1665,Participant 272,1591,"Okay,",8,21,NA,1664,3,272,4_1_1,501,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1666,Participant 705,1591,it'd be used to signal,8,22,NA,1665,3,705,4_1_1,502,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1667,Participant 272,1591,I think I'm pretty sure I had that as 15,8,24,NA,1666,3,272,4_1_1,504,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1668,Participant 705,1591,Actually Actually I think a box of matches is even less useful. I don't think matches work if you're in a vacuum.,8,26,NA,1667,3,705,4_1_1,506,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1669,Participant 272,1591,There you go.,8,35,NA,1668,3,272,4_1_1,515,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1670,Participant 705,1591,They need oxygen,8,35,NA,1669,3,705,4_1_1,515,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1671,Participant 272,1591,"15 is matches, uh, what about the nylon rope? 50 feet of nylon rope? Parachute silk? Any of these?",8,39,NA,1670,3,272,4_1_1,519,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1672,Participant 705,1591,those two together could be handy if you have to spend the night.,8,50,NA,1671,3,705,4_1_1,530,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1673,Participant 193,1591,"Yeah, I say the last with matches and the gun might be 14.",8,55,NA,1672,3,193,4_1_1,535,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1674,Participant 705,1591,Do magnetic - Do magnetic compasses work on the moon? Are we even on the moon or am I misunderstanding that stuff?,9,0,NA,1673,3,705,4_1_1,540,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1675,Participant 272,1591,"Yeah, we're on the moon. We're 200 miles from the rendezvous point on the moon. So I guess-",9,9,NA,1674,3,272,4_1_1,549,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1676,Participant 705,1591,Is there a magnetic field on the moon? Does anyone know?,9,14,NA,1675,3,705,4_1_1,554,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1677,Participant 272,1591,"Alright, so we said matches 15 the caliber 14 unless we said we could use the pistol as a signal somehow.",9,18,NA,1676,3,272,4_1_1,558,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1678,Participant 193,1591,Yeah. How about the raft being number 14?,9,27,NA,1677,3,193,4_1_1,567,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1679,Participant 272,1591,"I had the raft I know I had the raft towards the end, self inflating life raft. We can make that 14.",9,33,NA,1678,3,272,4_1_1,573,unleashed,1,FALSE,193,193,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1680,Participant 193,1591,Okay.,9,39,NA,1679,3,193,4_1_1,579,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1681,Participant 272,1591,"Okay, so eight. How about we go with the dehydrated, one case of the dehydration milk could be eight. Something for survival?",9,42,NA,1680,3,272,4_1_1,582,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1682,Participant 705,1591,Sure,9,50,NA,1681,3,705,4_1_1,590,unleashed,1,FALSE,272,272,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1683,Participant 193,1591,Sure.,9,50,NA,1682,3,193,4_1_1,590,unleashed,1,FALSE,705,272,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1684,Participant 272,1591,"Uh, nine first aid kit? Do we need a first aid kit including an injection needle.",9,52,NA,1683,3,272,4_1_1,592,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1685,Participant 705,1591,You never know. You might need it.,9,58,NA,1684,3,705,4_1_1,598,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1686,Participant 272,1591,Make that 9. 10,10,2,NA,1685,3,272,4_1_1,602,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1687,Participant 705,1591,The rope,10,5,NA,1686,3,705,4_1_1,605,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1688,Participant 272,1591,Ten is down,10,6,NA,1687,3,272,4_1_1,606,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1689,Participant 705,1591,10 the rope. And then 11 the silk?,10,8,NA,1688,3,705,4_1_1,608,unleashed,1,FALSE,272,"272,all","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1690,Participant 193,1591,"Okay,",10,14,NA,1689,3,193,4_1_1,614,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1691,Participant 272,1591,Silk? I like that. Kinda like a shelter in place situation there and,10,14,NA,1690,3,272,4_1_1,614,unleashed,1,FALSE,193,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1692,Participant 705,1591,Then the gun is more important than the compass,10,20,NA,1691,3,705,4_1_1,620,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1693,Participant 272,1591,"Alright,",10,25,NA,1692,3,272,4_1_1,625,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1694,Participant 193,1591,so the gun is what is that nine?,10,26,NA,1693,3,193,4_1_1,626,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1695,Participant 272,1591,So 12 is...,10,28,NA,1694,3,272,4_1_1,628,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1696,Participant 193,1591,Oh 12?,10,29,NA,1695,3,193,4_1_1,629,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1697,Participant 705,1591,And compass is 13.,10,32,NA,1696,3,705,4_1_1,632,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1698,Participant 272,1591,Compass 13,10,36,NA,1697,3,272,4_1_1,636,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1699,Participant 193,1591,There we are.,10,39,NA,1698,3,193,4_1_1,639,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1700,Participant 272,1591,That's everything and what do we have on the clock? 24 seconds.,10,40,NA,1699,3,272,4_1_1,640,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1701,Participant 705,1591,"Oh, so we're done. How do you submit it? Does anyone know?",10,43,NA,1700,3,705,4_1_1,643,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1702,Participant 272,1591,Creativity round one. I think their password was still wave.,10,47,NA,1701,3,272,4_1_1,647,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1703,Participant 705,1591,"Oh yes, right",10,54,NA,1702,3,705,4_1_1,654,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1704,Participant 272,1591,Wrong password. Where do we get the password?,10,55,NA,1703,3,272,4_1_1,655,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1705,Participant 193,1591,"Well, I missed it the first time so I'm going to count on you.",10,59,NA,1704,3,193,4_1_1,659,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1706,Participant 705,1591,The experimenter will give it to us at the proper time.,11,2,NA,1705,3,705,4_1_1,662,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1707,Participant 193,1591,Okay. Do we just hit the arrow?,11,5,NA,1706,3,193,4_1_1,665,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1708,Participant 272,1591,Do we raise our hand or what do we have to do? I think we have to raise our hand.,11,9,NA,1707,3,272,4_1_1,669,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1709,Participant 705,1591,Okay.,11,12,NA,1708,3,705,4_1_1,672,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1710,Participant 193,1591,All right.,11,13,NA,1709,3,193,4_1_1,673,unleashed,1,FALSE,705,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1711,Participant 272,1591,"I don't have the raise my hand feature on here. Does anyone have the raise their hand feature? Oh, raised hand, I see it.",11,16,NA,1710,3,272,4_1_1,676,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1712,Participant 193,1591,Okay.,11,22,NA,1711,3,193,4_1_1,682,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1713,Participant 272,1591,"I guess we'll get it started off by asking, ""Do we have any girl scouts or Boy Scouts?""",11,36,NA,1712,3,272,4_1_1,696,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1714,Participant 705,1591,Are we all ex military?,11,45,NA,1713,3,705,4_1_1,705,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1715,Participant 193,1591,Hmm?,11,48,NA,1714,3,193,4_1_1,708,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1716,Participant 272,1591,I'm not. You have a military background Mike?,11,48,NA,1715,3,272,4_1_1,708,unleashed,1,FALSE,193,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1717,Participant 705,1591,"Like 100 years ago, but I wasn't sure. Because I...",11,53,NA,1716,3,705,4_1_1,713,unleashed,1,FALSE,272,272,0,0,1,0,0
+05_05_2021_vero #1_round 1_otter.ai,1718,Participant 272,1591,Oh password is feel,11,59,NA,1717,3,272,4_1_1,719,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1719,Participant 705,1591,Feel. F double E L.,12,1,NA,1718,3,705,4_1_1,721,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1720,NA,1591,STRONG Team  12:06,12,1,NA,1719,3,705,4_1_1,721,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1721,NA,1591,"Hi, Um, I see that you need some help. You miss a password or how are you on things?",12,1,NA,1720,3,705,4_1_1,721,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1722,NA,1591,"No, we entered the password now a clock has started again.",12,17,NA,1721,3,272,4_1_1,737,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1723,NA,1591,Yeah.,12,23,NA,1722,3,193,4_1_1,743,unleashed,1,FALSE,272,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1724,NA,1591,"which task, Are we on to the next task now?",12,23,NA,1723,3,272,4_1_1,743,unleashed,1,FALSE,193,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1725,NA,1591,Yes.,12,26,NA,1724,3,705,4_1_1,746,unleashed,1,FALSE,272,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1726,NA,1591,STRONG Team  12:27,12,26,NA,1725,3,705,4_1_1,746,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1727,NA,1591,So you should be right now you should be in a creativity task.,12,26,NA,1726,3,705,4_1_1,746,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1728,NA,1591,Yes.,12,31,NA,1727,3,193,4_1_1,751,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1729,NA,1591,STRONG Team  12:33,12,31,NA,1728,3,193,4_1_1,751,unleashed,1,FALSE,193,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1730,NA,1591,Is that a page where you are all at?,12,31,NA,1729,3,193,4_1_1,751,unleashed,1,FALSE,193,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1731,NA,1591,Yep.,12,35,NA,1730,3,193,4_1_1,755,unleashed,1,FALSE,193,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1732,NA,1591,Yeah.,12,35,NA,1731,3,705,4_1_1,755,unleashed,1,FALSE,193,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1733,NA,1591,STRONG Team  12:36,12,35,NA,1732,3,705,4_1_1,755,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1734,NA,1591,Okay. Sounds good. I'm going to go back to the main room then and thank you all for doing the task.,12,35,NA,1733,3,705,4_1_1,755,unleashed,1,FALSE,705,NA,NA,NA,NA,NA,NA
+05_05_2021_vero #1_round 1_otter.ai,1735,Participant 272,1591,"Okay, this is another team exercise for the use of a brick.",12,45,NA,1734,3,272,4_1_1,765,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1736,Participant 705,1591,"Okay, you could build a structure",12,50,NA,1735,3,705,4_1_1,770,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1737,Participant 272,1591,Build,12,53,NA,1736,3,272,4_1_1,773,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1738,Participant 193,1591,With one brick?,12,53,NA,1737,3,193,4_1_1,773,unleashed,1,FALSE,272,705,0,1,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1739,Participant 705,1591,a single brick Is that all you get?,12,56,NA,1738,3,705,4_1_1,776,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1740,Participant 193,1591,I-,12,57,NA,1739,3,193,4_1_1,777,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1741,Participant 272,1591,"yeah, we have A brick",12,58,NA,1740,3,272,4_1_1,778,unleashed,1,FALSE,193,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1742,Participant 193,1591,We have a brick,12,59,NA,1741,3,193,4_1_1,779,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1743,Participant 705,1591,We could use it as a paperweight,13,0,NA,1742,3,705,4_1_1,780,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1744,Participant 193,1591,Paperweight,13,5,NA,1743,3,193,4_1_1,785,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1745,Participant 272,1591,my first option was yeah use as weight paperweight.,13,6,NA,1744,3,272,4_1_1,786,unleashed,1,FALSE,193,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1746,Participant 193,1591,How about a weapon?,13,10,NA,1745,3,193,4_1_1,790,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1747,Participant 272,1591,I had weapon.,13,11,NA,1746,3,272,4_1_1,791,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1748,Participant 705,1591,Doorstop.,13,14,NA,1747,3,705,4_1_1,794,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1749,Participant 272,1591,Doorstop.,13,16,NA,1748,3,272,4_1_1,796,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1750,Participant 705,1591,Hammer,13,21,NA,1749,3,705,4_1_1,801,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1751,Participant 272,1591,Break window,13,21,NA,1750,3,272,4_1_1,801,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1752,Participant 193,1591,Hammer... How about a table? Not much of a table,13,23,NA,1751,3,193,4_1_1,803,unleashed,1,FALSE,272,"705,all","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1753,Participant 705,1591,A single brick?,13,30,NA,1752,3,705,4_1_1,810,unleashed,1,FALSE,193,193,0,1,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1754,Participant 193,1591,"That's true. It's a very small table. No, um...",13,32,NA,1753,3,193,4_1_1,812,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1755,Participant 705,1591,You can wet it place it in shallow water and start seeds on it.,13,37,NA,1754,3,705,4_1_1,817,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1756,Participant 272,1591,"Depending on what type of brick, how about a step stool you know if it's like a cinder block or you know like a stone?",13,42,NA,1755,3,272,4_1_1,822,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1757,Participant 193,1591,Step stool works.,13,49,NA,1756,3,193,4_1_1,829,unleashed,1,FALSE,272,272,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1758,Participant 705,1591,So what was the last one after hammer?,13,57,NA,1757,3,705,4_1_1,837,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1759,Participant 193,1591,Step stool. Can we heat this brick?,14,0,NA,1758,3,193,4_1_1,840,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1760,Participant 272,1591,"I think we could can use it. Yeah, brainstorm as many possible common uses.Yeah.",14,10,NA,1759,3,272,4_1_1,850,unleashed,1,FALSE,193,193,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1761,Participant 193,1591,So it could be a heater and you can use it for heat if you can heat it.,14,15,NA,1760,3,193,4_1_1,855,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1762,Participant 272,1591,Alright.,14,20,NA,1761,3,272,4_1_1,860,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1763,Participant 705,1591,"You can wet it down and start seeds on it, like place it in shallow water and use it to start seeds.",14,23,NA,1762,3,705,4_1_1,863,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1764,Participant 272,1591,"Okay. Use for not planting, just starting seeds.",14,31,NA,1763,3,272,4_1_1,871,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1765,Participant 705,1591,"Starting seeds, you know, so they take root",14,38,NA,1764,3,705,4_1_1,878,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1766,Participant 272,1591,"You know, depending on the color of the brick. Sometimes you can like use that as like chalk to write on concrete.",14,53,NA,1765,3,272,4_1_1,893,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1767,Participant 705,1591,Good.,15,2,NA,1766,3,705,4_1_1,902,unleashed,1,FALSE,272,272,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1768,Participant 272,1591,"You know, kids, I think about kids playing their, you know, whatever game that was hopscotch",15,3,NA,1767,3,272,4_1_1,903,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1769,Participant 705,1591,Okay. Use as chalk.,15,7,NA,1768,3,705,4_1_1,907,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1770,Participant 272,1591,Yeah,15,10,NA,1769,3,272,4_1_1,910,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1771,Participant 705,1591,You can prop open a window,15,15,NA,1770,3,705,4_1_1,915,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1772,Participant 193,1591,yeah,15,18,NA,1771,3,193,4_1_1,918,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1773,Participant 272,1591,"There you go. Anything else in the house, the kitchen, the living room? Use it as decor?",15,18,NA,1772,3,272,4_1_1,918,unleashed,1,FALSE,193,"705,all","1,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1774,Participant 705,1591,Use it to anchor something that's that would tend to fly away.,15,40,NA,1773,3,705,4_1_1,940,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1775,Participant 272,1591,"Okay, yeah that's in line with our paperweight.",15,49,NA,1774,3,272,4_1_1,949,unleashed,1,FALSE,705,705,0,1,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1776,Participant 705,1591,use as an anchor. Okay.,15,53,NA,1775,3,705,4_1_1,953,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1777,Participant 272,1591,"Weight, anchor just thinking about so yeah, brainstorm possible use for this common household item a brick. So anything else in the kitchen, use a brick for the bathroom? Living Room in the yard? Oh, I thought about in the yard, a brick. Well, a brick. You know, some folks have landscaping that feature bricks, so maybe you can use a brick in your landscaping. Haha I don't know.",15,56,NA,1776,3,272,4_1_1,956,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1778,Participant 705,1591,A single brick?,16,36,NA,1777,3,705,4_1_1,996,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1779,Participant 272,1591,A single brick haha.,16,38,NA,1778,3,272,4_1_1,998,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1780,Participant 705,1591,"So if you place it on a shelf, you could elevate items above others and on the shelf. Like as Yeah, yeah. to elevate items on a shelf.",16,40,NA,1779,3,705,4_1_1,1000,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1781,Participant 272,1591,I'm still looking around the house here. Definitely no bricks here. Quite a list so far. I think I only had maybe four or five items. So,16,53,NA,1780,3,272,4_1_1,1013,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1782,Participant 193,1591,I did too we still have four minutes left.,17,36,NA,1781,3,193,4_1_1,1056,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1783,Participant 272,1591,"Hmm, Okay, so we have a ton of time.",17,39,NA,1782,3,272,4_1_1,1059,unleashed,1,FALSE,193,193,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1784,Participant 705,1591,So I'm not sure if we added it to the list but someone said you could use it to break a window maybe we should add that to the list.,17,41,NA,1783,3,705,4_1_1,1061,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1785,Participant 193,1591,Sure.,17,48,NA,1784,3,193,4_1_1,1068,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1786,Participant 272,1591,"Yes, I yeah. So so far I have the weight or anchor a weapon a doorstop. break window. step stool a hammer used for starting seeds. Use as chalk prop open a window elevate items on shelf.",17,50,NA,1785,3,272,4_1_1,1070,unleashed,1,FALSE,193,"705,all","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1787,Participant 705,1591,"Well, there was a couple of others. Heat it to radiate heat.",18,14,NA,1786,3,705,4_1_1,1094,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1788,Participant 272,1591,Oh heater Yeah.,18,17,NA,1787,3,272,4_1_1,1097,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1789,Participant 705,1591,"And you know when I said an anchor I was thinking like if you had one of those inflatable things in your yard, you know like holiday decoration. You'd anchor The bottom of it, but a paperweight is a different kind of anchor.",18,19,NA,1788,3,705,4_1_1,1099,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1790,Participant 272,1591,Oh so paperweight...,18,30,NA,1789,3,272,4_1_1,1110,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1791,Participant 705,1591,I think it could both be a paperweight and an anchor for different kinds of items.,18,31,NA,1790,3,705,4_1_1,1111,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1792,Participant 272,1591,"I got you, paperweight and then anchor yeah like I've seen a lot of these...",18,36,NA,1791,3,272,4_1_1,1116,unleashed,1,FALSE,705,705,1,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1793,Participant 705,1591,Anchor lightweight item,18,44,NA,1792,3,705,4_1_1,1124,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1794,Participant 272,1591,Pandemic birthdays we have the,18,45,NA,1793,3,272,4_1_1,1125,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1795,Participant 705,1591,Right right,18,47,NA,1794,3,705,4_1_1,1127,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1796,Participant 272,1591,Whatever anchor balloons,18,48,NA,1795,3,272,4_1_1,1128,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1797,Participant 705,1591,"Yeah, anchor balloons perfect. I was doing it earlier I was thinking like it was many bricks and I had a lot of answers about building but a single brick is different.",18,57,NA,1796,3,705,4_1_1,1137,unleashed,1,FALSE,272,272,2,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1798,Participant 272,1591,"Yeah, a brick. I guess yeah. The other thought I had is I know I had basically the paperweight we had it on. Set out the trash and don't want the trash to blow away, so I put a brick on it. I did have a brick in the garage.",19,22,NA,1797,3,272,4_1_1,1162,unleashed,1,FALSE,705,"705,all","0,0","0,0","0,0","0,0","0,0"
+05_05_2021_vero #1_round 1_otter.ai,1799,Participant 705,1591,Put it on top of your trash can to keep the lid on?,19,46,NA,1798,3,705,4_1_1,1186,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1800,Participant 272,1591,"Yeah,",19,49,NA,1799,3,272,4_1_1,1189,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1801,Participant 193,1591,You could.,19,50,NA,1800,3,193,4_1_1,1190,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1802,Participant 705,1591,If you had those old aluminum kind right?,19,52,NA,1801,3,705,4_1_1,1192,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1803,Participant 272,1591,"All right, two minutes",20,17,NA,1802,3,272,4_1_1,1217,unleashed,1,FALSE,705,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1804,Participant 705,1591,you can put it in the back of the toilet to reduce the amount of water per flush.,20,19,NA,1803,3,705,4_1_1,1219,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1805,Participant 193,1591,Oh now that's creative.,20,25,NA,1804,3,193,4_1_1,1225,unleashed,1,FALSE,705,705,1,0,1,0,0
+05_05_2021_vero #1_round 1_otter.ai,1806,Participant 705,1591,I think I used to do that,20,27,NA,1805,3,705,4_1_1,1227,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1807,Participant 272,1591,That's inside the toilet bowl? or,20,29,NA,1806,3,272,4_1_1,1229,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1808,Participant 705,1591,Tank the tank,20,31,NA,1807,3,705,4_1_1,1231,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1809,Participant 272,1591,Inside the tank so place brick inside tank to,20,33,NA,1808,3,272,4_1_1,1233,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1810,Participant 705,1591,To use less water.,20,35,NA,1809,3,705,4_1_1,1235,unleashed,1,FALSE,272,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1811,Participant 272,1591,Ah,20,39,NA,1810,3,272,4_1_1,1239,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1812,Participant 705,1591,If you have an old toilet,20,41,NA,1811,3,705,4_1_1,1241,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1813,Participant 272,1591,"Ah, take up some of the volume of water I see.... inside toilet...",20,43,NA,1812,3,272,4_1_1,1243,unleashed,1,FALSE,705,705,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1814,Participant 705,1591,tank to use less water,20,53,NA,1813,3,705,4_1_1,1253,unleashed,1,FALSE,272,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1815,Participant 193,1591,Not inside the toilet inside the tank.,20,56,NA,1814,3,193,4_1_1,1256,unleashed,1,FALSE,705,272,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1816,Participant 272,1591,can we use it to crush anything inside the kitchen?,21,14,NA,1815,3,272,4_1_1,1274,unleashed,1,FALSE,193,all,0,0,0,0,0
+05_05_2021_vero #1_round 1_otter.ai,1817,Participant 705,1591,"Well, we said as a hammer I don't know if that's different. You could use it as a surface for painting.",21,19,NA,1816,3,705,4_1_1,1279,unleashed,1,FALSE,272,all,0,0,0,0,0

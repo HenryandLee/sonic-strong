@@ -1,0 +1,253 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+03_11_2021_vero #8_task_round 1_otter.ai,42102,Participant 290,42102,Hello.,0,0,NA,NULL,2,290,1_8_12,0,taskwork,1,FALSE,NA,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42103,Participant 128,42102,"Hey, Gabriel. It's just two people on the team. how you doing?",0,2,NA,42102,2,128,1_8_12,2,taskwork,1,FALSE,290,290,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42104,Participant 290,42102,Not bad. How are you?,0,12,NA,42103,2,290,1_8_12,12,taskwork,1,FALSE,128,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42105,Participant 128,42102,"Good, good. So I guess we could start with introducing each other. Yes. So my name is Patrick. I, I guess I work. I work as a clinical research project manager at at a rehab hospital. And I guess this is a studies wonder is requiring that we have a bachelor's degree. I got my bachelor's degree in zoology at Carolina State.",0,13,NA,42104,2,128,1_8_12,13,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42106,Participant 290,42102,"Oh, cool. Yeah.",0,40,NA,42105,2,290,1_8_12,40,taskwork,1,FALSE,128,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42107,Participant 128,42102,So I'm just trying to make some extra cash. So here Yeah.,0,42,NA,42106,2,128,1_8_12,42,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42108,Participant 290,42102,"Great. Yeah, I am a film technician. So normally, I worked at the Art Institute. But there hasn't been any film exhibitions going on there. Because of COVID. So",0,47,NA,42107,2,290,1_8_12,47,taskwork,1,FALSE,128,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42109,Participant 128,42102,yeah,0,59,NA,42108,2,128,1_8_12,59,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42110,Participant 290,42102,"I've been doing some of these online. things, and somewhere to sort of stay sane.",1,0,NA,42109,2,290,1_8_12,60,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42111,Participant 128,42102,I hear you man,1,5,NA,42110,2,128,1_8_12,65,taskwork,1,FALSE,290,290,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42112,Participant 290,42102,before we go back,1,6,NA,42111,2,290,1_8_12,66,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42113,Participant 128,42102,"Yeah, so But yeah, I was I was. I was kind of like demoted to, uh,  to part time. Because of the because of business is slow as well.",1,8,NA,42112,2,128,1_8_12,68,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42114,Participant 290,42102,Yeah. Yeah.,1,19,NA,42113,2,290,1_8_12,79,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42115,Participant 128,42102,I guess we're all here for the same for similar reasons.,1,19,NA,42114,2,128,1_8_12,79,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42116,Participant 290,42102,"But it has been fun because I'm, I'm doing a lot more work from home now. And it's nice to have these things like, little studies",1,23,NA,42115,2,290,1_8_12,83,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42117,Participant 128,42102,Yeah,1,29,NA,42116,2,128,1_8_12,89,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42118,Participant 290,42102,"to kind of break up the day, or",1,30,NA,42117,2,290,1_8_12,90,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42119,Participant 290,42102,"kind of just like, I guess it kind of like opens up your mind to see what's out what else is out there. doing random stuff, like participating in research studies. It's kind of cool. So",1,30,NA,42118,2,290,1_8_12,90,taskwork,1,FALSE,290,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42120,Participant 290,42102,"yeah, this one seems really intense so far.",1,30,NA,42119,2,290,1_8_12,90,taskwork,1,FALSE,290,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42121,Participant 128,42102,Yeah.,1,50,NA,42120,2,128,1_8_12,110,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42122,Participant 290,42102,Have you done anything like this before?,1,52,NA,42121,2,290,1_8_12,112,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42123,Participant 128,42102,"Not at this scale. I mean, I work in I work in clinical research. But",1,55,NA,42122,2,128,1_8_12,115,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42124,Participant 290,42102,"sure, yeah.",1,59,NA,42123,2,290,1_8_12,119,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42125,Participant 128,42102,This is different. This is like a social. I don't know. Like a sociology study or something.,2,1,NA,42124,2,128,1_8_12,121,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42126,Participant 290,42102,Right. But it has a military application too apparently.,2,10,NA,42125,2,290,1_8_12,130,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42127,Participant 128,42102,Interesting.,2,16,NA,42126,2,128,1_8_12,136,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42128,Participant 290,42102,"Didn't she say? Getting that this was like, funded by the Army or something?",2,17,NA,42127,2,290,1_8_12,137,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42129,Participant 128,42102,"Oh, yeah. That might have. Maybe I think I think I remember something like that.",2,22,NA,42128,2,128,1_8_12,142,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42130,Participant 290,42102,Yeah.,2,30,NA,42129,2,290,1_8_12,150,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42131,Participant 128,42102,That's one wonder when? I guess we're waiting for a password or something.,2,33,NA,42130,2,128,1_8_12,153,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42132,Participant 290,42102,"Oh, right. Yeah. Did you get on that page? And everything?",2,38,NA,42131,2,290,1_8_12,158,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42133,Participant 128,42102,"Yeah, I'm on the password page. Yeah. Yeah, when they first when they first started giving us those, those investment questions like the the assessment started, like before she was done talking. And I like missed the first couple. I think what's going on?",2,42,NA,42132,2,128,1_8_12,162,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42134,Participant 290,42102,"Yeah, it was being really erratic for me to some of them. Were going by really fast. And some of them were, like, lagging.",3,1,NA,42133,2,290,1_8_12,181,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42135,Participant 128,42102,How far did you get? I got 47 cents.,3,10,NA,42134,2,128,1_8_12,190,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42136,Participant 290,42102,"Oh, yeah, I think I got 53 cents or something.",3,13,NA,42135,2,290,1_8_12,193,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42137,Participant 128,42102,Okay.,3,16,NA,42136,2,128,1_8_12,196,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42138,Participant 290,42102,It told me that they just randomly chose one of my 132 entries to assign a reward.,3,18,NA,42137,2,290,1_8_12,198,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42139,Participant 128,42102,It's kind of cool how they're giving us these challenges.,3,28,NA,42138,2,128,1_8_12,208,taskwork,1,FALSE,290,290,2,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42140,Participant 290,42102,"Yeah. Yeah. Somehow it's more fun to like, kind of not know what's going on.",3,30,NA,42139,2,290,1_8_12,210,taskwork,1,FALSE,128,128,2,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42141,Participant 128,42102,"I know. I'm getting you know, doing this for $12 an hour. But now it could be potentially $15, $16 an hour and it's something",3,38,NA,42140,2,128,1_8_12,218,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42142,Participant 290,42102,I'm going to go fill up my water glass. Since we're sitting here going to set okay. Anything happened yet? What's the top of your screen? I wonder if we're gonna be asked to. Like rank those items again. Probably.,4,9,NA,42141,2,290,1_8_12,249,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42143,Participant 128,42102,Yeah,6,6,NA,42142,2,128,1_8_12,366,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42144,Participant 290,42102,Survival task. I guess since there's there's only two of us. We won't have too much. arguing.,6,6,NA,42143,2,290,1_8_12,366,taskwork,1,FALSE,128,128,3,0,3,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42145,Participant 128,42102,"Yeah. You seem like a very, like, easy person, like a nice person to work with.",6,19,NA,42144,2,128,1_8_12,379,taskwork,1,FALSE,290,290,3,0,3,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42146,Participant 290,42102,"Oh, that's nice of you to say.",6,27,NA,42145,2,290,1_8_12,387,taskwork,1,FALSE,128,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42147,Participant 128,42102,Laid back,6,28,NA,42146,2,128,1_8_12,388,taskwork,1,FALSE,290,290,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42148,Participant 290,42102,you too!,6,29,NA,42147,2,290,1_8_12,389,taskwork,1,FALSE,128,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42149,Participant 290,42102,"Luckily, we're not really stranded on the moon. So let's take Santa.",6,29,NA,42148,2,290,1_8_12,389,taskwork,1,FALSE,290,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42150,Participant 128,42102,"Yeah. Actually realized that there was more than one of these more than one of these tests and I left the window open and then like Emilia like, pulled me aside and she was like, You never did your pre survey, like as I did, but oh, oh shit. There's more.",6,40,NA,42149,2,128,1_8_12,400,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42151,Participant 290,42102,"Oh, yeah, that was like such a slog. I did it. I did it this morning when they.",7,4,NA,42150,2,290,1_8_12,424,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42152,Participant 128,42102,So I'm doing it right now.,7,11,NA,42151,2,128,1_8_12,431,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42153,Participant 290,42102,"Oh, cool. Don't let me stop you.",7,12,NA,42152,2,290,1_8_12,432,taskwork,1,FALSE,128,128,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42154,Participant 290,42102,"But it's got like, requires you to wait the entire time.",7,12,NA,42153,2,290,1_8_12,432,taskwork,1,FALSE,290,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42155,Participant 290,42102,"And yeah, like countdown. 10 minutes.",7,12,NA,42154,2,290,1_8_12,432,taskwork,1,FALSE,290,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42156,Participant 128,42102,"And this is drag and drop. And I'm like, like, I can't drag anything. I was like, Yeah,",7,26,NA,42155,2,128,1_8_12,446,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42157,Participant 290,42102,I had the same problem. I just entered numbers and the box.,7,32,NA,42156,2,290,1_8_12,452,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42158,Participant 128,42102,"Yeah. Is it some kind of trick? It was just busted. So, are you in Chicago?",7,35,NA,42157,2,128,1_8_12,455,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42159,Participant 290,42102,"Yeah, Are you?",7,47,NA,42158,2,290,1_8_12,467,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42160,Participant 128,42102,Yeah,7,50,NA,42159,2,128,1_8_12,470,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42161,Participant 290,42102,"yeah. Yeah, I thought it was funny. I got an email asking to confirm that I was in the United States. But I could be anywhere from Chicago.",7,51,NA,42160,2,290,1_8_12,471,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42162,Participant 128,42102,"You know, any other good studies that are recruiting?",8,9,NA,42161,2,128,1_8_12,489,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42163,Participant 290,42102,"I don't know. Let's see. Oh, here we go.",8,14,NA,42162,2,290,1_8_12,494,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42164,NA,42102,STRONG Team  8:18,8,14,NA,42163,2,290,1_8_12,494,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42165,NA,42102,"Hey, everyone, I'm just checking in to make sure. If you haven't worked on the pre survey yet, you don't need to worry about it now. You can just focus on the tasks that you're doing with your team. And then once this is finished, you can work on it.",8,14,NA,42164,2,290,1_8_12,494,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42166,NA,42102,Okay.,8,34,NA,42165,2,290,1_8_12,514,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42167,NA,42102,STRONG Team  8:35,8,34,NA,42166,2,290,1_8_12,514,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42168,NA,42102,Okay. Good luck on the task.,8,34,NA,42167,2,290,1_8_12,514,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42169,NA,42102,Great. are we waiting for the code still from you?,8,38,NA,42168,2,290,1_8_12,518,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42170,NA,42102,STRONG Team  8:40,8,38,NA,42169,2,290,1_8_12,518,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42171,NA,42102,"I think, oh, have you not received it yet? Then I can. Yeah. So I'll give it to you again. It's wave w-a-v-e.",8,38,NA,42170,2,290,1_8_12,518,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42172,NA,42102,Okay. Okay.,8,56,NA,42171,2,128,1_8_12,536,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42173,NA,42102,STRONG Team  9:00,8,56,NA,42172,2,128,1_8_12,536,taskwork,1,FALSE,128,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42174,NA,42102,Are you able to see it?,8,56,NA,42173,2,128,1_8_12,536,taskwork,1,FALSE,128,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42175,NA,42102,Yes.,9,2,NA,42174,2,128,1_8_12,542,taskwork,1,FALSE,128,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42176,NA,42102,Yeah. Okay.,9,2,NA,42175,2,290,1_8_12,542,taskwork,1,FALSE,128,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42177,NA,42102,STRONG Team  9:06,9,2,NA,42176,2,290,1_8_12,542,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42178,NA,42102,"And then, yeah, you know, the timers will come up. You can stay in here and we will let you finish the task, so you don't have to pay attention to the timer's when they come up.",9,2,NA,42177,2,290,1_8_12,542,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42179,NA,42102,"Okay, great.",9,18,NA,42178,2,290,1_8_12,558,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42180,NA,42102,STRONG Team  9:19,9,18,NA,42179,2,290,1_8_12,558,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42181,NA,42102,Okay. Good luck.,9,18,NA,42180,2,290,1_8_12,558,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42182,NA,42102,Thanks.,9,18,NA,42181,2,290,1_8_12,558,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42183,Participant 128,42102,"Alright. So I like I always go for water for I mean, I have like a I have a lot of experience and serve in like emergency preparedness and survival as a Boy Scout and stuff.",9,22,NA,42182,2,128,1_8_12,562,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42184,Participant 290,42102,Oh cool,9,36,NA,42183,2,290,1_8_12,576,taskwork,1,FALSE,128,128,1,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42185,Participant 128,42102,"I was also in the army, but I think like waters first and foremost, if you agree.",9,36,NA,42184,2,128,1_8_12,576,taskwork,1,FALSE,290,290,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42186,Participant 290,42102,"Yeah, I think that's what I picked for all of them was water.",9,42,NA,42185,2,290,1_8_12,582,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42187,Participant 128,42102,"Okay, so what do you pick for number two? I think I picked",9,45,NA,42186,2,128,1_8_12,585,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42188,Participant 290,42102,this is the moon one right? Yep. Yeah.,9,49,NA,42187,2,290,1_8_12,589,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42189,Participant 128,42102,"I think I picked either rope or, or food or something. The food",9,53,NA,42188,2,128,1_8_12,593,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42190,Participant 290,42102,I think I picked I think I just put all the food ones.,9,59,NA,42189,2,290,1_8_12,599,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42191,Participant 128,42102,Yeah,10,3,NA,42190,2,128,1_8_12,603,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42192,Participant 290,42102,up front.,10,4,NA,42191,2,290,1_8_12,604,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42193,Participant 128,42102,"Okay, so let's",10,5,NA,42192,2,128,1_8_12,605,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42194,Participant 290,42102,oxygen oxygen too.,10,7,NA,42193,2,290,1_8_12,607,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42195,Participant 128,42102,Oh shit.,10,9,NA,42194,2,128,1_8_12,609,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42196,Participant 290,42102,"Yeah. I mean, it doesn't quite explain if we have some sort of",10,10,NA,42195,2,290,1_8_12,610,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42197,Participant 128,42102,I think oxygen would be a more desperate need than water than.,10,17,NA,42196,2,128,1_8_12,617,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42198,Participant 290,42102,"Yeah,",10,21,NA,42197,2,290,1_8_12,621,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42199,Participant 128,42102,"that's Yeah, so let's put oxygen first.",10,21,NA,42198,2,128,1_8_12,621,taskwork,1,FALSE,290,290,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42200,Participant 290,42102,And then water two,10,25,NA,42199,2,290,1_8_12,625,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42201,Participant 128,42102,now we can prioritize the kind of food so I think food concentrate,10,27,NA,42200,2,128,1_8_12,627,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42202,Participant 290,42102,sounds good.,10,36,NA,42201,2,290,1_8_12,636,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42203,Participant 128,42102,Probably more balanced than dehydrated milk.,10,37,NA,42202,2,128,1_8_12,637,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42204,Participant 290,42102,"Yeah, although it came to it I guess the dehydrated milk would be",10,41,NA,42203,2,290,1_8_12,641,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42205,Participant 128,42102,Yeah. And then and then after that it was I mean we don't need a gun in space.,10,45,NA,42204,2,128,1_8_12,645,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42206,Participant 290,42102,"Yeah, I don't think gun or matches would do any good.",10,56,NA,42205,2,290,1_8_12,656,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42207,Participant 128,42102,"Yeah, so we could",11,0,NA,42206,2,128,1_8_12,660,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42208,Participant 290,42102,I think I had those as the last.,11,2,NA,42207,2,290,1_8_12,662,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42209,Participant 128,42102,Okay.,11,4,NA,42208,2,128,1_8_12,664,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42210,Participant 128,42102,That's like 15 for guns and 14 for matches.,11,4,NA,42209,2,128,1_8_12,664,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42211,Participant 290,42102,Yeah.,11,9,NA,42210,2,290,1_8_12,669,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42212,Participant 128,42102,"Okay, so we need we're, we're, we're at five. We need to choose a five.",11,12,NA,42211,2,128,1_8_12,672,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42213,Participant 290,42102,Yeah. I don't know if magnetic compass is useful on the moon. Is there enough gravity? Is there any sort of,11,18,NA,42212,2,290,1_8_12,678,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42214,Participant 128,42102,a magnetic field?,11,26,NA,42213,2,128,1_8_12,686,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42215,Participant 290,42102,Yeah.,11,27,NA,42214,2,290,1_8_12,687,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42216,Participant 128,42102,I don't know. Yeah. I think rope would be pretty.,11,29,NA,42215,2,128,1_8_12,689,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42217,Participant 290,42102,How specifically would rope be helpful.,11,37,NA,42216,2,290,1_8_12,697,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42218,Participant 128,42102,"I mean, in case you need to, like repel down the crevice or something.",11,40,NA,42217,2,128,1_8_12,700,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42219,Participant 290,42102,"Oh, yeah.",11,46,NA,42218,2,290,1_8_12,706,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42220,Participant 128,42102,You need to pull someone up. Maybe some.,11,46,NA,42219,2,128,1_8_12,706,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42221,Participant 290,42102,Do you want to do that for five?,11,51,NA,42220,2,290,1_8_12,711,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42222,Participant 128,42102,"I mean, I'm actually a pretty pretty avid climber. So I do with a lot of rope.",11,54,NA,42221,2,128,1_8_12,714,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42223,Participant 290,42102,Cool.,12,0,NA,42222,2,290,1_8_12,720,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42224,Participant 128,42102,So can we put that for number five?,12,2,NA,42223,2,128,1_8_12,722,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42225,Participant 290,42102,Let's do it.,12,4,NA,42224,2,290,1_8_12,724,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42226,Participant 128,42102,Alright. I think the compass would be good too. Let's say it does work.,12,5,NA,42225,2,128,1_8_12,725,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42227,Participant 290,42102,"Yeah, I'm not sure if there's any sort of",12,15,NA,42226,2,290,1_8_12,735,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42228,Participant 290,42102,"Okay, that is alerting action. And then",12,15,NA,42227,2,290,1_8_12,735,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42229,Participant 128,42102,we got six minutes and 30 seconds. or 40 seconds.,12,21,NA,42228,2,128,1_8_12,741,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42230,Participant 128,42102,"Yeah, I think",12,21,NA,42229,2,128,1_8_12,741,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42231,Participant 290,42102,I guess self inflating liferaft off of that also didn't make any sense to me.,12,30,NA,42230,2,290,1_8_12,750,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42232,Participant 128,42102,Yeah. Let's put that for 13.,12,33,NA,42231,2,128,1_8_12,753,taskwork,1,FALSE,290,290,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42233,Participant 290,42102,Yeah.,12,35,NA,42232,2,290,1_8_12,755,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42234,Participant 128,42102,Do flairs burn in space? they require combustions,12,40,NA,42233,2,128,1_8_12,760,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42235,Participant 290,42102,"Yeah, and also seems helpful, good point.",12,46,NA,42234,2,290,1_8_12,766,taskwork,1,FALSE,128,128,2,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42236,Participant 128,42102,Good with 12,12,49,NA,42235,2,128,1_8_12,769,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42237,Participant 290,42102,"I guess I thought there may be some kind of space flare that I don't know about. LED or something? I don't know. But yeah, you're right.",12,49,NA,42236,2,290,1_8_12,769,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42238,Participant 128,42102,"Maybe I think the first aid kit would be it looks must be cold. And I don't know from hearing from here on that. I'm like, I'm just like,",13,1,NA,42237,2,128,1_8_12,781,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42239,Participant 290,42102,"yeah,",13,14,NA,42238,2,290,1_8_12,794,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42240,Participant 128,42102,"yeah, I think first aid kit. I'm going to say just go out with first aid kit portable heating unit.",13,16,NA,42239,2,128,1_8_12,796,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42241,Participant 290,42102,So first aid kit as seven.,13,24,NA,42240,2,290,1_8_12,804,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42242,Participant 128,42102,Yeah.,13,25,NA,42241,2,128,1_8_12,805,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42243,Participant 290,42102,"Heating unit, 8",13,27,NA,42242,2,290,1_8_12,807,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42244,Participant 128,42102,and let's go with a map. Nine... and FM receiver is if there's uh,13,29,NA,42243,2,128,1_8_12,809,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42245,Participant 290,42102,"yeah, I don't know what that would be.",13,40,NA,42244,2,290,1_8_12,820,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42246,Participant 128,42102,"I noticed that we're already too too far to look back. And then parachutes. For 12 Oh, shoot, I think I lost one. I forgot to this site. So I went solar power FM receiver for number 10.",13,42,NA,42245,2,128,1_8_12,822,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42247,Participant 290,42102,"Yeah, yeah.",13,59,NA,42246,2,290,1_8_12,839,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42248,Participant 128,42102,And then for 11,14,1,NA,42247,2,128,1_8_12,841,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42249,Participant 290,42102,11 I had parachute silk and 12 was signal flares.,14,3,NA,42248,2,290,1_8_12,843,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42250,Participant 128,42102,"Okay. Then 13. Self inflating. liferaft matches then Okay. All right. Starting to send us a message saying okay when the task is over. Wonder if like I wonder if there's some teams or like, like argues I doubt it. I'm sure everybody here is like pretty level headed anyway.",14,7,NA,42249,2,128,1_8_12,847,taskwork,1,FALSE,290,290,2,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42251,Participant 290,42102,But also some people may have special knowledge that other people talent or something you know?,14,51,NA,42250,2,290,1_8_12,891,taskwork,1,FALSE,128,128,1,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42252,Participant 128,42102,Sure. So what kind of have you said you work at an art museum or,14,58,NA,42251,2,128,1_8_12,898,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42253,Participant 290,42102,at the Art Institute of Chicago,15,5,NA,42252,2,290,1_8_12,905,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42254,Participant 128,42102,Nice.,15,8,NA,42253,2,128,1_8_12,908,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42255,Participant 290,42102,"And then I also work at film festivals, but those aren't really happening either. So and I also work at a bar and that's not happening. So I have a lot of downtime.",15,12,NA,42254,2,290,1_8_12,912,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42256,Participant 128,42102,"Any, any positive outlooks? And all those things. Yeah.",15,24,NA,42255,2,128,1_8_12,924,taskwork,1,FALSE,290,290,0,0,2,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42257,Participant 290,42102,"Oh, I don't know. I mean, I'm, I guess I'm doing okay, because I've been getting other work. I've been getting temporary work just working on TV shows.",15,24,NA,42256,2,128,1_8_12,924,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42258,Participant 128,42102,"Okay, cool.",15,24,NA,42257,2,128,1_8_12,924,taskwork,1,FALSE,128,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42259,Participant 290,42102,"That film here, because there's no need to do that again. And",15,40,NA,42258,2,290,1_8_12,940,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42260,Participant 128,42102,bar seems to be pretty bumping.,15,46,NA,42259,2,128,1_8_12,946,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42261,Participant 290,42102,What's that?,15,49,NA,42260,2,290,1_8_12,949,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42262,Participant 128,42102,bars seem to be pretty bumping right now.,15,49,NA,42261,2,128,1_8_12,949,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42263,Participant 290,42102,"Yeah, though, our bar isn't opening until it's ready. Until, you know, it's like, I don't know what they're just waiting for. But they decided not to open until it was like super safe.",15,52,NA,42262,2,290,1_8_12,952,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42264,Participant 128,42102,Interesting.,16,6,NA,42263,2,128,1_8_12,966,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42265,Participant 290,42102,"I think it's because she, the owner owns the building, so she doesn't have any sort of financial pressure to like,",16,8,NA,42264,2,290,1_8_12,968,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42266,Participant 128,42102,ohh okay so she doesn't have to pay rent,16,13,NA,42265,2,128,1_8_12,973,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42267,Participant 290,42102,"right, doesn't have to pay rent and stuff. So she was happy to come in. She wasn't happy. But we decided we're gonna close. We're gonna keep everybody safe. We're gonna want to open until it's time to do it. So that's nice.",16,15,NA,42266,2,290,1_8_12,975,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42268,Participant 128,42102,That's... yea that's great.,16,27,NA,42267,2,128,1_8_12,987,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42269,Participant 290,42102,"So you're still working in your job, but just cut back?",16,33,NA,42268,2,290,1_8_12,993,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42270,Participant 128,42102,"Yeah, I got cut back like 50% which, I mean, it really could be worse. Oh, here we go. Would you like the password? Yes. That's what it is. Feel.",16,37,NA,42269,2,128,1_8_12,997,taskwork,1,FALSE,290,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42271,Participant 290,42102,Got it.,16,58,NA,42270,2,290,1_8_12,1018,taskwork,1,FALSE,128,128,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42272,NA,42102,Unknown Speaker  17:08,16,58,NA,42271,2,290,1_8_12,1018,taskwork,1,FALSE,290,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42273,Participant 290,42102,"Okay, uses for brick.",16,58,NA,42272,2,290,1_8_12,1018,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42274,Participant 290,42102,"Oh, yeah. They're all the same ones.",17,11,NA,42273,2,290,1_8_12,1031,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42275,Participant 128,42102,"Yeah. All right. So as I mean,",17,14,NA,42274,2,128,1_8_12,1034,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42276,Participant 128,42102,I'll start with,17,14,NA,42275,2,128,1_8_12,1034,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42277,Participant 290,42102,"Oh, I see. So those individual ideas recorded in your pre survey don't need to be written here. So there's no pressure to remember everything we wrote",17,20,NA,42276,2,290,1_8_12,1040,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42278,Participant 128,42102,"Oh, but I mine was never submitted. So let's just go with the I said I said house bridge. chimney. roof. stairs. As a pier. how do you spell chiminea cumin.",17,30,NA,42277,2,128,1_8_12,1050,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42279,Participant 290,42102,"Oh, yeah, that's like ch e m. i.",17,58,NA,42278,2,290,1_8_12,1078,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42280,Participant 128,42102,Here we go. Yeah. autocorrect ch i m e n e A.,18,1,NA,42279,2,128,1_8_12,1081,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42281,Participant 290,42102,Ch I am What is it?,18,10,NA,42280,2,290,1_8_12,1090,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42282,Participant 128,42102,c h i m e n e a,18,12,NA,42281,2,128,1_8_12,1092,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42283,Participant 290,42102,good one.,18,16,NA,42282,2,290,1_8_12,1096,taskwork,1,FALSE,128,128,2,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42284,Participant 128,42102,I said oven.,18,22,NA,42283,2,128,1_8_12,1102,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42285,Participant 290,42102,"Oh, to build an oven. Yeah.",18,25,NA,42284,2,290,1_8_12,1105,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42286,Participant 128,42102,"Yeah, wall,",18,27,NA,42285,2,128,1_8_12,1107,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42287,Participant 290,42102,that's so funny. I was thinking about just a brick a single brick on a single,18,29,NA,42286,2,290,1_8_12,1109,taskwork,1,FALSE,128,128,0,1,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42288,Participant 290,42102,"Yeah, I wasn't really thinking about",18,29,NA,42287,2,290,1_8_12,1109,taskwork,1,FALSE,290,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42289,Participant 128,42102,"Oh, A brick",18,38,NA,42288,2,128,1_8_12,1118,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42290,Participant 290,42102,things are made of bricks. I sort of interpreted as like that was like paperweight doorstop stuff like that you know,18,39,NA,42289,2,290,1_8_12,1119,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42291,Participant 128,42102,you got any ideas besides,18,53,NA,42290,2,128,1_8_12,1133,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42292,Participant 290,42102,"but what else did I put I put something I said I think I said weapon. And putting like water displacement, like putting it in your toilet tank.",18,55,NA,42291,2,290,1_8_12,1135,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42293,Participant 128,42102,Okay. And maybe that's what maybe that's what they're going for. I'm sure that's what they want,19,9,NA,42292,2,128,1_8_12,1149,taskwork,1,FALSE,290,290,2,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42294,Participant 290,42102,"I mean, maybe anything I think I wrote paving stone or like to pave a walkway or",19,15,NA,42293,2,290,1_8_12,1155,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42295,Participant 128,42102,driveway. sidewalk I don't know you can make a road. Make an alley tunnel.,19,21,NA,42294,2,128,1_8_12,1161,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42296,Participant 290,42102,Yeah.,19,40,NA,42295,2,290,1_8_12,1180,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42297,Participant 290,42102,You could use it to hammer a nail in,19,40,NA,42296,2,290,1_8_12,1180,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42298,Participant 128,42102,Oh yeah.,19,46,NA,42297,2,128,1_8_12,1186,taskwork,1,FALSE,290,290,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42299,Participant 128,42102,"Hammer. You can use it as a to as like the to fix your tent, I don't know. To stick as a tent stake",19,46,NA,42298,2,128,1_8_12,1186,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42300,Participant 290,42102,testing oh yeah like to wait down a quarter.,20,3,NA,42299,2,290,1_8_12,1203,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42301,Participant 128,42102,Yeah.,20,8,NA,42300,2,128,1_8_12,1208,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42302,Participant 290,42102,"Use it as a color reference, like brick red.",20,13,NA,42301,2,290,1_8_12,1213,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42303,Participant 128,42102,Can you melt it into clay?,20,25,NA,42302,2,128,1_8_12,1225,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42304,Participant 290,42102,"I don't know how that works. I think eventually I'll make turns. Maybe just from water, I would say right.",20,28,NA,42303,2,290,1_8_12,1228,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42305,Participant 128,42102,You can make sand,20,39,NA,42304,2,128,1_8_12,1239,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42306,Participant 290,42102,maybe we could say like grind into clay.,20,45,NA,42305,2,290,1_8_12,1245,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42307,Participant 128,42102,"You could grind it into clay and then make like, kitchenware plates and bowls.",20,56,NA,42306,2,128,1_8_12,1256,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42308,Participant 290,42102,could use it to as like a,21,13,NA,42307,2,290,1_8_12,1273,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42309,Participant 290,42102,Use as a...,21,13,NA,42308,2,290,1_8_12,1273,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42310,Participant 128,42102,anchor?,21,19,NA,42309,2,128,1_8_12,1279,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42311,Participant 128,42102,anchor!,21,19,NA,42310,2,128,1_8_12,1279,taskwork,1,FALSE,128,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42312,Participant 290,42102,anchor there. Yeah. coaster?,21,20,NA,42311,2,290,1_8_12,1280,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42313,Participant 128,42102,coaster,21,25,NA,42312,2,128,1_8_12,1285,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42314,NA,42102,Unknown Speaker  21:25,21,25,NA,42313,2,128,1_8_12,1285,taskwork,1,FALSE,128,NA,NA,NA,NA,NA,NA
+03_11_2021_vero #8_task_round 1_otter.ai,42315,Participant 128,42102,kind of. I don't know what kind of table you'd have that you'd have. You'd set a brick on it but not a cup,21,25,NA,42314,2,128,1_8_12,1285,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42316,Participant 128,42102,"like a napkin holder or like a book holder? Or like,",21,35,NA,42315,2,128,1_8_12,1295,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42317,Participant 290,42102,"Oh, yeah, like a book. book ends or some",21,38,NA,42316,2,290,1_8_12,1298,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42318,Participant 128,42102,book end Yeah.,21,40,NA,42317,2,128,1_8_12,1300,taskwork,1,FALSE,290,290,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42319,Participant 290,42102,Wonder if they will evaluate whether any of these makes sense or if it's just to have something,21,51,NA,42318,2,290,1_8_12,1311,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42320,Participant 128,42102,could be a tripod,21,59,NA,42319,2,128,1_8_12,1319,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42321,Participant 290,42102,monopod,22,5,NA,42320,2,290,1_8_12,1325,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42322,Participant 128,42102,that true? Phone stand bookstand squatty potty.,22,9,NA,42321,2,128,1_8_12,1329,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42323,Participant 290,42102,scraper. Scrape the mud off your fingers.,22,26,NA,42322,2,290,1_8_12,1346,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42324,Participant 128,42102,How much time is it really quick?,22,28,NA,42323,2,128,1_8_12,1348,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42325,Participant 290,42102,Oh 4:28,22,40,NA,42324,2,290,1_8_12,1360,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42326,Participant 128,42102,should we go the next test? We still got four minutes.,22,48,NA,42325,2,128,1_8_12,1368,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42327,Participant 290,42102,What else can we think of a brick?,22,54,NA,42326,2,290,1_8_12,1374,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42328,Participant 128,42102,"Yeah, I think we should stay on this test. I don't know. I like a pancake press. a sandwich press.",22,56,NA,42327,2,128,1_8_12,1376,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42329,Participant 290,42102,"Yeah. Good idea. For a sandwich press. Oh, they sent I just got an they sent us the new",23,9,NA,42328,2,290,1_8_12,1389,taskwork,1,FALSE,128,128,2,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42330,Participant 128,42102,"Yeah, um, we got three minutes. I don't know. Yeah, I think we should stay on this task. I think it was peeling right. The password was peeling.",23,20,NA,42329,2,128,1_8_12,1400,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42331,Participant 290,42102,Oh mine was pack just,23,32,NA,42330,2,290,1_8_12,1412,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42332,Participant 128,42102,pack a pack sorry. Yeah.,23,34,NA,42331,2,128,1_8_12,1414,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42333,Participant 290,42102,They say you can finish up till the timer runs off. What did you say pancake press better? That makes sense.,23,39,NA,42332,2,290,1_8_12,1419,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42334,Participant 128,42102,Yeah.,23,55,NA,42333,2,128,1_8_12,1435,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42335,Participant 290,42102,Sandwich press is good. I like it use it as a something to make a sculpture out of like Carver sculpture.,23,56,NA,42334,2,290,1_8_12,1436,taskwork,1,FALSE,128,128,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42336,Participant 128,42102,"Yeah, sculpture.",24,8,0,42335,2,128,1_8_12,1448,taskwork,1,FALSE,290,290,1,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42337,Participant 128,42102,Throw maybe. I don't know.,24,8,0,42336,2,128,1_8_12,1448,taskwork,1,FALSE,128,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42338,Participant 290,42102,"Oh, like what do you call it and you don't how you prop your window open.",24,25,0,42337,2,290,1_8_12,1465,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42339,Participant 128,42102,Prop your window?,24,30,0,42338,2,128,1_8_12,1470,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42340,Participant 290,42102,You know like if your window you find your window to be open one,24,32,0,42339,2,290,1_8_12,1472,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42341,Participant 128,42102,window prop.,24,37,0,42340,2,128,1_8_12,1477,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42342,Participant 290,42102,Window prop or also like when people put those air conditioner things in their window and you stick a brick under it to make it,24,39,0,42341,2,290,1_8_12,1479,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42343,Participant 128,42102,"like, I don't know. It's just like a prop.",24,50,0,42342,2,128,1_8_12,1490,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42344,Participant 290,42102,For prop for window. a/c,24,53,0,42343,2,290,1_8_12,1493,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42345,Participant 128,42102,A/C unit prop I guess you can make it a pencil holder you put some pencils over Can you hold anything,25,0,0,42344,2,128,1_8_12,1500,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42346,Participant 290,42102,you can put anything on it,25,26,0,42345,2,290,1_8_12,1526,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42347,Participant 128,42102,a pot,25,29,0,42346,2,128,1_8_12,1529,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42348,Participant 290,42102,they can be used for warmth use for like you warm up bricks in the fire then you bring it into your whatever,25,32,0,42347,2,290,1_8_12,1532,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42349,Participant 128,42102,flower pot and you could make like a pool or a once again Animal cage or aquarium where was I going with that...,25,46,0,42348,2,128,1_8_12,1546,taskwork,1,FALSE,290,290,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42350,Participant 290,42102,"use it for trapping I guess that's sort of weapon trap. Yeah, like as a for like a dead fall for trying yeah",26,38,0,42349,2,290,1_8_12,1598,taskwork,1,FALSE,128,128,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42351,Participant 128,42102,10 seconds.,26,53,0,42350,2,128,1_8_12,1613,taskwork,1,FALSE,290,all,0,0,0,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42352,Participant 128,42102,"I don't know. I think we had dinner. So let's go the next one is their individual. I guess we're closing out, we'll see you later.",26,53,0,42351,2,128,1_8_12,1613,taskwork,1,FALSE,128,290,0,0,1,0,0
+03_11_2021_vero #8_task_round 1_otter.ai,42353,Participant 290,42102,All right.,27,52,0,42352,2,290,1_8_12,1672,taskwork,1,FALSE,128,128,0,0,1,0,0

@@ -1,35 +1,12 @@
----
-title: "REM-Henry"
-author: "Henry Li"
-format: html
-editor: visual
----
-
-## Readme
-
-input: ONE sheet of labeled data (in 'perfect' format), from cleaned-data-as-input folder
-
-output: model statistics in the /output folder
-
-purpose:
-
-1.  prepares ONE sheet of data ready for REM analysis (from 'perfect' format);
-
-2.  performs analysis with relevent and export model statistics
-
-# Pre-processing
-
-```{r setup, include = FALSE}
+## ----setup, include = FALSE----------------------------------------------------------------
 library(here)
 library(dplyr) 
 library(tidyr)
 library(purrr)
 library(relevent)
-```
 
-## read the cleaned data (in 'perfect' format) from command line argument
 
-```{r}
+## ------------------------------------------------------------------------------------------
 # Capture the arguments passed to the script and validate number of arguments
 args <- commandArgs(trailingOnly = TRUE)
 
@@ -40,69 +17,45 @@ if (length(args) != 1) {
 input_name <- args[1]
 file_path <- here("evan-format-input", input_name)
 testdata <- read.csv(file_path)
-```
 
-## 1. Remove NA entries
 
-```{r}
+## ------------------------------------------------------------------------------------------
 testdata <- testdata %>%
   filter(!is.na(user) & !is.na(to))
-```
 
-## 2. List of all participants (excluding Vero)
 
-```{r}
+## ------------------------------------------------------------------------------------------
 participants <- unique(testdata$user)
 participants <- participants[!participants %in% c("Vero", "all")]
-```
 
-## 3. List of participants + Vero
 
-```{r}
+## ------------------------------------------------------------------------------------------
 participants_with_vero <- if("Vero" %in% participants) {
   c(participants)
 } else {
   c("Vero", participants)
 }
-```
 
-## 4 Expand "to" column and handle labeling with commas
 
-```{r}
+## ------------------------------------------------------------------------------------------
 testdata <- testdata %>%
   separate_longer_delim(c(to, task_pos, task_conf, rel_pos, rel_conf, X3rdVero), delim = ",")
-```
 
-## 5. Remove "Participant " from user column
 
-```{r}
+## ------------------------------------------------------------------------------------------
 testdata$user <- gsub("Participant ", "", testdata$user)
-```
 
-## 6. Process time and add 0.1s increment for simultaneous events
 
-1.  simultaneously addressing more than one recipients
-
-2.  two events happening within one second frame (necessary for well-ordering) (Butts and Marcum 2017:11)
-
-***Let us know if you have better solutions!***
-
-Since `n()` is the number of rows in each group, and `runif` generates a unique random number for each row, the adjusted `time` values will be distinct unless the random number generator happens to produce the same value multiple times, which is highly unlikely given the continuous nature of `runif`. Inclusive of 0.
-
-robustness check: varying seeds only slightly change coefficients. Seems to not change the significance level.
-
-```{r}
+## ------------------------------------------------------------------------------------------
 set.seed(123)
 testdata <- testdata %>%
   group_by(time) %>%
   mutate(time = time + runif(n(), min = 0, max = 0.1)) %>%
   ungroup() %>%
   arrange(time)
-```
 
-## 7. Handle "all" case and ensure consistent formatting
 
-```{r}
+## ------------------------------------------------------------------------------------------
 testdata <- testdata %>%
   mutate(
     to = if_else(to == "all", "1", to),  # Replace "all" with "1"
@@ -133,41 +86,39 @@ map_ids_to_integers <- function(df, from_col, to_col) {
 test_attribute <- tibble(team_id = testdata$Team_id[1], Vero_type = testdata$condition[1])
 test_data_run <- tibble(time = testdata$time, from = testdata$user, to = testdata$to)
 data_prepared <- map_ids_to_integers(test_data_run, "from", "to")
-```
 
-```{r eval=FALSE, include=FALSE}
-# ###*** map Participant IDs into 1,2,3,4,...
-# map_ids_to_integers <- function(df, from_col, to_col) {
-#   # Convert specified columns to character type
-#   df[[from_col]] <- as.character(df[[from_col]])
-#   df[[to_col]] <- as.character(df[[to_col]])
-#   
-#   # Extract unique IDs from both specified columns
-#   unique_ids <- unique(c(df[[from_col]], df[[to_col]]))
-#   
-#   # Create a mapping of unique IDs to integers
-#   id_mapping <- setNames(1:length(unique_ids), unique_ids)
-#   
-#   # Apply the mapping to the specified columns
-#   df[[from_col]] <- id_mapping[df[[from_col]]]
-#   df[[to_col]] <- id_mapping[df[[to_col]]]
-#   
-#   # Create and print the mapping table
-#   mapping_table <- data.frame(ID = names(id_mapping), Integer = id_mapping)
-#   print(mapping_table)
-#   
-#   # Return the adjusted dataframe
-#   return(list(adjusted_df = df, mapping_table = mapping_table))
-# }
-# 
-# test_attribute <- tibble(team_id = testdata$Team_id[1], Vero_type = testdata$condition[1]) 
-# test_data_run <-data.frame(from=testdata$user, to=testdata$to, time=testdata$time)
-# data_prepared <- map_ids_to_integers(test_data_run, "from", "to")
-```
 
-## REM
+## ----eval=FALSE, include=FALSE-------------------------------------------------------------
+## # ###*** map Participant IDs into 1,2,3,4,...
+## # map_ids_to_integers <- function(df, from_col, to_col) {
+## #   # Convert specified columns to character type
+## #   df[[from_col]] <- as.character(df[[from_col]])
+## #   df[[to_col]] <- as.character(df[[to_col]])
+## #
+## #   # Extract unique IDs from both specified columns
+## #   unique_ids <- unique(c(df[[from_col]], df[[to_col]]))
+## #
+## #   # Create a mapping of unique IDs to integers
+## #   id_mapping <- setNames(1:length(unique_ids), unique_ids)
+## #
+## #   # Apply the mapping to the specified columns
+## #   df[[from_col]] <- id_mapping[df[[from_col]]]
+## #   df[[to_col]] <- id_mapping[df[[to_col]]]
+## #
+## #   # Create and print the mapping table
+## #   mapping_table <- data.frame(ID = names(id_mapping), Integer = id_mapping)
+## #   print(mapping_table)
+## #
+## #   # Return the adjusted dataframe
+## #   return(list(adjusted_df = df, mapping_table = mapping_table))
+## # }
+## #
+## # test_attribute <- tibble(team_id = testdata$Team_id[1], Vero_type = testdata$condition[1])
+## # test_data_run <-data.frame(from=testdata$user, to=testdata$to, time=testdata$time)
+## # data_prepared <- map_ids_to_integers(test_data_run, "from", "to")
 
-```{r}
+
+## ------------------------------------------------------------------------------------------
 edgelist_df = data_prepared$adjusted_df
 mapping_table = data_prepared$mapping_table
 model1 <- rem.dyad(
@@ -180,11 +131,9 @@ model1 <- rem.dyad(
 
 # Remember CovSnd.1 is the model intercept
 summary(model1)
-```
 
-## Export model statistics
 
-```{r}
+## ------------------------------------------------------------------------------------------
 coef <- model1$par
 SE <- sqrt(diag(model1$cov))
 z_values <- coef / SE
@@ -206,4 +155,4 @@ write.csv(table, file = output_file_path, row.names = FALSE)
 
 # Print message
 print(paste("Processed and saved:", file_name))
-```
+
