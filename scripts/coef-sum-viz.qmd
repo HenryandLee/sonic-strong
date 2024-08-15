@@ -56,7 +56,9 @@ ggplot(significance_summary, aes(x = Covariate, y = Mean_Estimate_If_Significant
   ) +
   theme_minimal()
 ```
-##
+
+## violin plot
+
 ```{r}
 ggplot(significance_summary, aes(x = Covariate, y = Mean_Estimate_If_Significant)) +
   geom_violin(trim = FALSE) +
@@ -69,7 +71,8 @@ ggplot(significance_summary, aes(x = Covariate, y = Mean_Estimate_If_Significant
   theme_minimal()
 ```
 
-## violin plot
+## violin-box plot
+
 ```{r}
 ggplot(significance_summary, aes(x = Covariate, y = Mean_Estimate_If_Significant)) +
   geom_violin(trim = FALSE, fill = "lightgray") +
