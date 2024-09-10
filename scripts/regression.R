@@ -1,0 +1,168 @@
+library(dplyr)
+library(tidyr)
+library(here)
+
+# Define the folder path containing the CSV files
+folder_path <- here("output")
+
+# Get a list of all CSV files in the folder
+csv_files <- list.files(path = folder_path, pattern = "*.csv", full.names = TRUE)
+
+# Read and combine all CSV files, ensuring Team_ID is always a character
+combined_data <- csv_files %>%
+  lapply(function(file) {
+    df <- read.csv(file)
+    df$Team_ID <- as.character(df$Team_ID)  # Ensure Team_ID is a character
+    return(df)
+  }) %>%
+  bind_rows(.id = "file_id") %>%
+  filter(!is.na(Team_ID))
+
+# Read the performance scores data
+performance_scores <- read.csv(here("raw-data", "all performance scores Feb 2023 - all performance scores Feb 2023.csv"))
+
+# Add a column for matching with team performance scores based on PID and round number
+library(dplyr)
+
+# Read the performance scores data
+performance_scores <- read.csv("~/Desktop/SONIC/Summer/sonic-strong/raw-data/all performance scores Feb 2023 - all performance scores Feb 2023.csv")
+
+# Initialize a new column in combined_data for the performance score
+# combined_data$performance_score <- NA_real_
+performance_scores <- performance_scores %>%
+  filter(!is.na(suppressWarnings(as.integer(PID)))) %>%
+  mutate(PID = as.integer(PID))
+
+combined_data <- combined_data %>%
+  filter(!is.na(Round_Number))
+
+# Iterate through each row in combined_data
+for (i in 1:nrow(combined_data)) {
+  # Get participants for the current row
+  participant1 <- combined_data$participant1[i]
+  participant2 <- combined_data$participant2[i]
+  participant3 <- combined_data$participant3[i]
+  round_number <- combined_data$Round_Number[i]
+  
+  for (j in 1:nrow(performance_scores)) {
+    pid <- as.numeric(performance_scores$PID[j])
+    #print(pid)
+    #print(round_number)
+    # Check for a match in participant1 or participant2 or participant3
+    if (participant1 == pid | participant2 == pid | participant3 == pid) {
+      # Assign the corresponding fluency score based on the round number
+      if (round_number == 1) {
+        combined_data$fluency_score[i] <- performance_scores$fluency_team_1[j]
+        combined_data$flex_score[i] <- performance_scores$flex_team_1[j]
+        combined_data$novel_score[i] <- performance_scores$novel_team_1[j]
+      } else if (round_number == 2) {
+        combined_data$fluency_score[i] <- performance_scores$fluency_team_2[j]
+        combined_data$flex_score[i] <- performance_scores$flex_team_2[j]
+        combined_data$novel_score[i] <- performance_scores$novel_team_2[j]
+      } else if (round_number == 3) {
+        combined_data$fluency_score[i] <- performance_scores$fluency_team_3[j]
+        combined_data$flex_score[i] <- performance_scores$flex_team_3[j]
+        combined_data$novel_score[i] <- performance_scores$novel_team_3[j]
+      }
+    }
+  }
+}
+
+# Check the updated combined_data
+print(head(combined_data))
+
+sum(is.na(combined_data$performance_score))
+
+filtered_data <- combined_data %>%
+  filter(!is.na(fluency_score))
+
+reshaped_data <- filtered_data %>%
+  pivot_wider(
+    names_from = Covariate,  # This will use Covariate values as new column names
+    values_from = Estimate,  # This will use Estimate values as the content of these new columns
+    id_cols = c(Team_ID, Round_Number, participant1, participant2, participant3, Vero_type, fluency_score, flex_score, novel_score)  # These columns remain the same
+  ) 
+
+reshaped_data <- reshaped_data %>%
+  mutate(
+    is_Round2 = (Round_Number == 2), 
+    is_Round3 = (Round_Number == 3)
+  )
+
+# Run a linear regression
+# Specify the columns to be used in the regression
+covariates <- c("PSAB-BY", "PSAB-BA", "PSAB-XB", "PSAB-XA", "RRecSnd", "RSndSnd", "is_Round2", "is_Round3")
+# covariates <- c("is_Round2", "is_Round3")
+
+# Construct the formula for the regression
+formula_fluency <- as.formula(paste("fluency_score ~", paste(sapply(covariates, function(x) paste0("`", x, "`")), collapse = " + ")))
+formula_flex <- as.formula(paste("flex_score ~", paste(sapply(covariates, function(x) paste0("`", x, "`")), collapse = " + ")))
+formula_novel <- as.formula(paste("novel_score ~", paste(sapply(covariates, function(x) paste0("`", x, "`")), collapse = " + ")))
+
+# Run the linear regression
+model_fluency <- lm(formula_fluency, data = reshaped_data)
+summary(model_fluency)
+
+model_flex <- lm(formula_flex, data = reshaped_data)
+summary(model_flex)
+
+model_novel <- lm(formula_novel, data = reshaped_data)
+summary(model_novel)
+
+# Step 1: Filter the data for the specified covariate
+t_test_data <- filtered_data %>%
+  filter(Covariate == "RRecSnd")
+
+# Step 2: Count TRUE values in "Significant_at_0.001" for each Team_ID
+team_significance_counts <- t_test_data %>%
+  group_by(Team_ID) %>%
+  summarize(
+    true_count = sum(Significant_at_0.001, na.rm = TRUE),
+    max_round_number = max(Round_Number, na.rm = TRUE),
+    fluency_score = first(fluency_score)  # Assuming fluency_score is consistent for the same Team_ID
+  )
+
+# Step 3: Identify teams with true_count == 0 and true_count == max_round_number
+no_significance_teams <- team_significance_counts %>%
+  filter(true_count == 0)
+
+max_significance_teams <- team_significance_counts %>%
+  filter(true_count == 3)
+
+some_significance_teams <- team_significance_counts %>%
+  filter(true_count != 0)
+
+# Step 4: Perform a two-sample t-test
+no_significance_scores <- no_significance_teams$fluency_score
+max_significance_scores <- max_significance_teams$fluency_score
+some_significance_scores <- some_significance_teams$fluency_score
+
+
+t_test_result <- t.test(max_significance_scores, some_significance_scores)
+
+# Print the t-test results
+print(t_test_result)
+
+
+
+# Split the data into two groups
+true_group <- t_test_data %>%
+  filter(Significant_at_0.001 == TRUE & Estimate < 0)
+
+false_group <- t_test_data %>%
+  filter(Significant_at_0.001 == FALSE)
+
+# Perform the two-sample t-test
+t_test_result_2 <- t.test(true_group$novel_score, false_group$novel_score)
+
+# Print the t-test results
+print(t_test_result_2)
+
+test_2 <- filtered_data %>%
+  filter(Covariate == "PSAB-XB") %>%
+  filter(Significant_at_0.001 == TRUE)
+
+test_3 <- filtered_data %>%
+  filter(Covariate == "PSAB-BY") %>%
+  filter(Significant_at_0.001 == TRUE)
+

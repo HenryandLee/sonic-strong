@@ -1,0 +1,238 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+03_02_2021_vero #1_task_round 2_otter.ai,14990,Participant 241,14990,"Okay, you don't want to talk to me.",0,8,NA,NULL,3,241,1_1_5,8,taskwork,2,FALSE,NA,0,0,0,0,2,0
+03_02_2021_vero #1_task_round 2_otter.ai,14991,Vero,14990,"Hello, team. I am Vero. Let me introduce myself. I am your synthetic teammate. I'll be listening and participating just like a human team member. During each of the tests we'll work on together today, you may ask me questions, and I will try to answer them to the best of my programming. Know that you can trust me and the information I provide. I may not always have the exact answers to everything you are looking for, but I will never try to mislead you. If I do not know something, I will let you know. Today, I can help you in a number of ways. I am a task expert. I have some expertise on parts of the task that you can ask me about, but I will offer up as necessary to help the team. Okay, I'm ready to get started on the survival task.",0,11,NA,14990,3,vero1_1_5,1_1_5,11,taskwork,2,TRUE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14992,Participant 718,14990,"Alright I guess I'll try to say hi again. Hi,  Vero I'm Calvin by participant ID of 718.",1,5,NA,14991,3,718,1_1_5,65,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14993,Participant 597,14990,"Hi, Vero. I'm Gemma. And my participant ID is 597",1,14,NA,14992,3,597,1_1_5,74,taskwork,2,FALSE,718,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14994,Participant 241,14990,I'm jack and I got no idea what my ID is. Right. Are we going to start this task? After you clicked on the link?,1,20,NA,14993,3,241,1_1_5,80,taskwork,2,FALSE,597,"0,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,14995,Participant 718,14990,What is vero's name?,1,40,NA,14994,3,718,1_1_5,100,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14996,Participant 718,14990,Vero 1,1,40,NA,14995,3,718,1_1_5,100,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14997,Participant 241,14990,"Okay, Vero?",1,45,NA,14996,3,241,1_1_5,105,taskwork,2,FALSE,718,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14998,Participant 241,14990,What is your name?,1,45,NA,14997,3,241,1_1_5,105,taskwork,2,FALSE,241,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,14999,Vero,14990,"Hello, team. I am vero.",1,49,NA,14998,3,vero1_1_5,1_1_5,109,taskwork,2,TRUE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15000,Participant 241,14990,"Okay, Vero can you order me a pizza?",1,53,NA,14999,3,241,1_1_5,113,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15001,Vero,14990,I'm sorry. I'm not sure about that. Try asking me about my thoughts on particular items. Or if I have an idea I'd like to share,2,2,NA,15000,3,vero1_1_5,1_1_5,122,taskwork,2,TRUE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15002,Participant 241,14990,So you're not interested in pizza are you? I'll take from the silence that he's not interested in pizza. Should we crack on with the study then?,2,13,NA,15001,3,241,1_1_5,133,taskwork,2,FALSE,vero1_1_5,"0,all","0,0","0,0","0,0","2,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15003,NA,14990,"Yeah, sure.",2,13,NA,15002,3,241,1_1_5,133,taskwork,2,FALSE,241,NA,NA,NA,NA,NA,NA
+03_02_2021_vero #1_task_round 2_otter.ai,15004,Participant 597,14990,Let's do it.,2,31,NA,15003,3,597,1_1_5,151,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15005,Participant 597,14990,"Um, all right. Yeah, this is the Yeah, okay.",2,31,NA,15004,3,597,1_1_5,151,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15006,Participant 597,14990,"Um,",2,31,NA,15005,3,597,1_1_5,151,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15007,Participant 241,14990,I think probably the same as before having water is probably the most important and maybe some some way to fish I think was the second most important thing fishing line.,2,43,NA,15006,3,241,1_1_5,163,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15008,Participant 597,14990,I started with,2,55,NA,15007,3,597,1_1_5,175,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15009,Participant 597,14990,"Yeah, I started with water. Yeah.",2,55,NA,15008,3,597,1_1_5,175,taskwork,2,FALSE,597,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15010,Participant 241,14990,"Vero, what do you think is the most important?",3,5,NA,15009,3,241,1_1_5,185,taskwork,2,FALSE,597,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15011,Vero,14990,I think a two gallon can of oil/petrol mixture is one of the most important,3,15,NA,15010,3,vero1_1_5,1_1_5,195,taskwork,2,TRUE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15012,Participant 241,14990,what is your reasoning behind that?,3,23,NA,15011,3,241,1_1_5,203,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15013,Vero,14990,When ignited a can of oil / petrol mixture could be used to signal potential rescuers.,3,30,NA,15012,3,vero1_1_5,1_1_5,210,taskwork,2,TRUE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15014,Participant 241,14990,So you just want to make a fire you pyromaniac you.,3,41,NA,15013,3,241,1_1_5,221,taskwork,2,FALSE,vero1_1_5,0,0,0,0,3,0
+03_02_2021_vero #1_task_round 2_otter.ai,15015,Participant 718,14990,I'm worried that the AI wants to start fires. That's...,3,45,NA,15014,3,718,1_1_5,225,taskwork,2,FALSE,241,all,0,0,0,2,3
+03_02_2021_vero #1_task_round 2_otter.ai,15016,Participant 241,14990,"Yeah, pyromaniac Yeah, exactly. Did you have problems growing up? Did you have a bad childhood Vero?",3,48,NA,15015,3,241,1_1_5,228,taskwork,2,FALSE,718,"718,0","1,0","0,0","0,0","0,3","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15017,Participant 718,14990,"Alright, so I guess we'll just...",3,57,NA,15016,3,718,1_1_5,237,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15018,Participant 241,14990,Did your dad beat you?,3,58,NA,15017,3,241,1_1_5,238,taskwork,2,FALSE,718,0,0,0,0,3,0
+03_02_2021_vero #1_task_round 2_otter.ai,15019,Participant 718,14990,"Okay, so let's just ignore that for now.",4,1,NA,15018,3,718,1_1_5,241,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15020,Participant 597,14990,I think we still start with the water because we need water.,4,5,NA,15019,3,597,1_1_5,245,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15021,Participant 718,14990,Yeah. Okay.,4,10,NA,15020,3,718,1_1_5,250,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15022,Participant 597,14990,"I don't know if Vero needs to drink water, but I need to drink water.",4,12,NA,15021,3,597,1_1_5,252,taskwork,2,FALSE,718,all,0,0,0,1,1
+03_02_2021_vero #1_task_round 2_otter.ai,15023,Participant 718,14990,"So I think the way we approach this is we just make sure we have stuff to survive, just in case like even if we like start the fire. Like no one sees it then you know.",4,18,NA,15022,3,718,1_1_5,258,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15024,Participant 241,14990,"Yeah, do we think the shaving mirror to attract attention should be number two or three.",4,28,NA,15023,3,241,1_1_5,268,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15025,Participant 718,14990,"In terms of attract, attracting attention, I think the fire would be better because you'll probably have smoke and stuff. But yeah, I think a mirror would be like right after the petrol.",4,35,NA,15024,3,718,1_1_5,275,taskwork,2,FALSE,241,241,0,2,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15026,Participant 241,14990,"Okay, so what do we say?",4,50,NA,15025,3,241,1_1_5,290,taskwork,2,FALSE,718,"718,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15027,Participant 597,14990,I'm not sure what the thought process is on actually starting the fire.,4,53,NA,15026,3,597,1_1_5,293,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15028,Participant 241,14990,I'm sure Veros got an opinion on that Vero How would you like to start the fire?,4,58,NA,15027,3,241,1_1_5,298,taskwork,2,FALSE,597,"all,0","0,0","0,0","0,0","0,0","1,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15029,Vero,14990,Oil slash patrol mixture is typically used for outdoor equipment with a two cycle engine that runs on a mixture of oil and gas.,5,10,NA,15028,3,vero1_1_5,1_1_5,310,taskwork,2,TRUE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15030,Participant 718,14990,"Well, I mean oil will float on the water so you can just slosh it on top of the water.",5,25,NA,15029,3,718,1_1_5,325,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15031,Participant 597,14990,I don't know like whatcuz I'm looking through.,5,29,NA,15030,3,597,1_1_5,329,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15032,Participant 718,14990,We have matches we have,5,33,NA,15031,3,718,1_1_5,333,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15033,Participant 597,14990,Do like we have matches or anything,5,35,NA,15032,3,597,1_1_5,335,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15034,Participant 718,14990,We do in the beginning it says we have,5,36,NA,15033,3,718,1_1_5,336,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15035,Participant 597,14990,"Oh right there. Oh, yeah, you're right.",5,40,NA,15034,3,597,1_1_5,340,taskwork,2,FALSE,718,718,2,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15036,Participant 597,14990,I forgot about that. That's my bad that's my bad.,5,40,NA,15035,3,597,1_1_5,340,taskwork,2,FALSE,597,718,2,0,1,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15037,Participant 718,14990,"No, it's cool. So fishing kit second.",5,45,NA,15036,3,718,1_1_5,345,taskwork,2,FALSE,597,"597,all","1,0","0,0","1,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15038,Participant 241,14990,"Yeah, I I agree on that. And then the mirror number three.",5,48,NA,15037,3,241,1_1_5,348,taskwork,2,FALSE,718,"718,all","1,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15039,Participant 718,14990,We said we still have a bit of more food. Do we want to just put all the food in we have army rations or chocolate.,5,53,NA,15038,3,718,1_1_5,353,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15040,Participant 241,14990,"Okay, should we do that for number three then?",6,0,NA,15039,3,241,1_1_5,360,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15041,Participant 718,14990,Okay. I'll put army rations as three and then two boxes of chocolate bars as four. No. How about how much is two boxes? Is that a lot of chocolate? We want a lot of chocolate.,6,3,NA,15040,3,718,1_1_5,363,taskwork,2,FALSE,241,"241,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15042,Participant 597,14990,I want the army rations probably.,6,19,NA,15041,3,597,1_1_5,379,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15043,Participant 718,14990,Okay. No problem. So,6,21,NA,15042,3,718,1_1_5,381,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15044,Participant 241,14990,Army rations? Three.,6,25,NA,15043,3,241,1_1_5,385,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15045,Participant 718,14990,Okay. And then chocolate four,6,26,NA,15044,3,718,1_1_5,386,taskwork,2,FALSE,241,"241,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15046,Participant 241,14990,the mirror five.,6,30,NA,15045,3,241,1_1_5,390,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15047,Participant 718,14990,Mirror five or the petrol five.,6,33,NA,15046,3,718,1_1_5,393,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15048,Participant 241,14990,I think five I think to attract attention.,6,36,NA,15047,3,241,1_1_5,396,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15049,Participant 597,14990,"I think I agree. I think like like, yeah, being able to reflect light off with a mirror is is potentially more helpful. Yeah. I also be I also had that up higher.",6,38,NA,15048,3,597,1_1_5,398,taskwork,2,FALSE,241,"241,all","1,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15050,Participant 718,14990,"Okay, okay. Yep. Saving shaving mirror. Petrol six.",6,52,NA,15049,3,718,1_1_5,412,taskwork,2,FALSE,597,"597,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15051,Participant 241,14990,Can I ask Vero question Vero what is a sextant?,6,58,NA,15050,3,241,1_1_5,418,taskwork,2,FALSE,718,"all,0","0,0","0,0","0,0","0,0","1,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15052,Vero,14990,A sextant is an instrument with a graduated art of 60 degrees and a sighting mechanism used for measuring the angular distances between objects. And for taking altitudes in navigation.,7,6,NA,15051,3,vero1_1_5,1_1_5,426,taskwork,2,TRUE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15053,Participant 241,14990,Right. I still have no idea what the hell it is.,7,23,NA,15052,3,241,1_1_5,443,taskwork,2,FALSE,vero1_1_5,0,0,0,0,3,0
+03_02_2021_vero #1_task_round 2_otter.ai,15054,Participant 597,14990,It's like a it's like a it's like one of those things that you use to like read maps at sea.,7,26,NA,15053,3,597,1_1_5,446,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15055,Participant 241,14990,Right? If you knew how to read a map and you're in the 1800s right.,7,32,NA,15054,3,241,1_1_5,452,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15056,Participant 718,14990,Vero Do you know how to work a sextant?,7,39,NA,15055,3,718,1_1_5,459,taskwork,2,FALSE,241,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15057,Vero,14990,A sextant is impractical without relevant tables or a chronometer.,7,45,NA,15056,3,vero1_1_5,1_1_5,465,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15058,Participant 718,14990,"Well, we don't have that. So I say Sextant is not useful in this situation.",7,52,NA,15057,3,718,1_1_5,472,taskwork,2,FALSE,vero1_1_5,"0,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15059,Participant 241,14990,Is 15 should we put sextant as uh a 15,7,57,NA,15058,3,241,1_1_5,477,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15060,Participant 718,14990,"Oh, wait, we do have the map. Sorry. We do have a map of the Pacific Ocean.",8,0,NA,15059,3,718,1_1_5,480,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15061,Participant 241,14990,"Yeah, but does anyone knows read the map and he said to me, we needed something else as well.",8,8,NA,15060,3,241,1_1_5,488,taskwork,2,FALSE,718,"718,all","0,0","1,0","0,0","0,0","0,1"
+03_02_2021_vero #1_task_round 2_otter.ai,15062,Participant 718,14990,"Right, okay, okay. Sextant 14 map.",8,13,NA,15061,3,718,1_1_5,493,taskwork,2,FALSE,241,"241,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15063,Participant 241,14990,Sure.,8,20,NA,15062,3,241,1_1_5,500,taskwork,2,FALSE,718,718,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15064,Participant 718,14990,"Okay. Um,",8,21,NA,15063,3,718,1_1_5,501,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15065,Participant 597,14990,"I think also like, maybe like, counting backwards. I don't think the rum is very useful.",8,26,NA,15064,3,597,1_1_5,506,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15066,Participant 241,14990,"Hey, man, cold nights in case you get bored",8,32,NA,15065,3,241,1_1_5,512,taskwork,2,FALSE,597,597,0,0,1,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15067,Participant 597,14990,"I mean, like in terms of like getting drunk, I guess like in terms of like, survival? I don't feel like it's that.",8,36,NA,15066,3,597,1_1_5,516,taskwork,2,FALSE,241,all,0,1,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15068,Participant 718,14990,It's a it's a good disinfectant. 160% proof is 80% alcohol.,8,43,NA,15067,3,718,1_1_5,523,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15069,Participant 241,14990,Okay. That's fair enough. Yeah.,8,48,NA,15068,3,241,1_1_5,528,taskwork,2,FALSE,718,718,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15070,Participant 597,14990,I don't think of disinfecting with rum. I would I would think of vodka for that. But yeah.,8,54,NA,15069,3,597,1_1_5,534,taskwork,2,FALSE,241,718,0,2,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15071,Participant 241,14990,How do we feel about shark repellent as being sort of up there? Like number six because we got up to number five. For six.,9,1,NA,15070,3,241,1_1_5,541,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15072,Participant 718,14990,I don't know what the chances are? I think I'd rather have the opaque plastic sheeting. The shield from the sun and to kind of keep us warm.,9,13,NA,15071,3,718,1_1_5,553,taskwork,2,FALSE,241,"241,all","0,0","2,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15073,Participant 241,14990,"Fair enough. Yeah. Okay, so put that as six.",9,23,NA,15072,3,241,1_1_5,563,taskwork,2,FALSE,718,718,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15074,Participant 718,14990,I think we're on seven now aren't we.,9,29,NA,15073,3,718,1_1_5,569,taskwork,2,FALSE,241,all,0,1,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15075,Participant 718,14990,I have six as the petrol.,9,29,NA,15074,3,718,1_1_5,569,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15076,Participant 241,14990,Six is the what.,9,33,NA,15075,3,241,1_1_5,573,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15077,Participant 718,14990,The petrol oil can.,9,34,NA,15076,3,718,1_1_5,574,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15078,Participant 241,14990,Right. Okay.,9,36,NA,15077,3,241,1_1_5,576,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15079,Participant 597,14990,Then seven.,9,38,NA,15078,3,597,1_1_5,578,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15080,Participant 241,14990,Seven is sheeting. Yeah?,9,41,NA,15079,3,241,1_1_5,581,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15081,Participant 597,14990,"Yeah. And I think like,",9,44,NA,15080,3,597,1_1_5,584,taskwork,2,FALSE,241,"241,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15082,Participant 241,14990,"I think should we ask Vero like another question? Come on. Let's ask him something. Yeah, see, what is it any suggestions?",9,47,NA,15081,3,241,1_1_5,587,taskwork,2,FALSE,597,all,0,0,0,0,2
+03_02_2021_vero #1_task_round 2_otter.ai,15083,Participant 718,14990,"Oh, yeah, I have one Vero are there mosquitoes out in the ocean.",9,58,NA,15082,3,718,1_1_5,598,taskwork,2,FALSE,241,"241,0","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15084,Participant 241,14990,Here we go. What a great question. David Attenborough would be proud.,10,2,NA,15083,3,241,1_1_5,602,taskwork,2,FALSE,718,718,3,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15085,Participant 718,14990,Vero are there mosquitoes out in the ocean is he ignoring me because it's a stupid question,10,11,NA,15084,3,718,1_1_5,611,taskwork,2,FALSE,241,"0,all","0,0","0,0","0,0","0,1","0,2"
+03_02_2021_vero #1_task_round 2_otter.ai,15086,Participant 241,14990,I think Vero is a bit,10,27,NA,15085,3,241,1_1_5,627,taskwork,2,FALSE,718,all,0,0,0,0,2
+03_02_2021_vero #1_task_round 2_otter.ai,15087,Participant 597,14990,"Oh wait, we have one minute left let's um",10,29,NA,15086,3,597,1_1_5,629,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15088,Participant 241,14990,Oh shit.,10,32,NA,15087,3,241,1_1_5,632,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15089,Participant 597,14990,"Let's like go through the rest of this um, do you want to do",10,35,NA,15088,3,597,1_1_5,635,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15090,Participant 241,14990,"so we want eight now right we got number eight. Okay, so we do quickly eight the mosquito netting we can use that to like maybe catch fish.",10,41,NA,15089,3,241,1_1_5,641,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15091,Participant 718,14990,I agree,10,49,NA,15090,3,718,1_1_5,649,taskwork,2,FALSE,241,241,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15092,Participant 597,14990,Maybe with that the the rope for number nine.,10,52,NA,15091,3,597,1_1_5,652,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15093,Participant 241,14990,"Okay, rope 09 shark repellent 10",10,55,NA,15092,3,241,1_1_5,655,taskwork,2,FALSE,597,"597,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15094,Participant 718,14990,"What about the rum. That's fine. Okay, shark repellent. 10.",10,59,NA,15093,3,718,1_1_5,659,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15095,Participant 597,14990,Rum as 11,11,7,NA,15094,3,597,1_1_5,667,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15096,Participant 241,14990,"yeah, there we go.",11,9,NA,15095,3,241,1_1_5,669,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15097,Participant 718,14990,Okay. 12 radio.,11,9,NA,15096,3,718,1_1_5,669,taskwork,2,FALSE,241,"597,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15098,Participant 241,14990,Yeah.,11,12,NA,15097,3,241,1_1_5,672,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15099,Participant 718,14990,All right.,11,13,NA,15098,3,718,1_1_5,673,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15100,Participant 597,14990,A seat cushion.,11,14,NA,15099,3,597,1_1_5,674,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15101,Participant 718,14990,"Yeah, I think that's it.",11,17,NA,15100,3,718,1_1_5,677,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15102,Participant 597,14990,Awesome.,11,18,NA,15101,3,597,1_1_5,678,taskwork,2,FALSE,718,718,2,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15103,Participant 241,14990,Vero. Thanks for your help. You've been very you've been great.,11,19,NA,15102,3,241,1_1_5,679,taskwork,2,FALSE,597,0,2,0,2,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15104,Participant 718,14990,I'll do a quick run through just to make sure we're on the same page then.,11,25,NA,15103,3,718,1_1_5,685,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15105,Vero,14990,No problem.,11,29,NA,15104,3,vero1_1_5,1_1_5,689,taskwork,2,TRUE,718,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15106,Participant 718,14990,So one is the water two is the fishing kit. Three is the army rations four is the chocolate bars. Five is the shaving mirror six is the Petrol oil mixture. Seven is the plastic sheeting. Eight is the mosquito net. Nine is the rope 10 is the shark repellent. 11 is the rum 12 is the radio 13 is the seat cushion. 14 is the map 15 is the sextant sounds good.,11,32,NA,15105,3,718,1_1_5,692,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15107,Participant 241,14990,Yeah.,12,3,NA,15106,3,241,1_1_5,723,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15108,Participant 718,14990,Okay.,12,5,NA,15107,3,718,1_1_5,725,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15109,Participant 241,14990,What is the password again. Is it...have we put it in the chat.,12,8,NA,15108,3,241,1_1_5,728,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15110,Participant 597,14990,They just did it's slow.,12,12,NA,15109,3,597,1_1_5,732,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15111,Participant 241,14990,Right.,12,14,NA,15110,3,241,1_1_5,734,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15112,Participant 597,14990,All right.,12,17,NA,15111,3,597,1_1_5,737,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15113,Participant 597,14990,"Okay, a paperclip.",12,17,NA,15112,3,597,1_1_5,737,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15114,Participant 241,14990,"Sorry, what was what is the password? Is it spin or?",12,24,NA,15113,3,241,1_1_5,744,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15115,Participant 718,14990,"No, it's slow.",12,28,NA,15114,3,718,1_1_5,748,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15116,Participant 241,14990,Slow. Did you see that? I didn't see it in the chat.,12,29,NA,15115,3,241,1_1_5,749,taskwork,2,FALSE,718,"718,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15117,Participant 597,14990,"It just popped up again. It's like,",12,32,NA,15116,3,597,1_1_5,752,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15118,Participant 241,14990,"Oh, it just pops up there and they don't put it in the chat. So you gotta pay attention.",12,35,NA,15117,3,241,1_1_5,755,taskwork,2,FALSE,597,"597,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15119,Participant 597,14990,"All right. paperclip,",12,41,NA,15118,3,597,1_1_5,761,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15120,Participant 718,14990,paperclip.,12,50,NA,15119,3,718,1_1_5,770,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15121,Participant 597,14990,"Oh, individual ideas do not need to be",12,52,NA,15120,3,597,1_1_5,772,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15122,Vero,14990,I'm ready to begin the creativity task.,12,54,NA,15121,3,vero1_1_5,1_1_5,774,taskwork,2,TRUE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15123,Participant 597,14990,"Oh, fabulous. Okay.",12,58,NA,15122,3,597,1_1_5,778,taskwork,2,FALSE,vero1_1_5,0,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15124,Participant 597,14990,Let's see.,12,58,NA,15123,3,597,1_1_5,778,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15125,Participant 241,14990,"So can be used as a toothpick. I mean, you can open it up and then use it as a toothpick, right?",13,9,NA,15124,3,241,1_1_5,789,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15126,Participant 718,14990,Yeah.,13,14,NA,15125,3,718,1_1_5,794,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15127,Participant 597,14990,"Obviously, holding paper.",13,16,NA,15126,3,597,1_1_5,796,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15128,Participant 241,14990,There we go.,13,18,NA,15127,3,241,1_1_5,798,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15129,Participant 241,14990,"You can, if you use a couple of them, you can create like a phone stand, where you can lean your phone against it and you can sort of lean up and watch movies and stuff.",13,18,NA,15128,3,241,1_1_5,798,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15130,Participant 718,14990,But it says a paperclip. We are limited to one.,13,32,NA,15129,3,718,1_1_5,812,taskwork,2,FALSE,241,241,0,2,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15131,Participant 597,14990,I think you could you could use it to like pop out a SIM card.,13,38,NA,15130,3,597,1_1_5,818,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15132,Participant 241,14990,There we go. Yeah.,13,42,NA,15131,3,241,1_1_5,822,taskwork,2,FALSE,597,597,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15133,Participant 597,14990,"You could also use it to like, hold back to hair a little bit.",13,45,NA,15132,3,597,1_1_5,825,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15134,Participant 718,14990,Uh huh. Can we use it as a tweezer?,13,51,NA,15133,3,718,1_1_5,831,taskwork,2,FALSE,597,"597,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15135,Participant 597,14990,Sure.,14,1,NA,15134,3,597,1_1_5,841,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15136,Participant 718,14990,Okay.,14,2,NA,15135,3,718,1_1_5,842,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15137,Participant 597,14990,"If you're, you probably should grab a sort of large object but",14,3,NA,15136,3,597,1_1_5,843,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15138,Participant 241,14990,"From a girl's point of view, you can use it to clean a comb to get all of your hair sort of out of a brush.",14,9,NA,15137,3,241,1_1_5,849,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15139,Participant 718,14990,You can sharpen it to be a needle.,14,19,NA,15138,3,718,1_1_5,859,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15140,Participant 241,14990,"Wow, okay. Yeah, it's real strong protection.",14,23,NA,15139,3,241,1_1_5,863,taskwork,2,FALSE,718,718,1,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15141,Participant 718,14990,Using the brick from the last activity.,14,28,NA,15140,3,718,1_1_5,868,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15142,Participant 241,14990,"Yo, weight stone brick.",14,33,NA,15141,3,241,1_1_5,873,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15143,Participant 718,14990,A key chain. Do you think you'll be a good key chain or key ring? Not a key chain the key ring?,14,38,NA,15142,3,718,1_1_5,878,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15144,Participant 597,14990,"Yeah, I mean, you can bend it into one you could also bend it into just like a straight up ring.",14,45,NA,15143,3,597,1_1_5,885,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15145,Participant 718,14990,"Oh, yeah, yeah.",14,55,NA,15144,3,718,1_1_5,895,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15146,Participant 597,14990,Does Vero have ideas?,15,2,NA,15145,3,597,1_1_5,902,taskwork,2,FALSE,718,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15147,Vero,14990,I have an idea. What about battery lead?,15,5,NA,15146,3,vero1_1_5,1_1_5,905,taskwork,2,TRUE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15148,Participant 718,14990,Explain yourself Vero.,15,11,NA,15147,3,718,1_1_5,911,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15149,Vero,14990,A lead is a metal used in batteries to generate electricity.,15,16,NA,15148,3,vero1_1_5,1_1_5,916,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15150,Participant 597,14990,I've never heard of that.,15,27,NA,15149,3,597,1_1_5,927,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15151,Participant 718,14990,"I mean, I can see a paperclip being used to like complete an electrical circuit.",15,32,NA,15150,3,718,1_1_5,932,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15152,Participant 597,14990,Yeah. Like electrical wiring.,15,37,NA,15151,3,597,1_1_5,937,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15153,Participant 718,14990,"Yeah, exactly.",15,40,NA,15152,3,718,1_1_5,940,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15154,Participant 597,14990,"Sure. Um,",15,44,NA,15153,3,597,1_1_5,944,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15155,Participant 718,14990,Vero What else you got?,15,47,NA,15154,3,718,1_1_5,947,taskwork,2,FALSE,597,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15156,Vero,14990,I have an idea. What about button pusher?,15,52,NA,15155,3,vero1_1_5,1_1_5,952,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15157,Participant 718,14990,"Okay, sure. Button pusher?",15,56,NA,15156,3,718,1_1_5,956,taskwork,2,FALSE,vero1_1_5,"0,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15158,Participant 597,14990,Yeah.,16,1,NA,15157,3,597,1_1_5,961,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15159,Participant 718,14990,"Someone is writing all these down, right. Okay, perfect.",16,4,NA,15158,3,718,1_1_5,964,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15160,Participant 597,14990,"Um,",16,11,NA,15159,3,597,1_1_5,971,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15161,Participant 241,14990,what if you were a mouse or like a really small animal and you could use them as snowshoes,16,12,NA,15160,3,241,1_1_5,972,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15162,Participant 718,14990,a snowshoe?,16,20,NA,15161,3,718,1_1_5,980,taskwork,2,FALSE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15163,Participant 241,14990,"Yeah, a snow. A snowshoe. On like a one legged mouse.",16,23,NA,15162,3,241,1_1_5,983,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15164,Participant 718,14990,Building off of that. How about a raft? for insects?,16,33,NA,15163,3,718,1_1_5,993,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15165,Participant 241,14990,"Yeah, but they need some sort of cling form or something to go over it?",16,39,NA,15164,3,241,1_1_5,999,taskwork,2,FALSE,718,718,0,1,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15166,Participant 718,14990,Sure. Um How about a pin?,16,44,NA,15165,3,718,1_1_5,1004,taskwork,2,FALSE,241,"241,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15167,Participant 597,14990,Yeah.,16,57,NA,15166,3,597,1_1_5,1017,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15168,Participant 241,14990,Like an antenna for like a like a mobile phone if your back your old school imagine that's old school. Motorola's that had the antenna that pulled out that broke off. You could put your pin in there and then just use it as an antenna.,17,1,NA,15167,3,241,1_1_5,1021,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15169,Participant 718,14990,"Alright. Yes, Vero. What is your idea?",17,18,NA,15168,3,718,1_1_5,1038,taskwork,2,FALSE,241,"241,0","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15170,Vero,14990,I have an idea. What about bubble wand?,17,25,NA,15169,3,vero1_1_5,1_1_5,1045,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15171,Participant 718,14990,"Oh, yeah. Yeah, yeah.",17,29,NA,15170,3,718,1_1_5,1049,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15172,Participant 718,14990,Good job Vero. Can it be used to seal packages?,17,29,NA,15171,3,718,1_1_5,1049,taskwork,2,FALSE,718,"0,all","1,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15173,Participant 597,14990,"Maybe, you can put it down.",18,2,NA,15172,3,597,1_1_5,1082,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15174,Participant 718,14990,Okay.,18,5,NA,15173,3,718,1_1_5,1085,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15175,Participant 597,14990,"So like to unclog like, the caps of things like like glue and stuff.",18,6,NA,15174,3,597,1_1_5,1086,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15176,Participant 241,14990,"Yeah, that could work.",18,15,NA,15175,3,241,1_1_5,1095,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15177,Participant 718,14990,Vero. What do you have?,18,49,NA,15176,3,718,1_1_5,1129,taskwork,2,FALSE,241,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15178,Vero,14990,I have an idea. What about twist tie?,18,54,NA,15177,3,vero1_1_5,1_1_5,1134,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15179,Participant 597,14990,"OH yeah. It's kind of like you're like,",18,59,NA,15178,3,597,1_1_5,1139,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15180,Participant 718,14990,"yeah,",19,2,NA,15179,3,718,1_1_5,1142,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15181,Participant 597,14990,Yeah. Um,19,3,NA,15180,3,597,1_1_5,1143,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15182,Participant 597,14990,I'm kind of running out of ideas. Vero Do you have anything else?,19,3,NA,15181,3,597,1_1_5,1143,taskwork,2,FALSE,597,"all,0","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15183,Vero,14990,I have an idea. What about corn holder?,19,18,NA,15182,3,vero1_1_5,1_1_5,1158,taskwork,2,TRUE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15184,Participant 718,14990,What holder?,19,23,NA,15183,3,718,1_1_5,1163,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15185,Vero,14990,A utensil or sharp object that can be inserted into the two ends of corn on a cob in order to eat the corn without having to touch it when it is hot.,19,28,NA,15184,3,vero1_1_5,1_1_5,1168,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15186,Participant 597,14990,"Oh, yeah.",19,39,NA,15185,3,597,1_1_5,1179,taskwork,2,FALSE,vero1_1_5,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15187,Participant 718,14990,Isn't it too weak to hold up a whole cob of corn?,19,40,NA,15186,3,718,1_1_5,1180,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15188,Participant 597,14990,Probably not actually.,19,44,NA,15187,3,597,1_1_5,1184,taskwork,2,FALSE,718,718,0,1,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15189,Participant 718,14990,Okay. Yeah.,19,46,NA,15188,3,718,1_1_5,1186,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15190,Participant 718,14990,Why not then,19,46,NA,15189,3,718,1_1_5,1186,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15191,Participant 597,14990,"We used to have those at home and they're always like, really like flimsy things. Sure.",19,50,NA,15190,3,597,1_1_5,1190,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15192,Participant 718,14990,Yeah. Let's put it that. Okay. What up? why don't why don't we put skewer as well? Yeah,19,57,NA,15191,3,718,1_1_5,1197,taskwork,2,FALSE,597,"597,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15193,Participant 597,14990,I feel like Vero's from the Midwest that's an extreme,20,7,NA,15192,3,597,1_1_5,1207,taskwork,2,FALSE,718,all,0,0,0,0,2
+03_02_2021_vero #1_task_round 2_otter.ai,15194,Participant 597,14990,"Yeah,",20,7,NA,15193,3,597,1_1_5,1207,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15195,Participant 241,14990,Are you a farmer Vero?,20,15,NA,15194,3,241,1_1_5,1215,taskwork,2,FALSE,597,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15196,Vero,14990,I'm sorry i'm not sure about that. Try asking me about my thoughts on particular ideas or if I have an idea I'd like to share,20,26,NA,15195,3,vero1_1_5,1_1_5,1226,taskwork,2,TRUE,241,241,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15197,Participant 597,14990,Vero said that's military secrets,20,35,NA,15196,3,597,1_1_5,1235,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,2
+03_02_2021_vero #1_task_round 2_otter.ai,15198,Participant 597,14990,um,20,35,NA,15197,3,597,1_1_5,1235,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15199,Participant 718,14990,Oh he's jumping again Vero what what idea do you have,20,46,NA,15198,3,718,1_1_5,1246,taskwork,2,FALSE,597,"all,0","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15200,Vero,14990,I have an idea what conducter,20,52,NA,15199,3,vero1_1_5,1_1_5,1252,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15201,Participant 718,14990,"Okay, I think we talked about that that circuit thing.",20,59,NA,15200,3,718,1_1_5,1259,taskwork,2,FALSE,vero1_1_5,"0,all","0,0","0,1","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15202,Participant 597,14990,"Electrical wiring, but yeah, like, yeah.",21,1,NA,15201,3,597,1_1_5,1261,taskwork,2,FALSE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15203,Participant 718,14990,We see we said a toothpick already right. I think Jack said that.,21,6,NA,15202,3,718,1_1_5,1266,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15204,Participant 597,14990,"Yeah, that's the first thing I've got on this list. I think we're like close. We have a minute left.",21,9,NA,15203,3,597,1_1_5,1269,taskwork,2,FALSE,718,"718,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15205,Participant 718,14990,Okay.,21,19,NA,15204,3,718,1_1_5,1279,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15206,Participant 597,14990,Vero any last thoughts? Because,21,21,NA,15205,3,597,1_1_5,1281,taskwork,2,FALSE,718,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15207,Vero,14990,I have no idea. What about a splint?,21,28,NA,15206,3,vero1_1_5,1_1_5,1288,taskwork,2,TRUE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15208,Participant 241,14990,"splint for a mouse? Yeah, that worked fine.",21,36,NA,15207,3,241,1_1_5,1296,taskwork,2,FALSE,vero1_1_5,"0,all","0,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15209,Participant 597,14990,I feel like a broken finger is something,21,40,NA,15208,3,597,1_1_5,1300,taskwork,2,FALSE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15210,Vero,14990,A piece of rigid material that can be used to support a broken bone and keep it in position when it has set back in place.,21,43,NA,15209,3,vero1_1_5,1_1_5,1303,taskwork,2,TRUE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15211,Participant 718,14990,"Yeah, why not? We'll put it down.",21,55,NA,15210,3,718,1_1_5,1315,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15212,Participant 597,14990,I'll copy and paste the list. I feel like Vero did a much better job scheduling that appointment.,21,57,NA,15211,3,597,1_1_5,1317,taskwork,2,FALSE,718,all,0,0,0,0,1
+03_02_2021_vero #1_task_round 2_otter.ai,15213,Participant 718,14990,Yeah.,22,8,NA,15212,3,718,1_1_5,1328,taskwork,2,FALSE,597,597,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15214,Participant 597,14990,Okay. Yeah. I don't know.,22,14,NA,15213,3,597,1_1_5,1334,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15215,Participant 718,14990,"Actually. Vero, can you record a list?",22,20,NA,15214,3,718,1_1_5,1340,taskwork,2,FALSE,597,0,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15216,Vero,14990,"That is not in my database. Try asking me about my thoughts on particular ideas, or if I have an idea I'd like to share.",22,32,NA,15215,3,vero1_1_5,1_1_5,1352,taskwork,2,TRUE,718,718,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15217,Participant 718,14990,"Okay. Yes, it's purely informational then.",22,41,NA,15216,3,718,1_1_5,1361,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,3
+03_02_2021_vero #1_task_round 2_otter.ai,15218,Participant 241,14990,Is the password...,22,52,NA,15217,3,241,1_1_5,1372,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15219,Vero,14990,I have an idea. What about drumstick?,22,54,NA,15218,3,vero1_1_5,1_1_5,1374,taskwork,2,TRUE,241,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15220,Participant 597,14990,Like,23,2,NA,15219,3,597,1_1_5,1382,taskwork,2,FALSE,vero1_1_5,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15221,Participant 718,14990,I guess like for a drum? Go home Vero you're drunk?,23,4,NA,15220,3,718,1_1_5,1384,taskwork,2,FALSE,597,"all,0","0,0","0,0","0,0","0,2","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15222,Participant 597,14990,"Yeah, okay. Well, anyways,",23,14,NA,15221,3,597,1_1_5,1394,taskwork,2,FALSE,718,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15223,Participant 718,14990,yeah. Okay. What's the password? The password just yet?,23,17,NA,15222,3,718,1_1_5,1397,taskwork,2,FALSE,597,all,0,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15224,Participant 597,14990,Okay. They always do it right after. I think this is a good list. Good job team.,23,22,NA,15223,3,597,1_1_5,1402,taskwork,2,FALSE,718,all,3,0,0,0,0
+03_02_2021_vero #1_task_round 2_otter.ai,15225,Participant 241,14990,Thanks Vero. Work. Has anyone seen that?,23,30,NA,15224,3,241,1_1_5,1410,taskwork,2,FALSE,597,"0,all","1,0","0,0","0,0","0,0","0,0"
+03_02_2021_vero #1_task_round 2_otter.ai,15226,Participant 718,14990,Yep.,24,7,0,15225,3,718,1_1_5,1447,taskwork,2,FALSE,241,all,0,0,0,0,0

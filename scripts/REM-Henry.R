@@ -1,4 +1,4 @@
-## ----setup, include = FALSE-------------------------------------------------------------------------------
+## ----setup, include = FALSE-----------------------------------------------------------------------------------
 library(here)
 library(dplyr) 
 library(tidyr)
@@ -6,7 +6,7 @@ library(purrr)
 library(relevent)
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 # Capture the arguments passed to the script and validate number of arguments
 args <- commandArgs(trailingOnly = TRUE)
 
@@ -19,17 +19,17 @@ file_path <- here("evan-format-input", input_name)
 testdata <- read.csv(file_path)
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 testdata <- testdata %>%
   filter(!is.na(user) & !is.na(to))
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 participants <- unique(testdata$user)
 participants <- participants[!participants %in% c("Vero", "all")]
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 participants_with_vero <- if("Vero" %in% participants) {
   c(participants)
 } else {
@@ -37,16 +37,16 @@ participants_with_vero <- if("Vero" %in% participants) {
 }
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 testdata <- testdata %>%
   separate_longer_delim(c(to, task_pos, task_conf, rel_pos, rel_conf, X3rdVero), delim = ",")
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 testdata$user <- gsub("Participant ", "", testdata$user)
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 set.seed(123)
 testdata <- testdata %>%
   group_by(time) %>%
@@ -55,7 +55,7 @@ testdata <- testdata %>%
   arrange(time)
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 testdata <- testdata %>%
   mutate(
     to = if_else(to == "all", "1", to),  # Replace "all" with "1"
@@ -74,7 +74,7 @@ map_ids_to_integers <- function(df, from_col, to_col) {
 
 # Create the dataframe conditionally based on the number of IDs
   if (length(filtered_ids) == 2) {
-    id_rowvec <- data.frame(participant1 = filtered_ids[1], participant2 = filtered_ids[2])} 
+    id_rowvec <- data.frame(participant1 = filtered_ids[1], participant2 = filtered_ids[2], participant3 = -1)} 
   else if (length(filtered_ids) == 3) {
     id_rowvec <- data.frame(participant1 = filtered_ids[1], participant2 = filtered_ids[2], participant3 = filtered_ids[3])} 
   else {
@@ -97,13 +97,13 @@ test_data_run <- tibble(time = testdata$time, from = testdata$user, to = testdat
 data_prepared <- map_ids_to_integers(test_data_run, "from", "to")
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 edgelist_df = data_prepared$adjusted_df
 mapping_table = data_prepared$mapping_table
 id_rowvec = data_prepared$id_rowvec
 model1 <- rem.dyad(
   edgelist = edgelist_df ,
-  effects = c("RSndSnd", "RRecSnd", "CovSnd","PSAB-BA","PSAB-BY", "PSAB-XA", "PSAB-XB"), 
+  effects = c("RSndSnd", "RRecSnd", "CovSnd","PSAB-BA","PSAB-BY", "PSAB-XA", "PSAB-XB", "PSAB-AY"), 
   n = max(c(edgelist_df$from,edgelist_df$to)),
   covar = list(CovSnd = 1),
   ordinal = FALSE, 
@@ -113,17 +113,18 @@ model1 <- rem.dyad(
 summary(model1)
 
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------
 coef <- model1$par
 SE <- sqrt(diag(model1$cov))
 z_values <- coef / SE
 p_values <- 2 * pnorm(-abs(as.numeric(z_values)))
 AIC <- model1$AIC
 BIC <- model1$BIC
-team_id <- testdata$Team_id[1]
+team_id <- testdata$Team_id[3]
 round_number <- testdata$round[1]
-Vero_type <- testdata$condition[1]
-table <- cbind(Team_ID = team_id, Round_Number = round_number, Covariate = rownames(as.data.frame(model1$coef)), Estimate = coef, SE = SE, Z_value = z_values, p_value = p_values, Significant_at_0.001 = ifelse(p_values < 0.001, TRUE, FALSE), AIC = AIC, BIC = BIC, id_rowvec, Vero_type) # names of covariates
+Vero_type <- testdata$condition[3]
+file_name <- basename(file_path)
+table <- cbind(file_name, Team_ID = team_id, Round_Number = round_number, Covariate = rownames(as.data.frame(model1$coef)), Estimate = coef, SE = SE, Z_value = z_values, p_value = p_values, Significant_at_0.001 = ifelse(p_values < 0.001, TRUE, FALSE), Significant_at_0.05 = ifelse(p_values < 0.05, TRUE, FALSE), AIC = AIC, BIC = BIC, id_rowvec, Vero_type) # names of covariates
 
 # if (!is.null(table)) {
 #   print(head(table))

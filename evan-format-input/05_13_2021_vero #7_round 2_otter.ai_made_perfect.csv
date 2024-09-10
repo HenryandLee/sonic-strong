@@ -1,6 +1,4 @@
 file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
-05_13_2021_vero #7_round 2_otter.ai,12000,NA,12000,Vero 7  0:05,NA,NA,NA,NULL,2,NA,NA,NA,NA,2,NA,145,NA,NA,NA,NA,NA,NA
-05_13_2021_vero #7_round 2_otter.ai,12001,Vero,12000,"Hi, Tyler. It is so nice to meet you.",NA,NA,NA,12000,2,NA,NA,NA,NA,2,NA,NA,631,1,0,1,0,0
 05_13_2021_vero #7_round 2_otter.ai,12002,Participant 631,12000,"Oh, thanks Vero. I think you're muted there.",0,9,NA,12001,2,631,4_3_7,9,unleashed,2,FALSE,NA,"0,842","1,0","0,0","0,0","0,0","0,0"
 05_13_2021_vero #7_round 2_otter.ai,12003,Participant 842,12000,"Thank you. All right. Hi, vero. My name is Kathleen and my participant ID is 842",0,19,NA,12002,2,842,4_3_7,19,unleashed,2,FALSE,631,"631,0","1,0","0,0","0,0","0,0","0,0"
 05_13_2021_vero #7_round 2_otter.ai,12004,NA,12000,Vero 7  0:33,0,19,NA,12003,2,842,4_3_7,19,unleashed,2,FALSE,842,NA,NA,NA,NA,NA,NA

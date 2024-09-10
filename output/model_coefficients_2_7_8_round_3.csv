@@ -1,0 +1,9 @@
+file_name,Team_ID,Round_Number,Covariate,Estimate,SE,Z_value,p_value,Significant_at_0.001,Significant_at_0.05,AIC,BIC,participant1,participant2,participant3,Vero_type
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,RRecSnd,-0.200825587,0.286401608,-0.70120272,0.483176513,FALSE,FALSE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,RSndSnd,2.355607247,0.231299301,10.1842385,2.33E-24,TRUE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,CovSnd.1,-7.214129356,0.279369031,-25.82293865,4.90E-147,TRUE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,PSAB-BA,2.042484978,0.39321212,5.194359157,2.05E-07,TRUE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,PSAB-BY,1.003512197,0.31963408,3.139565709,0.001691985,FALSE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,PSAB-XA,1.182223244,0.290344205,4.071798997,4.67E-05,TRUE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,PSAB-XB,0.900872896,0.291076919,3.094965071,0.001968361,FALSE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork
+03_06_2021PM_vero #7_team_round3_otter.ai_made_perfect.csv,2_7_8,3,PSAB-AY,0.984262463,0.33717102,2.919178711,0.00350955,FALSE,TRUE,1471.964318,1494.590828,219,493,-1,teamwork

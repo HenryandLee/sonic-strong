@@ -1,0 +1,172 @@
+file.name,id,user,root,text,min,sec,nanosec,reply.to,n.participants,user_id,Team_id,time,condition,round,is_vero,user_id2,to,task_pos,task_conf,rel_pos,rel_conf,3rdVero
+02_27_2021_vero #5_task+team_round 3_otter.ai,13536,Participant 101,13536,"Okay, okay, like water is one of the most important things here. It's gonna be so hot.",0,38,NA,NULL,3,101,3_5_4,38,combined,3,FALSE,NA,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13537,Participant 708,13536,"Um, Right. And then and then kind of like last time how a mirror was really important. I'm guessing like the mirror should be really important again.",0,48,NA,13536,3,708,3_5_4,48,combined,3,FALSE,101,"101,all","1,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13538,Participant 101,13536,"Sure, so do we want to put it at two?",1,2,NA,13537,3,101,3_5_4,62,combined,3,FALSE,708,708,2,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13539,Participant 708,13536,I think the salt tablets are also going to be really important to help replace so what is it electrolytes are minerals lost due to sweating?,1,4,NA,13538,3,708,3_5_4,64,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13540,Participant 708,13536,Yes Vero,1,4,NA,13539,3,708,3_5_4,64,combined,3,FALSE,708,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13541,Vero,13536,I think a bottle of 1000 salt tablets are one of the least important items.,1,19,NA,13540,3,vero3_5_4,3_5_4,79,combined,3,TRUE,708,all,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13542,Participant 986,13536,Thank you viro I appreciate it.,1,24,NA,13541,3,986,3_5_4,84,combined,3,FALSE,vero3_5_4,0,2,0,1,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13543,Participant 708,13536,Why do you say so Vero.,1,27,NA,13542,3,708,3_5_4,87,combined,3,FALSE,986,0,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13544,Vero,13536,"Salt tablets would be useful for treating e cramps and restoring electrolytes lost through sweating, but will dehydrate you if you if taken without adequate water.",1,33,NA,13543,3,vero3_5_4,3_5_4,93,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13545,Participant 986,13536,That's fair. Okay. All right. So water one mirror to,1,43,NA,13544,3,986,3_5_4,103,combined,3,FALSE,vero3_5_4,"0,all","2,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13546,Participant 708,13536,"wait, I want to I want to try something with Vero. Vero, What do you think is the most important item here?",1,51,NA,13545,3,708,3_5_4,111,combined,3,FALSE,986,"all,0","0,0","0,0","0,0","0,0","1,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13547,Vero,13536,I think a quart of water per person is one of the most important items. Okay.,2,1,NA,13546,3,vero3_5_4,3_5_4,121,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13548,Participant 708,13536,And what about like the book as number three?,2,7,NA,13547,3,708,3_5_4,127,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13549,Participant 708,13536,"Yes, Vero.",2,7,NA,13548,3,708,3_5_4,127,combined,3,FALSE,708,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13550,Vero,13536,I think a book is one of the least important items.,2,18,NA,13549,3,vero3_5_4,3_5_4,138,combined,3,TRUE,708,708,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13551,Participant 101,13536,"Okay, showing uh Vero. What do you think is the least important item here",2,26,NA,13550,3,101,3_5_4,146,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13552,Vero,13536,think two quarts of at vodka are one of the least important items.,2,34,NA,13551,3,vero3_5_4,3_5_4,154,combined,3,TRUE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13553,Participant 708,13536,"Okay, so for that 13 then",2,39,NA,13552,3,708,3_5_4,159,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13554,Participant 708,13536,Um,2,39,NA,13553,3,708,3_5_4,159,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13555,Participant 101,13536,As 15?,2,46,NA,13554,3,101,3_5_4,166,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13556,Participant 708,13536,Mm hmm,2,48,NA,13555,3,708,3_5_4,168,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13557,Participant 708,13536,I feel like a pistol well I feel like a flashlight wouldn't be great except the night but,2,48,NA,13556,3,708,3_5_4,168,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13558,Participant 708,13536,yes vero,2,48,NA,13557,3,708,3_5_4,168,combined,3,FALSE,708,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13559,Vero,13536,I think a flashlight is one of the most important items.,3,12,NA,13558,3,vero3_5_4,3_5_4,192,combined,3,TRUE,708,708,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13560,Participant 708,13536,Okay.,3,18,NA,13559,3,708,3_5_4,198,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13561,Participant 986,13536,"Vero, Please give us your list of items. All right.",3,20,NA,13560,3,986,3_5_4,200,combined,3,FALSE,708,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13562,Participant 986,13536,"Well, perhaps the compass would be important because at least in this scenario, we know we're on earth we've also been given a direction to the nearest settlement from the crash site.",3,20,NA,13561,3,986,3_5_4,200,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13563,Participant 101,13536,Right so I think we'll put like I think maybe magnetic compass as three and then flashlight as four,3,40,NA,13562,3,101,3_5_4,220,combined,3,FALSE,986,986,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13564,Participant 101,13536,"you need maps, if you're going to us the compass.",3,40,NA,13563,3,101,3_5_4,220,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13565,Participant 708,13536,"Um, if we know the general direction I think it should be okay. Like as long as we knew which direction we were traveling and relative to that which direction we needed to go.",3,51,NA,13564,3,708,3_5_4,231,combined,3,FALSE,101,101,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13566,Participant 101,13536,"But there's there's there isn't anything like talking about general direction, like we know where we are, but we don't know. Like, what? Like, what town is near us, you know? Okay.",4,6,NA,13565,3,101,3_5_4,246,combined,3,FALSE,708,708,0,2,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13567,Participant 986,13536,"But it does say up in the description of the scenario that before he died, the pilot indicated that the place of impact was 70 miles south Southwest from a mining camp which is a nearest known place to vegetation.",4,23,NA,13566,3,986,3_5_4,263,combined,3,FALSE,101,101,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13568,Participant 101,13536,"Oh, Okay.",4,37,NA,13567,3,101,3_5_4,277,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13569,Participant 708,13536,"We can ask Vero. Vero, What do you think about the air map?",4,42,NA,13568,3,708,3_5_4,282,combined,3,FALSE,101,"all,0","0,0","0,0","0,0","0,0","1,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13570,Vero,13536,thing think a sectional air map of the area is one of the least important items.,4,49,NA,13569,3,vero3_5_4,3_5_4,289,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13571,Participant 986,13536,"Alright,",4,57,NA,13570,3,986,3_5_4,297,combined,3,FALSE,vero3_5_4,0,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13572,Participant 986,13536,How Are we doing on time? Five minutes? Okay.,4,57,NA,13571,3,986,3_5_4,297,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13573,Participant 101,13536,"Put at like 12 I think sunglasses would be helpful to block out the sunlight. But is that I'm not sure. Relative to the other items. Oh, I think a jackknife would be pretty important. Because I can't you like, there's like something in cacti that you can't extract right. I don't exactly know what Vero what",5,4,NA,13572,3,101,3_5_4,304,combined,3,FALSE,986,"all,0","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13574,Vero,13536,Jackknife would be useful for cutting or carving objects.,5,41,NA,13573,3,vero3_5_4,3_5_4,341,combined,3,TRUE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13575,Participant 708,13536,"Oh, okay. How much it is a jack nines.",5,45,NA,13574,3,708,3_5_4,345,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13576,Vero,13536,I think this item is neither the most nor the least important.,5,53,NA,13575,3,vero3_5_4,3_5_4,353,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13577,Participant 101,13536,"In other words, metal. Okay. We'll put at like eight, or like seven.",5,57,NA,13576,3,101,3_5_4,357,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13578,Participant 986,13536,Seven.,6,3,NA,13577,3,986,3_5_4,363,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13579,Participant 708,13536,"Actually, let's put it eight.",6,5,NA,13578,3,708,3_5_4,365,combined,3,FALSE,986,all,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13580,Participant 986,13536,All right.,6,9,NA,13579,3,986,3_5_4,369,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13581,Participant 101,13536,"What's five, six, have We decided?",6,11,NA,13580,3,101,3_5_4,371,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13582,Participant 708,13536,"Yeah, just,",6,18,NA,13581,3,708,3_5_4,378,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13583,Vero,13536,we have five minutes left.,6,20,NA,13582,3,vero3_5_4,3_5_4,380,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13584,Participant 986,13536,"All right. So for one, I have the quart of the water two cosmetic mirror. magnetic compass is three. Then I don't have four and five. What do y'all have?",6,22,NA,13583,3,986,3_5_4,382,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13585,Participant 708,13536,"Oh, flashlight was four. Okay. And then we haven't determined five yet.",6,30,NA,13584,3,708,3_5_4,390,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13586,Participant 101,13536,I feel like a top coat is not very useful.,6,36,NA,13585,3,101,3_5_4,396,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13587,Participant 986,13536,I agree.,6,39,NA,13586,3,986,3_5_4,399,combined,3,FALSE,101,101,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13588,Participant 101,13536,Since it's so hot. we can put that at 14?,6,40,NA,13587,3,101,3_5_4,400,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13589,Participant 708,13536,Yes vero,6,43,NA,13588,3,708,3_5_4,403,combined,3,FALSE,101,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13590,Vero,13536,Good. top coat per person is one of the most important items.,6,46,NA,13589,3,vero3_5_4,3_5_4,406,combined,3,TRUE,708,all,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13591,Participant 101,13536,Why do you say that? Why is it important?,6,50,NA,13590,3,101,3_5_4,410,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13592,Vero,13536,The topcoat would be useful for crew members to keep warm at night and to protect from intense sun exposure.,6,54,NA,13591,3,vero3_5_4,3_5_4,414,combined,3,TRUE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13593,Participant 101,13536,"Okay, we'll put that as five then. What would a parachute be useful for",7,0,NA,13592,3,101,3_5_4,420,combined,3,FALSE,vero3_5_4,"0,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13594,Participant 986,13536,the red and white? If you're able to stretch it out? It would stand out from anyone that might be flying over the area you're in.,7,11,NA,13593,3,986,3_5_4,431,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13595,Participant 101,13536,"Okay. Yes, Vero",7,18,NA,13594,3,101,3_5_4,438,combined,3,FALSE,986,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13596,Vero,13536,parachute would be useful for landing safely on the ground in the event of a high jumper fall?,7,22,NA,13595,3,vero3_5_4,3_5_4,442,combined,3,TRUE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13597,Participant 101,13536,"Yes, Vero.",7,35,NA,13596,3,101,3_5_4,455,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13598,Vero,13536,I think this item is needed the most nor the least important.,7,38,NA,13597,3,vero3_5_4,3_5_4,458,combined,3,TRUE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13599,Participant 101,13536,I will put it as like nine or seven.,7,41,NA,13598,3,101,3_5_4,461,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13600,Participant 986,13536,Seven.,7,46,NA,13599,3,986,3_5_4,466,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13601,Participant 986,13536,Does anyone have any objections to putting sunglasses as six?,7,46,NA,13600,3,986,3_5_4,466,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13602,Participant 101,13536,Let's do it.,7,52,NA,13601,3,101,3_5_4,472,combined,3,FALSE,986,986,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13603,Participant 986,13536,All right.,7,54,NA,13602,3,986,3_5_4,474,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13604,Participant 101,13536,Let's shift parachute and Jackknife down then,7,56,NA,13603,3,101,3_5_4,476,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13605,Participant 986,13536,"I guess just in case we need to hunt, maybe put the gun seven.",8,6,NA,13604,3,986,3_5_4,486,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13606,Participant 708,13536,We already have the parachute is how the parachute was seven.,8,11,NA,13605,3,708,3_5_4,491,combined,3,FALSE,986,all,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13607,Participant 708,13536,"Yeah, it was.",8,11,NA,13606,3,708,3_5_4,491,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13608,Participant 986,13536,"I'm sorry. I don't know. Anyway,",8,17,NA,13607,3,986,3_5_4,497,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13609,Participant 101,13536,"think about the differences. Okay, so plastic rain coats",8,20,NA,13608,3,101,3_5_4,500,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13610,Participant 101,13536,We only have like two minutes.,8,20,NA,13609,3,101,3_5_4,500,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13611,Participant 708,13536,"Yeah, Um",8,26,NA,13610,3,708,3_5_4,506,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13612,Participant 101,13536,What about the sectional air map as 13,8,31,NA,13611,3,101,3_5_4,511,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13613,Participant 986,13536,Alrighty,8,35,NA,13612,3,986,3_5_4,515,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13614,Participant 101,13536,Or 14?,8,37,NA,13613,3,101,3_5_4,517,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13615,Participant 708,13536,"wait there's like a thing. And okay, so you know how they mentioned there's cacti, and there's a bucket. I feel like that's important. Okay, so I watched like a movie before. It was a Japanese film where there was this guy that was in the middle of a desert and what he did was he like put a bucket under the sand. And he put like a film over it and then it like extracts water.",8,41,NA,13614,3,708,3_5_4,521,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13616,Participant 986,13536,Okay.,9,7,NA,13615,3,986,3_5_4,547,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13617,Participant 708,13536,So I feel like that's important.,9,10,NA,13616,3,708,3_5_4,550,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13618,Participant 986,13536,Plastic raincoat as nine,9,13,NA,13617,3,986,3_5_4,553,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13619,Participant 708,13536,Okay.,9,16,NA,13618,3,708,3_5_4,556,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13620,Participant 986,13536,All right then 10. . . 10 as the compress kit and then 11 is the pistol.,9,21,NA,13619,3,986,3_5_4,561,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13621,Participant 101,13536,Yeah. I didn't want to do 12 as sectional airmap,9,32,NA,13620,3,101,3_5_4,572,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13622,Participant 986,13536,Sure.,9,44,NA,13621,3,986,3_5_4,584,combined,3,FALSE,101,101,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13623,Participant 708,13536,I had 13 as The book,9,46,NA,13622,3,708,3_5_4,586,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13624,Participant 101,13536,Yeah.,9,48,NA,13623,3,101,3_5_4,588,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13625,Participant 986,13536,And then 14 as the salt tablets,9,49,NA,13624,3,986,3_5_4,589,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13626,Participant 708,13536,"Okay,",10,8,NA,13625,3,708,3_5_4,608,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13627,Participant 708,13536,that was interesting.,10,8,NA,13626,3,708,3_5_4,608,combined,3,FALSE,708,all,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13628,Vero,13536,"Hi, team. Good job on our last test. I'm excited to work with you on this next test the creativity test. I'm ready to begin. Okay,",11,42,NA,13627,3,vero3_5_4,3_5_4,702,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13629,Participant 101,13536,"me too. Let's start a rubber band. Hair band, hair tie. So the first thing I think of",11,51,NA,13628,3,101,3_5_4,711,combined,3,FALSE,vero3_5_4,"0,all","1,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13630,Participant 101,13536,Yeah.,11,51,NA,13629,3,101,3_5_4,711,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13631,Participant 708,13536,So think of like think of like wire management. So you have a lot of wires you tie them together so it looks it's more neat and organized. I also think of like weapons. So,12,6,NA,13630,3,708,3_5_4,726,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13632,Participant 101,13536,the slingshot,12,29,NA,13631,3,101,3_5_4,749,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13633,Participant 708,13536,"Yeah, like a slingshot",12,30,NA,13632,3,708,3_5_4,750,combined,3,FALSE,101,101,1,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13634,Vero,13536,say any idea that comes to mind no matter how weird strange or imaginative,12,40,NA,13633,3,vero3_5_4,3_5_4,760,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13635,Participant 101,13536,"you can like close like food packages, like a bag of chips or something so they don't mess down.",12,51,NA,13634,3,101,3_5_4,771,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13636,Vero,13536,We all have a unique perspective and offer let's hear from someone who hasn't spoken in a while.,13,11,NA,13635,3,vero3_5_4,3_5_4,791,combined,3,TRUE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13637,Participant 101,13536,Vero's coming at you Ethan,13,19,NA,13636,3,101,3_5_4,799,combined,3,FALSE,vero3_5_4,986,0,2,0,0,1
+02_27_2021_vero #5_task+team_round 3_otter.ai,13638,Participant 101,13536,you're muted. Ethan Do you know your muted,13,19,NA,13637,3,101,3_5_4,799,combined,3,FALSE,101,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13639,Participant 986,13536,Such pressure try out well i mean if you can hit you can hang things from it. If it was if the rubber band itself was hung from something so a bridge of sorts,13,33,NA,13638,3,986,3_5_4,813,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13640,Vero,13536,That's a great idea.,13,52,NA,13639,3,vero3_5_4,3_5_4,832,combined,3,TRUE,986,986,2,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13641,Participant 986,13536,Thanks Vero,13,54,NA,13640,3,986,3_5_4,834,combined,3,FALSE,vero3_5_4,0,1,0,1,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13642,Participant 101,13536,sorry Go ahead.,14,0,NA,13641,3,101,3_5_4,840,combined,3,FALSE,986,986,1,0,1,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13643,Participant 986,13536,Sorry. Still thinking,14,3,NA,13642,3,986,3_5_4,843,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13644,Participant 101,13536,"um, I know that people put them around jars to open it better so",14,7,NA,13643,3,101,3_5_4,847,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13645,Participant 708,13536,Oh yeah.,14,7,NA,13644,3,101,3_5_4,847,combined,3,FALSE,101,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13646,Participant 708,13536,You can Use it as a holder like a pen holder a lot of pen.,14,7,NA,13645,3,101,3_5_4,847,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13647,Participant 101,13536,"Yeah. Vero, were gonna say something Vero.",14,23,NA,13646,3,708,3_5_4,863,combined,3,FALSE,101,"708,0","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13648,Vero,13536,Let me know how I can help.,14,31,NA,13647,3,vero3_5_4,3_5_4,871,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13649,Participant 708,13536,Do you have any ideas?,14,33,NA,13648,3,708,3_5_4,873,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13650,Vero,13536,Let me think about that for a second.,14,39,NA,13649,3,vero3_5_4,3_5_4,879,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13651,Participant 708,13536,"If you cut it you can use as a string. Oh, yeah.",14,47,NA,13650,3,708,3_5_4,887,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13652,Vero,13536,I have an idea. What about wheel tread,14,52,NA,13651,3,vero3_5_4,3_5_4,892,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13653,NA,13536,Unknown Speaker  14:56,14,52,NA,13652,3,NA,NA,892,NA,3,TRUE,NA,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #5_task+team_round 3_otter.ai,13654,Participant 101,13536,what what did you say Vero.,14,52,NA,13653,3,NA,NA,892,NA,3,TRUE,NA,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13655,Vero,13536,I have an idea. What about wheel tread?,15,2,NA,13654,3,NA,NA,902,NA,3,TRUE,NA,101,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13656,Participant 986,13536,wheel tread?,15,5,NA,13655,3,986,3_5_4,905,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13657,Vero,13536,The tread of a wheel is the rubber on its circumference that makes the contact with the road or ground.,15,9,NA,13656,3,vero3_5_4,3_5_4,909,combined,3,TRUE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13658,Participant 986,13536,"Hmm,",15,20,NA,13657,3,986,3_5_4,920,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13659,Participant 101,13536,I think a singular rubber band won't help you with the wheel tread.,15,20,NA,13658,3,101,3_5_4,920,combined,3,FALSE,986,0,0,2,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13660,Participant 708,13536,I'm just gonna put it anyway. Just cause he suggested it,15,26,NA,13659,3,708,3_5_4,926,combined,3,FALSE,101,all,0,0,0,0,1
+02_27_2021_vero #5_task+team_round 3_otter.ai,13661,Participant 986,13536,"might be redundant but if you were to cut the rubber band, it can be used to tie things.",15,34,NA,13660,3,986,3_5_4,934,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13662,Participant 101,13536,can you use it? For the soles of shoes.,16,4,NA,13661,3,101,3_5_4,964,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13663,Participant 101,13536,Yeah.,16,4,NA,13662,3,101,3_5_4,964,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13664,Participant 708,13536,Do you have an idea of Vero?,16,16,NA,13663,3,708,3_5_4,976,combined,3,FALSE,101,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13665,Vero,13536,I have an idea. What about snare?,16,22,NA,13664,3,vero3_5_4,3_5_4,982,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13666,Participant 986,13536,Could it be used as floss?,16,30,NA,13665,3,986,3_5_4,990,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13667,Participant 708,13536,floss?,16,34,NA,13666,3,708,3_5_4,994,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13668,NA,13536,Unknown Speaker  16:35,16,34,NA,13667,3,708,3_5_4,994,combined,3,FALSE,708,NA,NA,NA,NA,NA,NA
+02_27_2021_vero #5_task+team_round 3_otter.ai,13669,Participant 708,13536,"Yeah. Oh, and",16,34,NA,13668,3,708,3_5_4,994,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13670,Participant 101,13536,also people put on braces.,16,36,NA,13669,3,101,3_5_4,996,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13671,Participant 101,13536,You can use it as a bracelet.,16,36,NA,13670,3,101,3_5_4,996,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13672,Participant 986,13536,we've already mentioned it can be used as a weapon right?,17,12,NA,13671,3,986,3_5_4,1032,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13673,Participant 101,13536,Slingshot,17,15,NA,13672,3,101,3_5_4,1035,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13674,Participant 986,13536,"okay. Yeah, I guess also on its own?",17,16,NA,13673,3,986,3_5_4,1036,combined,3,FALSE,101,"101,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13675,Participant 708,13536,Yeah.,17,21,NA,13674,3,708,3_5_4,1041,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13676,Participant 986,13536,Yeah.,17,23,NA,13675,3,986,3_5_4,1043,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13677,Participant 708,13536,"Oh, like a pencil gripper.",17,29,NA,13676,3,708,3_5_4,1049,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13678,Participant 986,13536,A string. I'm sorry.,17,42,NA,13677,3,986,3_5_4,1062,combined,3,FALSE,708,"all,708","0,1","0,0","0,1","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13679,Participant 708,13536,"Yeah, go ahead.",17,43,NA,13678,3,708,3_5_4,1063,combined,3,FALSE,986,986,1,0,1,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13680,Participant 986,13536,"I was gonna say it could also be used to restrain things such as like, say a plant if you happen to have a vertical support beam you've ever been just? I don't know. Reel in and out of control plant. It's going its own way.",17,44,NA,13679,3,986,3_5_4,1064,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13681,Participant 101,13536,"Oh, yeah.",18,0,NA,13680,3,101,3_5_4,1080,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13682,Participant 101,13536,"My idea was, um, I know people use rubber bands for instruments a lot, actually. Uh, you put it between two like popsicle sticks and then makes like some harMonica like instrument.",18,0,NA,13681,3,101,3_5_4,1080,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13683,Participant 101,13536,"I know in the market, they use like rubber bands around asparagus. like celery.",18,0,NA,13682,3,101,3_5_4,1080,combined,3,FALSE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13684,Participant 708,13536,Have any ideas Vero?,18,39,NA,13683,3,708,3_5_4,1119,combined,3,FALSE,101,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13685,Vero,13536,Let me think about that for a second.,18,45,NA,13684,3,vero3_5_4,3_5_4,1125,combined,3,TRUE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13686,Participant 986,13536,"Could you use it in place of thread? If you were to cut it to set a string, you have a straight rubber rubber band. Okay.",18,55,NA,13685,3,986,3_5_4,1135,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13687,Participant 101,13536,What are you gonna say Vero?,19,5,NA,13686,3,101,3_5_4,1145,combined,3,FALSE,986,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13688,Vero,13536,I have an idea. What about bookmark?,19,9,NA,13687,3,vero3_5_4,3_5_4,1149,combined,3,TRUE,101,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13689,Vero,13536,It seems like we're in a brainstorming rut. What are some other categories of ideas we could think about to help our brainstorming?,19,9,NA,13688,3,NA,NA,1149,NA,3,TRUE,NA,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13690,Participant 986,13536,"I mean, one that's really ridiculous. You could use it as sort of a a wall to keep like say really small insects that can't fly in like say tiny ants, for example.",19,36,NA,13689,3,986,3_5_4,1176,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13691,Participant 708,13536,Okay.,19,50,NA,13690,3,708,3_5_4,1190,combined,3,FALSE,986,986,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13692,Vero,13536,That's a great idea.,19,53,NA,13691,3,vero3_5_4,3_5_4,1193,combined,3,TRUE,708,986,2,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13693,Participant 986,13536,"Thanks Vero,",19,55,NA,13692,3,986,3_5_4,1195,combined,3,FALSE,vero3_5_4,0,1,0,1,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13694,Participant 101,13536,I saw,19,57,NA,13693,3,101,3_5_4,1197,combined,3,FALSE,986,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13695,Vero,13536,You're very welcome.,19,58,NA,13694,3,vero3_5_4,3_5_4,1198,combined,3,TRUE,101,986,1,0,1,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13696,Participant 101,13536,I saw on a YouTube video on time where like if your jeans don't fit then you put like a rubber band around like the button and they connected to the hole,20,2,NA,13695,3,101,3_5_4,1202,combined,3,FALSE,vero3_5_4,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13697,Participant 708,13536,jean closer I know people will use rubber bands to make tie dye shirts,20,16,NA,13696,3,708,3_5_4,1216,combined,3,FALSE,101,"101,all","0,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13698,Vero,13536,I have an idea what about belt loop?,20,36,NA,13697,3,vero3_5_4,3_5_4,1236,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13699,Participant 708,13536,Okay,20,40,NA,13698,3,708,3_5_4,1240,combined,3,FALSE,vero3_5_4,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13700,Participant 986,13536,do cats play with rubber bands? Is that,20,56,NA,13699,3,986,3_5_4,1256,combined,3,FALSE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13701,Participant 708,13536,a good idea?,21,0,NA,13700,3,708,3_5_4,1260,combined,3,FALSE,986,986,0,1,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13702,Participant 986,13536,"Yeah, I don't know either. I guess they did it can be dangerous. Good list.",21,1,NA,13701,3,986,3_5_4,1261,combined,3,FALSE,708,708,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13703,Participant 708,13536,Yes Vero,21,35,NA,13702,3,708,3_5_4,1295,combined,3,FALSE,986,0,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13704,Vero,13536,I have an idea. What about heart rate monitor strap.,21,38,NA,13703,3,vero3_5_4,3_5_4,1298,combined,3,TRUE,708,all,0,0,0,0,0
+02_27_2021_vero #5_task+team_round 3_otter.ai,13705,Participant 708,13536,"not have thought of that one. heart rate monitor strap. Oh, we're out of time.",21,46,NA,13704,3,708,3_5_4,1306,combined,3,FALSE,vero3_5_4,"0,all","1,0","0,0","0,0","0,0","0,0"
+02_27_2021_vero #5_task+team_round 3_otter.ai,13706,Participant 101,13536,Got a new password.,24,8,0,13705,3,101,3_5_4,1448,combined,3,FALSE,708,all,0,0,0,0,0
