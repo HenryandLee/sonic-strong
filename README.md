@@ -11,7 +11,7 @@ TODO:
 2. Create rundirectory.bat for complete reproducibility. 
 
 Naming convention in *Evan's Google drive folder*: 
-1. <filename>_made_perfect: all commas and zeros have been filled for all entries
+1. <filename>_ made_perfect: all commas and zeros have been filled for all entries
 2. ignore "<submission>-corrected" folders
 
 MatchAndSplitAmongRaters.R
@@ -27,7 +27,7 @@ REM0407.R
 raw sheet (from Henry's labeling folder) --> perfect sheet (as in Evan's folder) --> 
 run REM (JeffreyREM.R) --> store coefficients (z-score, etc.) in a corresponding sheet --> 
 
-match team and person id using "user names and ids" in *Simon-analysis" with scores 
+match team and person id using "user names and ids" in "Simon-analysis" with scores 
 "all performance scores Feb 2023", say "fluency_team_1", regress creativity scores on coefficients from coefficient sheet 
 
 Vero type info is identifiable by condition column. Round is identifiable by file.name column. 
